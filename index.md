@@ -20,7 +20,7 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * * *
 
 ## Education
-* **Ph.d. Candidate** (Sep. 2015 - Present) \\
+* **Ph.D. Candidate** (Sep. 2015 - Present) \\
   Department of Computer Science and Engineering  \\
   Seoul National University \\
   Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/) 
@@ -143,7 +143,7 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * * *
 
 ## Patents
-* **Method and Apparatusfor Fast Personalized Ranking Using Block Elimination in Signed Social Networks** \\
+* **Method and Apparatus for Fast Personalized Ranking Using Block Elimination in Signed Social Networks** \\
   **Jinhong Jung**, Woojeong Jin, and U Kang \\
   *Application number*: 10-2018-0149677 (filed on Nov. 28, 2018)
 * **Method and Apparatus for Measuring Relevance Between Nodes of Edge-labeled Multigraph** \\
