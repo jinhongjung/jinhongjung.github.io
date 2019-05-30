@@ -89,6 +89,7 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
   [[WWW]](http://datalab.snu.ac.kr/bepi)
   [[CODE]](https://datalab.snu.ac.kr/bepi/resources/BePI_matlab_v1.1.tar.gz)
   [[LINK]](https://dl.acm.org/citation.cfm?id=3035950)
+  [[SLIDES]](https://datalab.snu.ac.kr/~jinhong/slides/bepiSIGMOD2017.pptx)
 * **Personalized Ranking in Signed Networks using Signed Random Walk with Restart** \\
   **Jinhong Jung**, Woojung Jin, Lee Sael, and U Kang \\
   IEEE International Conference on Data Mining ([ICDM](http://icdm2016.eurecat.org/)) 2016, Barcelona, Spain \\
@@ -97,6 +98,7 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
   [[WWW]](http://datalab.snu.ac.kr/srwr)
   [[CODE]](https://datalab.snu.ac.kr/srwr/resources/SRWR-v1.2.zip)
   [[LINK]](https://ieeexplore.ieee.org/abstract/document/7837935)
+  [[SLIDES]](http://datalab.snu.ac.kr/~jinhong/slides/srwrICDM2016.pptx)
 * **Random Walk with Restart on Large Graphs Using Block Elimination** \\
   **Jinhong Jung**, Kijung Shin, Lee Sael, and U Kang \\
   ACM Transactions on Database Systems ([TODS](http://tods.acm.org/)), vol. 41, issue 2, pp. 12:1-12:43, June 2016 \\
