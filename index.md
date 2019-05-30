@@ -5,10 +5,14 @@ layout: default
 # About
 I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul National University. I am currently advised by Prof. U Kang. I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and Engineering at Chonbuk National University. 
 
+* * *
+
 ## Research Interest
 * Large-scale and complex graph mining 
 * Social network analysis
 * Question and answering systems over graphs
+
+* * *
 
 ## Education
 * **Ph.d. Candidate** (Sep. 2015 - Present) \\
@@ -23,6 +27,8 @@ I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul Nationa
   Department of Computer Science and Engineering  \\
   Chonbuk National University \\
   Advisor: [Prof. Il-Seok Oh](http://cv.jbnu.ac.kr/index.php?mid=professor)
+
+* * *
 
 ## Publications
 * **Random Walk Based Ranking in Signed Social Networks: Model and Algorithms** \\
@@ -95,13 +101,15 @@ I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul Nationa
   [[CODE]]()
   [[LINK]]()
 * **BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs** \\
-  ACM International Conference on Management of Data ([SIGMOD](http://www.sigmod2015.org/)) 2015, Melbourne, Australia 
+  ACM International Conference on Management of Data ([SIGMOD](http://www.sigmod2015.org/)) 2015, Melbourne, Australia \\
   Kijung Shin, **Jinhong Jung**, Lee Sael, and U Kang \\
   [[PDF]](http://datalab.snu.ac.kr/~ukang/papers/bearSIGMOD2015.pdf)
   [[BIB]](http://datalab.snu.ac.kr/~ukang/papers/bearSIGMOD2015.bib)
   [[WWW]](http://datalab.snu.ac.kr/bear)
   [[CODE]]()
   [[LINK]]()
+
+* * *
 
 ## Awards & Honors
 * **BK21 Plus Excellent Research Award** (Aug. 2018) \\
@@ -125,6 +133,8 @@ I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul Nationa
 * **National Science & Technology Scholarship** (2012 - 2013) \\
   Korea Student Aid Foundation
 
+* * *
+
 ## Patents
 * **Method and Apparatusfor Fast Personalized Ranking Using Block Elimination in Signed Social Networks** \\
   **Jinhong Jung**, Woojeong Jin, and U Kang \\
@@ -132,12 +142,27 @@ I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul Nationa
 * **Method and Apparatus for Measuring Relevance Between Nodes of Edge-labeled Multigraph** \\
   **Jinhong Jung**, Woojeong Jin, Ha-Myung Park, and U Kang \\
   *Application number*: 10-2018-0150180 (filed on Nov. 28, 2018)
+* **Apparatus and Method For Processing Data** \\
+  Jun-Gi Jang, Dongjin Choi, **Jinhong Jung**, and U Kang \\
+  *Application number*: 10-2018-0007389 (filed on Jan. 19, 2018)
+
+* * *
+
+## Professional Services
+### Conference Reviews
+* **KDD** (ACM SIGKDD Conference of Knowledge Discovery and Data Mining), [2016, 2017, 2018, 2019]
+
+* * *
+  
+## Teaching Experience
+* M2177.004900 **Theory and Lab of IoT, AI, and Big Data** (Spring 2019) \\
+  Seoul National University
+
   
 
-  
 
 
-
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -257,3 +282,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
