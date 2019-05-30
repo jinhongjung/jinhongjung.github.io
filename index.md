@@ -116,7 +116,7 @@ I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul Nationa
   Seoul National University
 * **Humantech Paper Award**, *Honorable Mention, Co-author* (Feb. 2018) \\
   Samsung Electronics
-* **Humantech Paper Award**, *Silver Prize, Co-author* (Feb. 2017) \\
+* **Humantech Paper Award**, *Silver Prize* (Feb. 2017) \\
   Samsung Electronics
 * **Global Ph.D. Fellowship Program** (Mar. 2016 - Feb. 2019) \\
   National Research Foundation of Korea
