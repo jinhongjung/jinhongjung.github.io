@@ -2,11 +2,10 @@
 layout: post
 title: "Bounds of Eigenvalues of Laplacian Matrix"
 date: 2019-05-31
-categories: [Spectral Graph Theory]
 author: Jinhong Jung
+categories: [Math Snippets]
+tags: [spectral-graph-theory, laplacian]
 ---
-
-**This is a test post!**
 
 In this post, we will prove the bounds of eigenvalues of Laplacian matrix which is frequently appeared in spectral graph analysis. 
 More specifically, those bounds are described as follows:
@@ -41,3 +40,5 @@ where $R(\mathcal{A}, \mathbf{x})$ is called Reighley quotient.
 
 
 ## References
+
+

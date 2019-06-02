@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_post
 ---
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
@@ -10,5 +10,10 @@ layout: default
 {{content}}
 
 {% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+  <small>tags: <em>{{ page.tags | join: "</em>; <em>" }}</em></small>
 {% endif %}
+
+<p></p>
+<hr>
+
+<p><a href="/posts">[back]</a></p>

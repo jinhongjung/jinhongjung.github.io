@@ -1,25 +1,30 @@
 ---
-layout: default
+layout: default_post
 title: Posts
 ---
 
 <h1>Posts</h1>
+<hr>
 
-<section class="archive_list">
-	{% for category in site.categories %}
+{% for category in site.categories %}
 
-	<div class="category-name">
-		<h2>{{ category | first }}</h2>
-	</div>
-	{% for post in category.last %}
+<div class="category-name">
+	<h2>{{ category | first }}</h2>
+</div>
+{% for post in category.last %}
 
-	<div class="post_title">
-		<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
-		<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
-	</div>
+<div class="post_title">
+	<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
+	<span class="date">{{ post.date | date: "%-d %b, %Y" }}</span>
+</div>
 
-	{% endfor %}
+<p></p>
 
-	{% endfor %}
+<hr>
 
-</section>
+{% endfor %}
+
+{% endfor %}
+
+<!--<section class="archive_list">-->
+<!--</section>-->

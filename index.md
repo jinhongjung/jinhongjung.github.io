@@ -4,7 +4,7 @@ layout: default
 
 # About Me
 I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul National University. 
-My research interests include large-scale data and graph mining and social network analysis.
+My research interests include graph mining and social network analysis.
 I am currently advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
 I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and Engineering at Chonbuk National University. 
 
@@ -13,9 +13,9 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * * *
 
 ## Research Interests
-* Large-scale and complex graph mining 
+* Large-scale graph mining 
 * Social network analysis
-* Question and answering systems over graphs
+* Question answering over graphs
 
 * * *
 
