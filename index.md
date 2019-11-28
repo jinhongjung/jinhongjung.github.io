@@ -36,6 +36,14 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * * *
 
 ## Publications
+* **BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks** \\
+  **Jinhong Jung**, Ha-Myung Park, and U Kang \\
+  International Conference on Extending Database Technology ([EDBT](https://diku-dk.github.io/edbticdt2020)) 2020, Copenhagen, Denmark (to appear) \\
+  [[PDF]]()
+  [[BIB]]() 
+  [[WWW]]()
+  [[CODE]]()
+  [[LINK]]()
 * **Random Walk Based Ranking in Signed Social Networks: Model and Algorithms** \\
   **Jinhong Jung**, Woojeong Jin, and U Kang \\
   Knowledge and Information Systems ([KAIS](http://link.springer.com/journal/10115)), pp. 1-40, May. 2019 \\
@@ -143,6 +151,9 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * * *
 
 ## Patents
+* **Apparatus and Method for Generating Signed Network** \\
+  **Jinhong Jung**, Ha-Myung Park, and U Kang \\
+  *Application number*: 10-2019-0146716 (filed on Nov. 15 2019)
 * **Method and Apparatus for Fast Personalized Ranking Using Block Elimination in Signed Social Networks** \\
   **Jinhong Jung**, Woojeong Jin, and U Kang \\
   *Application number*: 10-2018-0149677 (filed on Nov. 28, 2018)
@@ -157,7 +168,8 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
   *PCT application number*: PCT/KR2017/012962 (filed on Nov. 18, 2017)
 * **Method and Apparatus for Providing Supervised and Extended Restart in Random Walks for Ranking and Link Prediction in Networks** \\
   Woojeong Jin, **Jinhong Jung**, and U Kang \\
-  *Application number*: 10-2017-0149941 (filed on Nov. 10, 2017)
+  *Application number*: 10-2017-0149941 (filed on Nov. 10, 2017) \\
+  *Registration number*: 10-2048442 (registered on Nov. 19, 2019) 
 * **Method for Personalized Ranking in Signed Networks, Recording Medium And Device for Performing the Method** \\
   **Jinhong Jung**, Woojeong Jin, and U Kang \\
   *Application number*: 10-2017-0005485 (filed on Jan. 12, 2017) \\
@@ -183,22 +195,26 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * **WSDM** (International Conference on Web Search and Data Mining)
   [2018, 2019]
 * **ICDM** (IEEE International Conference on Data Mining) 
-  [2015, 2016, 2017, 2018]
+  [2015, 2018, 2019]
 * **CIKM** (International Conference on Information and Knowledge Management) 
-  [2016, 2017, 2018]
-* **SAC** (Symposium on Applied Computing) 
   [2016, 2017, 2018, 2019]
+* **SAC** (Symposium on Applied Computing) 
+  [2016, 2017, 2018, 2019, 2020]
 * **BigComp** (International Conference on Big Data and Smart Computing) 
-  [2016, 2018]
+  [2016, 2018, 2020]
 * **ECML/PKDD** (European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases) 
   [2016, 2017]
 * **DSAA** (International Conference on Data Science and Advanced Analytics) 
   [2016]
+* **BigData** (International Conference on Big Data)
+  [2015]
 
 * * *
   
 ## Teaching Experiences
 ### Teaching Assistant
+* M2177.004900 **Theory and Lab of IoT, AI, and Big Data** (Fall 2019) \\
+  Seoul National University
 * M2177.004900 **Theory and Lab of IoT, AI, and Big Data** (Spring 2019) \\
   Seoul National University
 * M2177.004900 **Theory and Lab of IoT, AI, and Big Data** (Fall 2018) \\
