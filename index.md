@@ -39,7 +39,7 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * **Random Walk-based Large Graph Mining Exploiting Real-world Graph Properties** \\
   **Jinhong Jung** \\
   Ph.D. Dissertation, 2020 \\
-  [[PDF]](https://jinhongjung.github.io/assets/papers/thesis.pdf)
+  [[PDF]]()
   [[SLIDES]]()
 * **BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks** \\
   **Jinhong Jung**, Ha-Myung Park, and U Kang \\
