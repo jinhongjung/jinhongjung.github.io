@@ -3,10 +3,11 @@ layout: default
 ---
 
 # About Me
-I am a Ph.D. candidate majoring in Computer Science Engineering at Seoul National University. 
+I am a postdoctoral researcher at [Data Mining Lab.](https://datalab.snu.ac.kr) from Seoul National University.
+I received my Ph.D. in Computer Science and Engineering from Seoul National University, 
+where I was advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
+I received M.S. in Computer Science from KAIST, and B.S. in Computer Science and Engineering from Chonbuk National University. 
 My research interests include graph mining and social network analysis.
-I am currently advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
-I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and Engineering at Chonbuk National University. 
 
 
 
@@ -15,12 +16,12 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 ## Research Interests
 * Large-scale graph mining 
 * Social network analysis
-* Question answering over graphs
+* Graph neural networks
 
 * * *
 
 ## Education
-* **Ph.D. Candidate** (Sep. 2015 - Present) \\
+* **Doctor of Philosophy** (Feb. 2020) \\
   Department of Computer Science and Engineering  \\
   Seoul National University \\
   Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/) 
@@ -39,7 +40,7 @@ I received M.S. in Computer Science at KAIST, and B.S. in Computer Science and E
 * **Random Walk-based Large Graph Mining Exploiting Real-world Graph Properties** \\
   **Jinhong Jung** \\
   Ph.D. Dissertation, 2020 \\
-  [[PDF]]()
+  [[PDF]](https://jinhongjung.github.io/assets/papers/thesis.pdf)
   [[SLIDES]]()
 * **BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks** \\
   **Jinhong Jung**, Ha-Myung Park, and U Kang \\
