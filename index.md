@@ -37,6 +37,14 @@ My research interests include graph mining and social network analysis.
 * * *
 
 ## Publications
+* **Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart**\\
+  **Jinhong Jung**, Woojeong Jin, Ha-myung Park, U Kang \\
+  World Wide Web Journal ([WWWJ]()), 2020 (to appear) \\
+  [[PDF]]()
+  [[BIB]]() 
+  [[WWW]]()
+  [[CODE]]()
+  [[LINK]]()
 * **Random Walk-based Large Graph Mining Exploiting Real-world Graph Properties** \\
   **Jinhong Jung** \\
   Ph.D. Dissertation, 2020 \\
@@ -44,12 +52,15 @@ My research interests include graph mining and social network analysis.
   [[SLIDES]](https://jinhongjung.github.io/assets/slides/thesis.pdf)
 * **BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks** \\
   **Jinhong Jung**, Ha-Myung Park, and U Kang \\
-  International Conference on Extending Database Technology ([EDBT](https://diku-dk.github.io/edbticdt2020)) 2020, Copenhagen, Denmark (to appear) \\
-  [[PDF]]()
-  [[BIB]]() 
-  [[WWW]]()
-  [[CODE]]()
+  International Conference on Extending Database Technology ([EDBT](https://diku-dk.github.io/edbticdt2020)) 2020, Copenhagen, Denmark \\
+  [[PDF]](https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.pdf)
+  [[SLIDES]](https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib)
+  [[BIB]](https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib) 
+  [[WWW]](https://datalab.snu.ac.kr/balansing/)
+  [[c++]](https://datalab.snu.ac.kr/balansing/resources/balansing-cpp-v1.0.zip)
+  [[spark]](https://datalab.snu.ac.kr/balansing/resources/balansing-spark-v1.0.zip)
   [[LINK]]()
+  [[BLOG]](https://snudmlab.blogspot.com/2020/01/balansing-fast-and-scalable-generation.html)
 * **Random Walk Based Ranking in Signed Social Networks: Model and Algorithms** \\
   **Jinhong Jung**, Woojeong Jin, and U Kang \\
   Knowledge and Information Systems ([KAIS](http://link.springer.com/journal/10115)), pp. 1-40, May. 2019 \\
