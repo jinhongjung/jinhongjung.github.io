@@ -3,20 +3,12 @@ layout: default
 ---
 
 # About Me
-I am a postdoctoral researcher at [Data Mining Lab.](https://datalab.snu.ac.kr) from Seoul National University.
+I am an Assistant Professor in Division of Computer Science and Engineering at Jeonbuk National University.
 I received my Ph.D. in Computer Science and Engineering from Seoul National University, 
 where I was advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
-I received M.S. in Computer Science from KAIST, and B.S. in Computer Science and Engineering from Chonbuk National University. 
-My research interests include graph mining and social network analysis.
-
-
-
-* * *
-
-## Research Interests
-* Large-scale graph mining 
-* Social network analysis
-* Graph neural networks
+I received M.S. in Computer Science from KAIST, and B.S. in Computer Science and Engineering from Jeonbuk National University. 
+I was a postdoctoral researcher at [Data Mining Lab.](https://datalab.snu.ac.kr) from Seoul National University.
+My research interests include data science, large-scale graph mining, and machine learning with graphs.
 
 * * *
 
