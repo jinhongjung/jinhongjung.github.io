@@ -16,14 +16,14 @@ My research interests include data science, large-scale graph mining, and machin
 * **Doctor of Philosophy** (Feb. 2020) \\
   Department of Computer Science and Engineering  \\
   Seoul National University \\
-  Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/) 
+  <!--Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/)-->
 * **Master of Science** (Aug. 2015) \\
   Computer Science \\
   Korea Advanced Institute of Science and Technology \\
-  Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/) 
+  <!--Advisor: [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/)-->
 * **Bachelor of Science** (Feb. 2014) \\
   Department of Computer Science and Engineering  \\
-  Chonbuk National University \\
+  Jeonbuk National University \\
   <!--Advisor: [Prof. Il-Seok Oh](http://cv.jbnu.ac.kr/index.php?mid=professor)-->
 
 * * *
@@ -239,6 +239,7 @@ My research interests include data science, large-scale graph mining, and machin
 * CS996 **Fall Colloquium** (Fall 2014) \\
   Korea Advanced Institute of Science and Technology 
   
+<!--
 * * *
 ## Invited Talks
 * **Fast Random Walk with Restart on Large Graphs using Block Elimination** (Jul. 2016) \\
@@ -251,7 +252,6 @@ My research interests include data science, large-scale graph mining, and machin
 
 
 
-<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
