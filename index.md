@@ -34,7 +34,7 @@ My research interests include data science, large-scale graph mining, and machin
   Machine Learning, 2020 (to appear) \\
 * **Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart**\\
   **Jinhong Jung**, Woojeong Jin, Ha-myung Park, U Kang \\
-  World Wide Web Journal ([WWWJ]()), 2020 (to appear) \\
+  World Wide Web Journal ([WWWJ]()), 2020 \\
   [[PDF]]()
   [[BIB]]() 
   [[WWW]]()
