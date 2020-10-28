@@ -31,7 +31,7 @@ My research interests include data science, large-scale graph mining, and machin
 ## Publications
 * **Fast and accurate pseudoinverse with sparse matrix reordering and incremental approach**\\
   **Jinhong Jung** and Lee Sael \\
-  Machine Learning, 2020 (to appear) \\
+  Machine Learning, 2020 (to appear)
 * **Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart**\\
   **Jinhong Jung**, Woojeong Jin, Ha-myung Park, U Kang \\
   World Wide Web Journal ([WWWJ]()), 2020 \\
