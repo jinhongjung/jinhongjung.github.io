@@ -10,6 +10,8 @@ I received M.S. in Computer Science from KAIST, and B.S. in Computer Science and
 I was a postdoctoral researcher at [Data Mining Lab.](https://datalab.snu.ac.kr) from Seoul National University.
 My research interests include data science, large-scale graph mining, and machine learning with graphs.
 
+I am looking for self-motivated graduate students and undergraduate students. Click [here](https://jinhongjung.github.io/recruitment/) if you're interested!
+
 * * *
 
 ## Education
