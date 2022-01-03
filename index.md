@@ -7,10 +7,12 @@ I am an Assistant Professor in Division of Computer Science and Engineering at J
 I received my Ph.D. in Computer Science and Engineering from Seoul National University, 
 where I was advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
 I received M.S. in Computer Science from KAIST, and B.S. in Computer Science and Engineering from Jeonbuk National University. 
-I was a postdoctoral researcher at [Data Mining Lab.](https://datalab.snu.ac.kr) from Seoul National University.
+I was a postdoctoral researcher at the Data Mining Lab. from Seoul National University.
 My research interests include data science, large-scale graph mining, and machine learning with graphs.
 
-I am looking for self-motivated graduate students and undergraduate students. Click [here](https://jinhongjung.github.io/recruitment/) if you're interested!
+I lead the [Data Science Lab.](https://jbnu-dslab.github.io/) at JBNU.
+
+I am looking for self-motivated graduate students and undergraduate students. Click [here](https://jbnu-dslab.github.io/recruitment/) if you're interested!
 
 * * *
 
@@ -31,6 +33,24 @@ I am looking for self-motivated graduate students and undergraduate students. Cl
 * * *
 
 ## Publications
+* **Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion** \\
+  Jaehun Jung, **Jinhong Jung** and U Kang \\
+  ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2021 \\
+  [[PDF]](https://jbnu-dslab.github.io/assets/resources/papers/tgapKDD21.pdf)
+  [[BIB]](https://jbnu-dslab.github.io/assets/resources/bibtex/tgapKDD21.bib)
+  [[CODE]](https://github.com/sharkmir1/T-GAP)
+* **Compressing Deep Graph Convolution Network With Multi-staged Knowledge Distillation**\\
+  Junghun Kim, **Jinhong Jung** and U Kang \\
+  PLoS ONE 16(8): e0256187 2021 \\
+  [[PDF]](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256187&type=printable)
+  [[BIB]](https://jbnu-dslab.github.io/assets/resources/bibtex/mustadPLOS21.bib)
+  [[CODE]](https://github.com/snudatalab/MustaD)
+* **Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental Approach**\\
+  **Jinhong Jung** and Lee Sael \\
+  Machine Learning 109: 2333–2347 2021\\
+  [[PDF]](https://link.springer.com/content/pdf/10.1007/s10994-020-05920-5.pdf)
+  [[BIB]](https://dblp.org/rec/journals/ml/JungS20.html?view=bibtex) 
+  [[SLIDES]](https://jbnu-dslab.github.io/assets/resources/slides/fastpiACML20.pdf)
 * **Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart**\\
   **Jinhong Jung**, Woojeong Jin, Ha-myung Park, U Kang \\
   World Wide Web Journal ([WWWJ]()), 2020 \\
