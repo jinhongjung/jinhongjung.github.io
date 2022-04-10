@@ -8,11 +8,9 @@ I received my Ph.D. in Computer Science and Engineering from Seoul National Univ
 where I was advised by [Prof. U Kang](https://datalab.snu.ac.kr/~ukang/). 
 I received M.S. in Computer Science from KAIST, and B.S. in Computer Science and Engineering from Jeonbuk National University. 
 I was a postdoctoral researcher at the Data Mining Lab. from Seoul National University.
-My research interests include data science, large-scale graph mining, and machine learning with graphs.
+My research interests include graph machine learning, large-scale graph analytics, and applied data science.
 
 I lead the [Data Science Lab.](https://jbnu-dslab.github.io/) at JBNU.
-
-I am looking for self-motivated graduate students and undergraduate students. Click [here](https://jbnu-dslab.github.io/recruitment/) if you're interested!
 
 * * *
 
@@ -33,6 +31,12 @@ I am looking for self-motivated graduate students and undergraduate students. Cl
 * * *
 
 ## Publications
+* **Signed Random Walk Diffusion for Effective Representation Learning in Signed Graphs** \\
+  **Jinhong Jung**, Jaemin Yoo, and U Kang \\
+  PLoS ONE 16(8): e0256187 2021 \\
+  [[PDF]](https://jbnu-dslab.github.io/assets/resources/papers/sidnetPLOS22.pdf)
+  [[BIB]]()
+  [[CODE]](https://github.com/snudatalab/SidNet)
 * **Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion** \\
   Jaehun Jung, **Jinhong Jung** and U Kang \\
   ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) 2021 \\
@@ -158,6 +162,8 @@ I am looking for self-motivated graduate students and undergraduate students. Cl
 * * *
 
 ## Awards & Honors
+* **AAAI-21 Outstanding Program Committee Award** (Feb. 2021) \\
+  AAAI
 * **BK21 Plus Excellent Research Award** (Aug. 2018) \\
   Seoul National University
 * **Humantech Paper Award**, ***Honorable Mention**, Co-author* (Feb. 2018) \\
@@ -242,6 +248,7 @@ I am looking for self-motivated graduate students and undergraduate students. Cl
 
 * * *
   
+<!--
 ## Teaching Experiences
 ### Teaching Assistant
 * M2177.004900 **Theory and Lab of IoT, AI, and Big Data** (Fall 2019) \\
@@ -260,6 +267,7 @@ I am looking for self-motivated graduate students and undergraduate students. Cl
   Korea Advanced Institute of Science and Technology 
 * CS996 **Fall Colloquium** (Fall 2014) \\
   Korea Advanced Institute of Science and Technology 
+  -->
   
 <!--
 * * *
