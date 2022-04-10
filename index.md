@@ -66,8 +66,8 @@ I lead the [Data Science Lab.](https://jbnu-dslab.github.io/) at JBNU.
 * **Random Walk-based Large Graph Mining Exploiting Real-world Graph Properties** \\
   **Jinhong Jung** \\
   Ph.D. Dissertation, 2020 \\
-  [[PDF]](https://jinhongjung.github.io/assets/papers/thesis.pdf)
-  [[SLIDES]](https://jinhongjung.github.io/assets/slides/thesis.pdf)
+  [[PDF]](/assets/resources/papers/thesis.pdf)
+  [[SLIDES]](/assets/resources/slides/thesis.pdf)
 * **BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks** \\
   **Jinhong Jung**, Ha-Myung Park, and U Kang \\
   International Conference on Extending Database Technology ([EDBT](https://diku-dk.github.io/edbticdt2020)) 2020, Copenhagen, Denmark \\
