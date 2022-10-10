@@ -1,0 +1,173 @@
+
+
+- type: journal
+  venue: ACM Transactions on Knowledge and Data Engineering (TKDE)
+  years: 
+    - item:
+      year: 2022
+      link: 
+
+- type: pcmember
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  years: 
+    - item:
+      year: 2021
+      link: https://bit.ly/3rIaXcI
+    - item:
+      year: 2023
+      link: 
+
+- type: pcmember
+  venue: IEEE Conference on Big Data and Smart Computing (BigComp)
+  years: 
+    - item:
+      year: 2021
+      link: http://www.bigcomputing.org/conf2021/program-committee.html
+
+- type: pcmember
+  venue: The Web Conference (TheWebConf)
+  years: 
+    - item:
+      year: 2022
+      link: https://www2022.thewebconf.org/program-committee-members/ 
+    - item:
+      year: 2023
+      link: 
+
+- type: pcmember
+  venue: ACM Conference on Web Search and Data Mining (WSDM)
+  years: 
+    - item:
+      year: 2023
+      link: 
+
+- type: reviewer
+  venue: ACM Conference on Knowledge Discovery and Data Mining (KDD)
+  years: 
+    - item:
+      year: 2016
+      link: 
+    - item:
+      year: 2017
+      link: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2019
+      link: 
+    - item:
+      year: 2020
+      link: 
+
+  
+- type: reviewer
+  venue: The Web Conference (TheWebConf)
+  years: 
+    - item:
+      year: 2016
+      link: 
+    - item:
+      year: 2017
+      link: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2019
+      link: 
+
+- type: reviewer
+  venue: IEEE Conference on Data Mining (ICDM)
+  years: 
+    - item:
+      year: 2015
+      link: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2019
+      link: 
+
+- type: reviewer
+  venue: ACM Conference on Web Search and Data Mining (WSDM)
+  years: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2019
+      link: 
+
+- type: reviewer
+  venue: ACM Conference on Information and Knowledge Management (CIKM)
+  years: 
+    - item:
+      year: 2016
+      link: 
+    - item:
+      year: 2017
+      link: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2019
+      link: 
+
+- type: reviewer
+  venue: Symposium on Applied Computing (ACM SAC)
+  years: 
+    - item:
+      year: 2016
+      link: 
+    - item:
+      year: 2017
+      link: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2019
+      link: 
+    - item:
+      year: 2020
+      link: 
+
+- type: reviewer
+  venue: "European Conference on Machine Learning and Data Mining (ECML/PKDD)"
+  years: 
+    - item:
+      year: 2016
+      link: 
+    - item:
+      year: 2017
+      link: 
+
+- type: reviewer
+  venue: IEEE Conference on Big Data and Smart Computing (BigComp)
+  years: 
+    - item:
+      year: 2016
+      link: 
+    - item:
+      year: 2018
+      link: 
+    - item:
+      year: 2020
+      link: 
+
+- type: reviewer
+  venue: International Conference on Data Science and Advanced Analytics (DSAA)
+  years: 
+    - item:
+      year: 2016
+      link: 
+
+- type: reviewer
+  venue: IEEE International Conference on Big Data (BigData)
+  years: 
+    - item:
+      year: 2016
+      link: 

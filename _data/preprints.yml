@@ -1,0 +1,68 @@
+- year: 2022
+  month: Jun
+  international: true
+  type: preprint
+  title: "Accurate Node Feature Estimation with Structured Variational Graph Autoencoder"
+  authors:
+    - Jaemin Yoo
+    - Hyunsik Jeon
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "arXiv"
+    link: https://arxiv.org/abs/2206.04516
+  pdf: "https://arxiv.org/pdf/2206.04516.pdf"
+  bib: ""
+  code: "https://github.com/snudatalab/SVGA"
+  slide:
+
+- year: 2020
+  month: Dec
+  international: true
+  type: preprint
+  title: "Signed Graph Diffusion Network"
+  authors:
+    - Jinhong Jung
+    - Jaemin Yoo
+    - U Kang
+  publisher:
+    venue: "arXiv"
+    link: https://arxiv.org/abs/2012.14191
+  pdf: "https://arxiv.org/pdf/2012.14191.pdf"
+  bib: ""
+  code: "https://github.com/snudatalab/SidNet"
+  slide:
+
+- year: 2020
+  month: Dec
+  international: true
+  type: preprint
+  title: "T-gap: Learning to Walk across Time for Temporal Knowledge Graph Completion"
+  authors:
+    - Jaehun Jung
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "arXiv"
+    link: https://arxiv.org/abs/2012.10595
+  pdf: "https://arxiv.org/pdf/2012.10595.pdf"
+  bib: ""
+  code: "https://github.com/jaehunjung1/T-GAP"
+  slide:
+
+- year: 2017
+  month: Dec
+  international: true
+  type: preprint
+  title: "TPA: Fast, Scalable, and Accurate Method for Approximate Random Walk with Restart on Billion Scale Graphs"
+  authors:
+    - Minji Yoon
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "arXiv"
+    link: https://arxiv.org/abs/1708.02574
+  pdf: "https://arxiv.org/pdf/1708.02574.pdf"
+  bib: ""
+  code: "https://datalab.snu.ac.kr/tpa/#code"
+  slide:

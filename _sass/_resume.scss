@@ -1,0 +1,125 @@
+// @name Resume
+// @description All resume styles
+
+dl {
+    margin-bottom: $spacer;
+}
+
+dt,
+dd {
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: $spacer;
+}
+
+@media(min-width: 640px) {
+
+    dt,
+    dd {
+        margin-bottom: 60px;
+    }
+
+    .experience {
+        dt {
+            width: 30%;
+            padding-right: ($spacer * 2);
+        }
+
+        dd {
+            width: 70%;
+        }
+    }
+
+    .education {
+
+        dt,
+        dd {
+            width: 50%;
+        }
+    }
+}
+
+.section {
+    border-bottom: 1px solid #edefee;
+    padding-bottom: ($spacer * 1);
+    margin-bottom: ($spacer * 2);
+}
+
+.item {
+    margin-bottom: 20px;
+}
+
+.no_mb {
+    margin-bottom: 0px;
+}
+
+.title_item {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+
+.title_item>.title {
+    font-weight: bold;
+}
+
+
+.title_item>.date {
+    font-variant: small-caps;
+}
+
+.read_more {
+    text-align: center;
+    margin: 3px 3px 3px 3px;
+}
+
+
+ol {
+    list-style: none;
+    counter-reset: li;
+}
+
+ol li {
+    margin-bottom: 0.5em;
+}
+
+li{
+    padding-left: 2.3em; 
+    text-indent: -2.3em;
+}
+
+ol li::before {
+    margin-right: 0.2rem;
+    counter-increment: li;
+    content: "["counter(li, decimal-leading-zero)"]";
+}
+
+.venue {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+@media(max-width: 800px) {
+    .title_item {
+        padding-right: 0px;
+    }
+}
+
+a {
+    color: black !important;
+    //background: rgba(245, 215, 110, .5);
+    transition: all linear .2s;
+    text-decoration: none;
+
+    &:hover {
+        //background: rgba(245, 215, 110, 1);
+        text-decoration: none;
+    }
+}
+
+.pd {
+    page-break-before:always;
+    page-break-after:always;
+}

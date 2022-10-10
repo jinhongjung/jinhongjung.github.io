@@ -1,0 +1,23 @@
+- year: 2020
+  month: Jul.
+  title: Machine Learning with Graphs
+  venue: Korea Computer Congress
+  slide:
+
+- year: 2019
+  month: Jan.
+  title: Personalized Ranking in Signed Networks using Signed Random Walk with Restart
+  venue: NC Soft
+  slide:
+
+- year: 2017
+  month: Jun. 
+  title: "BePI: Fast and Memory-Efcient Method for Billion-Scale RWR"
+  venue: Korea Computer Congress
+  slide:
+
+- year: 2016
+  month: Jul.
+  title: "Fast Random Walk with Restart on Large Graphs using Block Elimination"
+  venue: Naver Labs
+  slide:

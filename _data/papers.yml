@@ -1,0 +1,299 @@
+- year: 2022
+  month: Mar
+  international: true
+  type: conference
+  title: "Accurate Node Feature Estimation with Structured Variational Graph Autoencoder"
+  authors:
+    - Jaemin Yoo
+    - Hyunsik Jeon
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "KDD 2022"
+    link: https://kdd.org/kdd2022/
+  pdf: "/assets/resources/papers/svgaKDD22.pdf"
+  bib: "https://dblp.uni-trier.de/rec/conf/kdd/YooJJK22.html?view=bibtex"
+  code: "https://github.com/snudatalab/SVGA"
+  slide: "https://jaeminyoo.github.io/resources/slides/YooJJK22.pdf"
+
+- year: 2022
+  month: Mar
+  international: true
+  type: journal
+  title: "Signed Random Walk Diffusion for Effective Representation Learning in Signed Graphs"
+  authors:
+    - Jinhong Jung
+    - Jaemin Yoo
+    - U Kang
+  publisher:
+    venue: "PLoS ONE (SCIE)"
+    link: "https://journals.plos.org/plosone/"
+  pdf: "/assets/resources/papers/sidnetPLOS22.pdf"
+  bib: ""
+  code: "https://github.com/snudatalab/SidNet"
+  slide:
+
+- year: 2021
+  month: Aug
+  international: true
+  type: conference
+  title: "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion"
+  authors:
+    - Jaehun Jung
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "KDD 2021"
+    link: "https://www.kdd.org/kdd2021/"
+  pdf: "/assets/resources/papers/tgapKDD21.pdf"
+  bib: "/assets/resources/bibtex/tgapKDD21.bib"
+  code: "https://github.com/sharkmir1/T-GAP"
+  slide:
+
+- year: 2021
+  month: Aug
+  international: true
+  type: journal
+  title: "Compressing Deep Graph Convolution Network With Multi-staged Knowledge Distillation"
+  authors:
+    - Junghun Kim
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "PLoS ONE (SCIE)"
+    link: "https://journals.plos.org/plosone/"
+  pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256187&type=printable"
+  bib: "/assets/resources/bibtex/mustadPLOS21.bib"
+  code: "https://github.com/snudatalab/MustaD"
+  slide:
+
+- year: 2020
+  month: Dec
+  international: true
+  type: journal
+  title: "Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental Approach"
+  authors:
+    - Jinhong Jung
+    - Lee Sael
+  publisher:
+    venue: "Machine Learning (SCIE)"
+    link: "https://www.springer.com/journal/10994"
+  pdf: "https://link.springer.com/content/pdf/10.1007/s10994-020-05920-5.pdf"
+  bib: "https://dblp.org/rec/journals/ml/JungS20.html?view=bibtex"
+  code:
+  slide: "/assets/resources/slides/fastpiACML20.pdf"
+
+- year: 2020
+  month: May
+  international: true
+  type: journal
+  title: "Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart"
+  authors:
+    - Jinhong Jung
+    - Woojeong Jin
+    - Ha-Myung Park
+    - U Kang
+  publisher:
+    venue: World Wide Web Journal (SCIE)
+    link: "https://www.springer.com/journal/11280"
+  pdf: "/assets/resources/papers/lrwrWWWJ20.pdf"
+  bib: "https://dblp.org/rec/journals/www/JungJPK21.html?view=bibtex"
+  code:
+  slide:
+
+- year: 2020
+  month: Mar
+  international: true
+  type: conference
+  title: "BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks"
+  authors:
+    - Jinhong Jung
+    - Ha-Myung Park
+    - U Kang
+  publisher:
+    venue: "EDBT 2020"
+    link: "https://diku-dk.github.io/edbticdt2020/"
+  pdf: "/assets/resources/papers/balansingedbt20.pdf"
+  bib: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib"
+  code: "https://datalab.snu.ac.kr/balansing/resources/balansing-cpp-v1.0.zip"
+  slide: "/assets/resources/slides/balansingEDBT20.pdf"
+
+- year: 2020
+  month: Feb
+  international: true
+  type: journal
+  title: "Random Walk Based Ranking in Signed Social Networks: Model and Algorithms"
+  authors:
+    - Jinhong Jung
+    - Woojeong Jin
+    - U Kang
+  publisher:
+    venue: "Knowledge and Information Systems (SCIE)"
+    link: https://link.springer.com/article/10.1007/s10115-019-01364-z
+  pdf: "/assets/resources/papers/srwrKAIS20.pdf"
+  bib: "https://dblp.org/rec/journals/kais/JungJK20.html?view=bibtex"
+  code: "https://datalab.snu.ac.kr/srwrpre/"
+  slide:
+
+- year: 2019
+  month: Mar
+  international: true
+  type: journal
+  title: "Supervised and Extended Restart in Random Walks for Ranking and Link Prediction in Networks"
+  authors:
+    - Woojeong Jin
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "PLoS ONE (SCIE)"
+    link: "https://journals.plos.org/plosone/"
+  pdf: "/assets/resources/papers/surePLOS19.pdf"
+  bib:
+  code: "https://datalab.snu.ac.kr/sure/"
+  slide:
+
+- year: 2018
+  month: Oct
+  international: true
+  type: conference
+  title: "Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Pattern an Arbitrary Time Range"
+  authors:
+    - Jun-gi Jang
+    - Dongjin Choi
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "CIKM 2018"
+    link: ""
+  pdf: "/assets/resources/papers/zsvdCIKM18.pdf"
+  bib: "https://dblp.org/rec/conf/cikm/JangCJK18.html?view=bibtex"
+  code: "https://datalab.snu.ac.kr/zoomsvd/"
+  slide:
+
+- year: 2018
+  month: Apr
+  international: true
+  type: conference
+  title: "TPA: Fast, Scalable, and Accurate Method for Approximate Random Walk with Restart on Billion Scale Graphs"
+  authors:
+    - Minji Yoon
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "ICDE 2018"
+    link: "https://icde2018.org/"
+  pdf: "/assets/resources/papers/tpaICDE18.pdf"
+  bib: "https://dblp.org/rec/conf/icde/YoonJK18.html?view=bibtex"
+  code: "https://datalab.snu.ac.kr/tpa/"
+  slide:
+
+- year: 2017
+  month: Dec
+  international: true
+  type: conference
+  title: "A Comparative Study of Matrix Factorization and Random Walk with Restart in Recommender Systems"
+  authors:
+    - Haekyu Park
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "BigData 2017"
+    link: "http://cci.drexel.edu/bigdata/bigdata2017"
+  pdf: "/assets/resources/papers/mfrwrBigData17.pdf"
+  bib: "https://dblp.org/rec/conf/bigdataconf/ParkJK17.html?view=bibtex"
+  code: "https://github.com/haekyu/MFRWR"
+  slide: "https://datalab.snu.ac.kr/mfrwr/resources/mfrwr.pptx"
+
+- year: 2017
+  month: Mar
+  international: true
+  type: conference
+  title: "A New Question Answering Approach with Conceptual Graphs"
+  authors:
+    - Kyung-Min Kim
+    - Jinhong Jung
+    - Jihee Ryu
+    - Ha-Myung Park
+    - Joseph P.Joohee
+    - Seokwoo Jeong
+    - U Kang
+    - Sung-Hyon Myaeng
+  publisher:
+    venue: "CORIA 2017"
+    link: "http://www.lsis.org/coria2017/index.php/en/175-2/"
+  pdf: "/assets/resources/papers/qaCORIA17.pdf"
+  bib: "https://dblp.org/rec/conf/coria/KimJRPJJKM17.html?view=bibtex"
+  code:
+  slide:
+
+- year: 2017
+  month: May
+  international: true
+  type: conference
+  title: "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart"
+  authors:
+    - Jinhong Jung
+    - Namyong Park
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "SIGMOD 2017"
+    link: "http://www.sigmod2017.org"
+  pdf: "/assets/resources/papers/bepiSIGMOD17.pdf"
+  bib: "https://dblp.org/rec/conf/sigmod/JungPSK17.html?view=bibtex"
+  code: "https://datalab.snu.ac.kr/bepi/"
+  slide: "/assets/resources/slides/bepiSIGMOD17.pdf"
+
+- year: 2016
+  month: Dec
+  international: true
+  type: conference
+  title: "Personalized Ranking in Signed Networks using Signed Random Walk with Restart"
+  authors:
+    - Woojeong Jin
+    - Jinhong Jung
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "ICDM 2016"
+    link: "http://icdm2016.eurecat.org"
+  pdf: "/assets/resources/papers/srwrICDM16.pdf"
+  bib: "https://dblp.org/rec/conf/icdm/JungJSK16.html?view=bibtex"
+  code: "https://github.com/jinhongjung/srwr"
+  slide: "/assets/resources/slides/srwrICDM16.pdf"
+
+- year: 2016
+  month: June
+  international: true
+  type: journal
+  title: "Random Walk with Restart on Large Graphs Using Block Elimination"
+  authors:
+    - Jinhong Jung
+    - Kijung Shin
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "ACM Transactions on Database Systems (SCI)"
+    link: "https://dl.acm.org/journal/tods"
+  pdf: "/assets/resources/papers/bearTODS16.pdf"
+  bib: "https://dblp.org/rec/journals/tods/JungSSK16.html?view=bibtex"
+  code: "https://datalab.snu.ac.kr/bear/"
+  slide:
+
+- year: 2015
+  month: Mar
+  international: true
+  type: conference
+  title: "BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs"
+  authors:
+    - Kijung Shin
+    - Jinhong Jung
+    - Lee Sael
+    - U Kang
+  publisher:
+    venue: "SIGMOD 2015"
+    link: "http://www.sigmod2015.org/"
+  pdf: "/assets/resources/papers/bearSIGMOD15.pdf"
+  bib: "https://dblp.org/rec/conf/sigmod/ShinJSK15.html?view=bibtex"
+  code: "https://datalab.snu.ac.kr/bear/"
+  slide: "https://www.cs.cmu.edu/~kijungs/papers/bearSIGMOD2015slides.pptx"

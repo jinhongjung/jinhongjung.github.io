@@ -1,0 +1,16 @@
+// @name Typography
+// @description All typography settings and styles
+
+//@import url(https://fonts.googleapis.com/css?family=Lora:400,700|Playfair+Display:400,700,900)
+
+@import url(https://fonts.googleapis.com/css2?family=David+Libre:wght@400;500;700&display=swap);
+
+// Our variables
+$base-font-family: 'David Libre', serif, Helvetica, Arial, sans-serif;
+$base-font-size:   14px;
+
+body {
+    font-family: $base-font-family, serif;
+    font-size: $base-font-size;
+    line-height: 1.4;
+}
