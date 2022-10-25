@@ -1,14 +1,14 @@
-
-
 - type: journal
-  venue: ACM Transactions on Knowledge and Data Engineering (TKDE)
+  venue: TKDE
+  full-venue: ACM Transactions on Knowledge and Data Engineering
   years: 
     - item:
       year: 2022
       link: 
 
 - type: pcmember
-  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  venue: AAAI
+  full-venue: AAAI Conference on Artificial Intelligence
   years: 
     - item:
       year: 2021
@@ -18,14 +18,16 @@
       link: 
 
 - type: pcmember
-  venue: IEEE Conference on Big Data and Smart Computing (BigComp)
+  venue: BigComp
+  full-venue: IEEE Conference on Big Data and Smart Computing
   years: 
     - item:
       year: 2021
       link: http://www.bigcomputing.org/conf2021/program-committee.html
 
 - type: pcmember
-  venue: The Web Conference (TheWebConf)
+  venue: TheWebConf
+  full-venue: The Web Conference
   years: 
     - item:
       year: 2022
@@ -35,14 +37,16 @@
       link: 
 
 - type: pcmember
-  venue: ACM Conference on Web Search and Data Mining (WSDM)
+  venue: WSDM
+  full-venue: ACM Conference on Web Search and Data Mining
   years: 
     - item:
       year: 2023
       link: 
 
 - type: reviewer
-  venue: ACM Conference on Knowledge Discovery and Data Mining (KDD)
+  venue: KDD
+  full-venue: ACM Conference on Knowledge Discovery and Data Mining
   years: 
     - item:
       year: 2016
@@ -62,7 +66,8 @@
 
   
 - type: reviewer
-  venue: The Web Conference (TheWebConf)
+  venue: TheWebConf
+  full-venue: The Web Conference
   years: 
     - item:
       year: 2016
@@ -78,7 +83,8 @@
       link: 
 
 - type: reviewer
-  venue: IEEE Conference on Data Mining (ICDM)
+  venue: ICDM
+  full-venue: IEEE Conference on Data Mining
   years: 
     - item:
       year: 2015
@@ -91,7 +97,8 @@
       link: 
 
 - type: reviewer
-  venue: ACM Conference on Web Search and Data Mining (WSDM)
+  venue: WSDM
+  full-venue: ACM Conference on Web Search and Data Mining
   years: 
     - item:
       year: 2018
@@ -101,7 +108,8 @@
       link: 
 
 - type: reviewer
-  venue: ACM Conference on Information and Knowledge Management (CIKM)
+  venue: CIKM
+  full-venue: ACM Conference on Information and Knowledge Management
   years: 
     - item:
       year: 2016
@@ -117,7 +125,8 @@
       link: 
 
 - type: reviewer
-  venue: Symposium on Applied Computing (ACM SAC)
+  venue: SAC
+  full-venue: ACM Symposium on Applied Computing
   years: 
     - item:
       year: 2016
@@ -136,7 +145,8 @@
       link: 
 
 - type: reviewer
-  venue: "European Conference on Machine Learning and Data Mining (ECML/PKDD)"
+  venue: ECML/PKDD
+  full-venue: "European Conference on Machine Learning and Data Mining"
   years: 
     - item:
       year: 2016
@@ -146,7 +156,8 @@
       link: 
 
 - type: reviewer
-  venue: IEEE Conference on Big Data and Smart Computing (BigComp)
+  venue: BigComp
+  full-venue: IEEE Conference on Big Data and Smart Computing
   years: 
     - item:
       year: 2016
@@ -159,14 +170,16 @@
       link: 
 
 - type: reviewer
-  venue: International Conference on Data Science and Advanced Analytics (DSAA)
+  venue: DSAA
+  full-venue: International Conference on Data Science and Advanced Analytics
   years: 
     - item:
       year: 2016
       link: 
 
 - type: reviewer
-  venue: IEEE International Conference on Big Data (BigData)
+  venue: BigData
+  full-venue: IEEE International Conference on Big Data
   years: 
     - item:
       year: 2016
