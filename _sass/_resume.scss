@@ -43,6 +43,8 @@ dd {
     border-bottom: 1px solid #edefee;
     padding-bottom: ($spacer * 1);
     margin-bottom: ($spacer * 2);
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .item {
@@ -123,3 +125,41 @@ a {
     page-break-before:always;
     page-break-after:always;
 }
+
+@media screen and (max-width: 500px)
+{
+    .section#largescreen {
+        display: none;
+    }
+    .section#smallscreen {
+        display: inline-block;
+    }
+}
+
+
+@media screen and (max-width: 809px) and (min-width: 501px)
+{
+    .section#largescreen {
+        display: none;
+    }
+    .section#smallscreen {
+        display: inline-block;
+    }
+}
+
+@media screen and (min-width: 810px)
+{
+    .section#largescreen {
+        display: inline-block;
+    }
+    .section#smallscreen {
+        display: none;
+    }
+}
+
+.long-and-truncated {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  

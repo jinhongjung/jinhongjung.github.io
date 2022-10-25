@@ -10,6 +10,7 @@
     - U Kang
   publisher:
     venue: "KDD 2022"
+    full-venue: "The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
     link: https://kdd.org/kdd2022/
   pdf: "/assets/resources/papers/svgaKDD22.pdf"
   bib: "https://dblp.uni-trier.de/rec/conf/kdd/YooJJK22.html?view=bibtex"
@@ -44,6 +45,7 @@
     - U Kang
   publisher:
     venue: "KDD 2021"
+    full-venue: "The 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
     link: "https://www.kdd.org/kdd2021/"
   pdf: "/assets/resources/papers/tgapKDD21.pdf"
   bib: "/assets/resources/bibtex/tgapKDD21.bib"
@@ -94,7 +96,8 @@
     - Ha-Myung Park
     - U Kang
   publisher:
-    venue: World Wide Web Journal (SCIE)
+    venue: WWW Journal (SCIE)
+    full-venue: World Wide Web Journal
     link: "https://www.springer.com/journal/11280"
   pdf: "/assets/resources/papers/lrwrWWWJ20.pdf"
   bib: "https://dblp.org/rec/journals/www/JungJPK21.html?view=bibtex"
@@ -112,6 +115,7 @@
     - U Kang
   publisher:
     venue: "EDBT 2020"
+    full-venue: "The 23rd International Conference on Extending Database Technology"
     link: "https://diku-dk.github.io/edbticdt2020/"
   pdf: "/assets/resources/papers/balansingedbt20.pdf"
   bib: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib"
@@ -128,7 +132,8 @@
     - Woojeong Jin
     - U Kang
   publisher:
-    venue: "Knowledge and Information Systems (SCIE)"
+    venue: "KAIS (SCIE)"
+    full-venue: "Knowledge and Information Systems"
     link: https://link.springer.com/article/10.1007/s10115-019-01364-z
   pdf: "/assets/resources/papers/srwrKAIS20.pdf"
   bib: "https://dblp.org/rec/journals/kais/JungJK20.html?view=bibtex"
@@ -164,7 +169,8 @@
     - U Kang
   publisher:
     venue: "CIKM 2018"
-    link: ""
+    full-venue: "The 27th ACM International Conference on Information and Knowledge Management"
+    link: "http://www.cikm2018.units.it"
   pdf: "/assets/resources/papers/zsvdCIKM18.pdf"
   bib: "https://dblp.org/rec/conf/cikm/JangCJK18.html?view=bibtex"
   code: "https://datalab.snu.ac.kr/zoomsvd/"
@@ -181,6 +187,7 @@
     - U Kang
   publisher:
     venue: "ICDE 2018"
+    full-venue: "The 34th IEEE International Conference on Data Engineering"
     link: "https://icde2018.org/"
   pdf: "/assets/resources/papers/tpaICDE18.pdf"
   bib: "https://dblp.org/rec/conf/icde/YoonJK18.html?view=bibtex"
@@ -198,6 +205,7 @@
     - U Kang
   publisher:
     venue: "BigData 2017"
+    full-venue: "IEEE International Conference on Big Data"
     link: "http://cci.drexel.edu/bigdata/bigdata2017"
   pdf: "/assets/resources/papers/mfrwrBigData17.pdf"
   bib: "https://dblp.org/rec/conf/bigdataconf/ParkJK17.html?view=bibtex"
@@ -220,6 +228,7 @@
     - Sung-Hyon Myaeng
   publisher:
     venue: "CORIA 2017"
+    full-venue: "Conférence en Recherche d’Information et Applications"
     link: "http://www.lsis.org/coria2017/index.php/en/175-2/"
   pdf: "/assets/resources/papers/qaCORIA17.pdf"
   bib: "https://dblp.org/rec/conf/coria/KimJRPJJKM17.html?view=bibtex"
@@ -238,6 +247,7 @@
     - U Kang
   publisher:
     venue: "SIGMOD 2017"
+    full-venue: "ACM International Conference on Management of Data"
     link: "http://www.sigmod2017.org"
   pdf: "/assets/resources/papers/bepiSIGMOD17.pdf"
   bib: "https://dblp.org/rec/conf/sigmod/JungPSK17.html?view=bibtex"
@@ -256,6 +266,7 @@
     - U Kang
   publisher:
     venue: "ICDM 2016"
+    full-venue: "IEEE International Conference on Data Mining"
     link: "http://icdm2016.eurecat.org"
   pdf: "/assets/resources/papers/srwrICDM16.pdf"
   bib: "https://dblp.org/rec/conf/icdm/JungJSK16.html?view=bibtex"
@@ -273,7 +284,8 @@
     - Lee Sael
     - U Kang
   publisher:
-    venue: "ACM Transactions on Database Systems (SCI)"
+    venue: "TODS (SCI)"
+    full-venue: "ACM Transactions on Database Systems"
     link: "https://dl.acm.org/journal/tods"
   pdf: "/assets/resources/papers/bearTODS16.pdf"
   bib: "https://dblp.org/rec/journals/tods/JungSSK16.html?view=bibtex"
@@ -292,6 +304,7 @@
     - U Kang
   publisher:
     venue: "SIGMOD 2015"
+    full-venue: "ACM International Conference on Management of Data"
     link: "http://www.sigmod2015.org/"
   pdf: "/assets/resources/papers/bearSIGMOD15.pdf"
   bib: "https://dblp.org/rec/conf/sigmod/ShinJSK15.html?view=bibtex"

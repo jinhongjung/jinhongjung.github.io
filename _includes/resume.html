@@ -1,31 +1,4 @@
-<!--<h3 class="section-title">Experience</h3>
-<dl class="experience">
-    {% for job in site.data.jobs %}
-        <dt>
-            <p class="title">{{ job.title }}</p>
-            <p class="company">{{ job.company }}</p>
-            <p class="period">{{ job.period }}</p>
-        </dt>
-        <dd>
-            <p>{{ job.description }}</p>
-        </dd>
-    {% endfor %}
-</dl>-->
-
-<!--<h3 class="section-title">Education</h3>
-<dl class="education">
-    {% for qualification in site.data.education %}
-        <dt>
-            <p class="title">{{ qualification.qualification }}</p>
-            <p class="company">{{ qualification.school }}</p>
-            <p class="period">{{ qualification.period }}</p>
-        </dt>
-        <dd>
-            <p>{{ qualification.description }}</p>
-        </dd>
-    {% endfor %}
-</dl>
--->
+<!--Education-->
 
 <div class="container section">
     <div class="row">
@@ -50,21 +23,6 @@
                         <i class="fas fa-file-powerpoint fa-fw"></i>
                     </a>
                 </p>
-                <!--
-                <li class="venue" style="list-style-position: inside;">
-                    <div style="padding-left: -2.3em;">
-                    Thesis: Random Walk-based Large Graph Mining Exploiting Real-world Graph Properties
-                    </div>
-                    <div>
-                        <a href="/assets/resources/papers/thesis.pdf" target="_blank" title="paper">
-                            <i class="fa fa-file-pdf fa-fw"></i>
-                        </a>
-                        <a href="/assets/resources/slides/thesis.pdf" target="_blank" title="slide">
-                            <i class="fa fa-file-powerpoint fa-fw"></i>
-                        </a>
-                    </div>
-                </li>
-                -->
                 <p>Advisor: Prof. U Kang</p>
             </div>
             <div class="item">
@@ -114,7 +72,7 @@
 </div>
 
 <!-- Awards -->
-<div class="container section">
+<div class="container section" id="largescreen">
     <div class="row">
         <div class="col-sm-2">
             <h3 class="section-title">Awards</h3>
@@ -139,6 +97,43 @@
                     <div id="more-award" class="item no_mb collapse">
                         <div class="title_item">
                             <div>{{ award.title }} @ {{ award.orginization }}</div>
+                            <div class="date">{{ award.date }}</div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+            <div class="item"></div>
+        </div>
+    </div>
+</div>
+
+<div class="container section" id="smallscreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Awards</h3>
+        </div>
+        <div class="col-sm-10">
+            {% for award in site.data.awards %}
+                {% if forloop.index < 6 %}
+                    <div class="item no_mb">
+                        <p class="long-and-truncated">{{ award.title }}</p>
+                        <div class="title_item">
+                            <div>@ {{ award.orginization }} </div>
+                            <div class="date">{{ award.date }}</div>
+                        </div>
+                    </div>
+                {% else %}
+                    {% if forloop.index == 6 %}
+                    <div class="read_more">
+                        · · ·
+                        <a data-bs-toggle="collapse" href="#more-award" id="more-button">Read more</a>
+                        · · ·
+                    </div>
+                    {% endif %}
+                    <div id="more-award" class="item no_mb collapse">
+                        <p class="long-and-truncated">{{ award.title }}</p>
+                        <div class="title_item">
+                            <div>@ {{ award.orginization }} </div>
                             <div class="date">{{ award.date }}</div>
                         </div>
                     </div>
@@ -191,9 +186,9 @@
                             {% endfor %}
                         {% endif %} <br>
                         <span class="venue">
-                            <div style="padding-left: 2.3em;">
+                            <div style="padding-left: 2.3em" class="long-and-truncated">
                             {% if paper.publisher.link != nil %}
-                                <a href="{{ paper.publisher.link }}" target="_blank">
+                                <a href="{{ paper.publisher.link }}" target="_blank" title="{{ paper.publisher.full-venue}}">
                                     {{ paper.publisher.venue }}
                                 </a>
                             {% else %}
@@ -299,7 +294,7 @@
     </div>
 </div>
 
-<div class="container section">
+<div class="container section" id="largescreen">
     <div class="row">
         <div class="col-sm-2">
             <h3 class="section-title">
@@ -411,7 +406,116 @@
     </div>
 </div>
 
-<div class="container section">
+<div class="container section" id="smallscreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">
+                Service
+            </h3>
+        </div>
+        <div class="col-sm-10">
+            <h3 style="font-weight:bold;">Program Committee Member</h3>
+            <ol>
+                {% for service in site.data.services %}
+                    {% if service.type == "pcmember" %}
+                    <div class="item no_mb">
+                        <div class="long-and-truncated">· {{ service.venue }}</div>
+                        <div style="padding-left: 7px;">
+                            - 
+                            {% for item in service.years %}
+                                {% if item.link != nil %}
+                                    <a href="{{ item.link }}" target="_blank">
+                                    {{ item.year }}
+                                    </a>
+                                {% else %}
+                                    {{ item.year }}
+                                {% endif %}
+                                {% if forloop.last == false %}
+                                |
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+            <div class="item"></div>
+            <h3 style="font-weight:bold;">Journal Reviewer</h3>
+            <ol>
+                {% for service in site.data.services %}
+                    {% if service.type == "journal" %}
+                    <div class="item no_mb">
+                        <div class="long-and-truncated">· {{ service.venue }}</div>
+                        <div style="padding-left: 7px;">
+                            - 
+                            {% for item in service.years %}
+                                {% if item.link != nil %}
+                                    <a href="{{ item.link }}" target="_blank">
+                                    {{ item.year }}
+                                    </a>
+                                {% else %}
+                                    {{ item.year }}
+                                {% endif %}
+                                {% if forloop.last == false %}
+                                |
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+
+            <div class="item"></div>
+            <h3 style="font-weight:bold;">External Conference Reviewer</h3>
+
+            {% assign count = 0 %}
+            {% for service in site.data.services %}
+                {% if service.type == "reviewer" %}
+                    {% if count < 3 %}
+                        {% assign collapsed = "" %}
+                        {% assign mp_id = "" %}
+                    {% else %}
+                        {% assign collapsed = "collapse" %}
+                        {% assign mp_id = "more-services" %}
+                    {% endif %}
+
+                    <div class="item no_mb {{ collapsed }}" id="{{ mp_id }}">
+                        <div class="long-and-truncated">
+                        · {{ service.venue }}
+                        </div>
+                        <div style="padding-left: 7px;">
+                            - 
+                            {% for item in service.years %}
+                                {% if item.link != nil %}
+                                    <a href="{{ item.link }}" target="_blank">
+                                    {{ item.year }}
+                                    </a>
+                                {% else %}
+                                    {{ item.year }}
+                                {% endif %}
+                                {% if forloop.last == false %}
+                                |
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% if count == 2 %}
+                    <div class="read_more">
+                        · · ·
+                        <a data-bs-toggle="collapse" href="#more-services" id="more-button">Read more</a>
+                        · · ·
+                    </div>
+                    {% endif %}
+
+                    {% assign count = count | plus:1 %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<div class="container section" id="largescreen">
     <div class="row">
         <div class="col-sm-2">
             <h3 class="section-title">Miscellaneous</h3>
@@ -423,6 +527,44 @@
                     <div class="title_item">
                         <div>· {{ talk.title }} @ {{ talk.venue }} </div>
                         <div class="date">{{ talk.month }} {{ talk.year }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 style="font-weight:bold;">Teaching Experience - Instructor</h3>
+            {% for lecture in site.data.lectures %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ lecture.title }} @ {{ lecture.school }} </div>
+                        <div class="date">
+                        {% for year in lecture.years %}
+                            {{ year }}
+                            {% if forloop.last == false %}
+                            |
+                            {% endif %}
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<div class="container section" id="smallscreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Miscellaneous</h3>
+        </div>
+        <div class="col-sm-10">
+            <h3 style="font-weight:bold;">Talks or Tutorials</h3>
+            {% for talk in site.data.talks %}
+                <div class="item no_mb">
+                    <p class="long-and-truncated">· {{ talk.title }}</p>
+                    <div class="title_item">
+                        <div style="padding-left: 7px;">@ {{ talk.venue }}</div>
+                        <div class="date">{{ talk.year }}</div>
                     </div>
                 </div>
             {% endfor %}
