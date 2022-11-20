@@ -1,3 +1,20 @@
+- year: 2023
+  month: Feb
+  international: true
+  type: conference
+  title: "Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning"
+  authors:
+    - Jong-whi Lee
+    - Jinhong Jung
+  publisher:
+    venue: "AAAI 2023 (to appear)"
+    full-venue: "The 37-th AAAI Conference on Artificial Intelligence"
+    link: "https://aaai.org/Conferences/AAAI-23/"
+  pdf: "https://arxiv.org/pdf/2211.01214.pdf"
+  bib: 
+  code: 
+  slide: 
+
 - year: 2022
   month: Mar
   international: true
