@@ -1,24 +1,3 @@
-<!--<header>
-    <div class="container">
-        <div class="intro">
-            <p class="intro__pre">Hello</p>
-            <p class="intro__main">My name is <span>{{ site.name }}</span>, a {{ site.job }} who loves all things {{ site.languages }}</p>
-            <p class="intro__post">{{ site.location }}</p>
-        </div>
-
-        {{ if site.github_username or site.codepen_username or site.twitter_username or site.email_address }}
-        <div class="social">
-            {{ if site.github_username }}<a href="http://github.com/{{ site.github_username }}" target="_blank">GitHub</a>{{ endif }}
-            {{ if site.codepen_username }}<a href="http://codepen.io/{{ site.codepen_username }}" target="_blank">CodePen</a>{{ endif }}
-            {{ if site.twitter_username }}<a href="http://twitter.com/{{ site.twitter_username }}" target="_blank">Twitter</a>{{ endif }}
-            {{ if site.email_address }}<a href="mailto:{{ site.email_address }}" target="_blank">Email</a>{{ endif }}
-        </div>
-        {{ endif }}
-
-    </div>
-</header>
--->
-
 <header>
     <div class="container">
         <p class="intro__main"> {{ site.name }} </p>
@@ -26,6 +5,12 @@
         <p class="intro__post">{{ site.job }}</p>
         <p class="contact">{{ site.email }}</p>
         <p class="contact">{{ site.location }}</p>
+        <p class="contact">
+            <a href="https://scholar.google.com/citations?user=0RcixOoAAAAJ&hl=ko" target="_blank"> Google Scholar</a> | 
+            <a href="https://dblp.uni-trier.de/pid/163/0678.html" target="_blank">DBLP</a> | 
+            <a href="https://github.com/jinhongjung" target="_blank">GitHub</a> | 
+            <a href="#" onclick="beforePrint()" style="color:black !important;">CV</a>
+        </p>
         </div>
         {% include aboutme.html %}
     </div>

@@ -10,9 +10,9 @@
     venue: "AAAI 2023 (to appear)"
     full-venue: "The 37-th AAAI Conference on Artificial Intelligence"
     link: "https://aaai.org/Conferences/AAAI-23/"
-  pdf: "https://arxiv.org/pdf/2211.01214.pdf"
+  pdf: "/assets/resources/papers/tiaraAAAI23.pdf"
   bib: 
-  code: 
+  code: "https://github.com/dev-jwel/TiaRa"
   slide: 
 
 - year: 2022
@@ -67,7 +67,7 @@
   pdf: "/assets/resources/papers/tgapKDD21.pdf"
   bib: "/assets/resources/bibtex/tgapKDD21.bib"
   code: "https://github.com/sharkmir1/T-GAP"
-  slide:
+  slide: "https://dl.acm.org/doi/10.1145/3447548.3467292#sec-supp"
 
 - year: 2021
   month: Aug
@@ -170,7 +170,7 @@
     venue: "PLoS ONE (SCIE)"
     link: "https://journals.plos.org/plosone/"
   pdf: "/assets/resources/papers/surePLOS19.pdf"
-  bib:
+  bib: "/assets/resources/bibtex/surePLOS19.bib"
   code: "https://datalab.snu.ac.kr/sure/"
   slide:
 

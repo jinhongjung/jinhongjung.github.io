@@ -47,6 +47,10 @@ dd {
     padding-right: 0;
 }
 
+.text-bold {
+    font-weight: bold;
+}
+
 .item {
     margin-bottom: 20px;
 }
@@ -121,6 +125,16 @@ a {
     }
 }
 
+a:hover{
+    color: #1E90FF !important;
+    background-color: transparent;
+}
+
+a.more-button:hover{
+    color: black !important;
+    background-color: transparent;
+}
+
 .pd {
     page-break-before:always;
     page-break-after:always;
@@ -161,5 +175,5 @@ a {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-  }
+}
   

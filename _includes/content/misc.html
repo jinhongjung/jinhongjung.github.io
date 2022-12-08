@@ -1,0 +1,124 @@
+<!--largescreen-->
+<div class="container section" id="largescreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Miscellaneous</h3>
+        </div>
+        <div class="col-sm-10">
+            <h3 style="font-weight:bold;">Projects</h3>
+            {% for project in site.data.projects %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ project.title }} @ {{ project.funder }} </div>
+                        <div class="date">{{ project.date }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 style="font-weight:bold;">Talks or Tutorials</h3>
+            {% for talk in site.data.talks %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ talk.title }} @ {{ talk.venue }} </div>
+                        <div class="date">{{ talk.month }} {{ talk.year }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 class="text-bold">Patents</h3>
+            {% for patent in site.data.patents %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· <a href="{{ patent.link }}" target="_blank">{{ patent.title | truncatewords: 12 }}</a> </div>
+                        <div class="date">
+                            {{ patent.date }}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 style="font-weight:bold;">Teaching Experience - Instructor</h3>
+            {% for lecture in site.data.lectures %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ lecture.title }} @ {{ lecture.school }} </div>
+                        <div class="date">
+                        {% for year in lecture.years %}
+                            {{ year }}
+                            {% if forloop.last == false %}
+                            |
+                            {% endif %}
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<!--smallscreen-->
+<div class="container section" id="smallscreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Miscellaneous</h3>
+        </div>
+        <div class="col-sm-10">
+            <h3 style="font-weight:bold;">Projects</h3>
+            {% for project in site.data.projects %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ project.title }} @ {{ project.funder }} </div>
+                        <div class="date">{{ project.date }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 style="font-weight:bold;">Talks or Tutorials</h3>
+            {% for talk in site.data.talks %}
+                <div class="item no_mb">
+                    <p class="long-and-truncated">· {{ talk.title }}</p>
+                    <div class="title_item">
+                        <div style="padding-left: 7px;">@ {{ talk.venue }}</div>
+                        <div class="date">{{ talk.year }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 class="text-bold">Patents</h3>
+            {% for patent in site.data.patents %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· <a href="{{ patent.link }}" target="_blank">{{ patent.title | truncatewords: 6 }}</a> </div>
+                        <div class="date">
+                            {{ patent.date }}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+            <h3 style="font-weight:bold;">Teaching Experience - Instructor</h3>
+            {% for lecture in site.data.lectures %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ lecture.title }} @ {{ lecture.school }} </div>
+                        <div class="date">
+                        {% for year in lecture.years %}
+                            {{ year }}
+                            {% if forloop.last == false %}
+                            |
+                            {% endif %}
+                        {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

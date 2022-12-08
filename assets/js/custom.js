@@ -1,41 +1,83 @@
-$(document).ready(function () {
-    $('#more-button').on('click', function () {
-        var text = $('#more-button').text();
-        if (text === "Read more") {
-            $(this).text('Read less');
+/*$(document).ready(function () {
+    $('.more-button').on('click', function () {
+        var text = $('.more-button').text();
+        if (text === "More") {
+            $(this).text('Less');
         } else {
-            $(this).text('Read more');
+            $(this).text('More');
         }
     });
+});
+*/
+$(document).on("click", ".more-button", function(ev){
+    var text = $(this).text();
+    if (text === "More") {
+        $(this).text('Less');
+    } else {
+        $(this).text('More');
+    }
 });
 
 var beforePrint = function () {
     console.log('before print');
-    document.querySelectorAll('#more-button').forEach(function (e) {
+    document.querySelectorAll('.more-button').forEach(function (e) {
         e.click();
     });
     document.querySelectorAll('.read_more').forEach(function (e) {
         $(e).hide();
     })
+    document.querySelectorAll('.fas').forEach(function (e) {
+        $(e).hide();
+    });
+    document.querySelectorAll('.fab').forEach(function (e) {
+        $(e).hide();
+    });
+    document.querySelectorAll('.ai').forEach(function (e) {
+        $(e).hide();
+    });
+    document.querySelectorAll('#smallscreen').forEach(function (e) {
+        $(e).hide();
+    });
     window.print();  
+    /*
     document.querySelectorAll('.read_more').forEach(function (e) {
         $(e).show();
         console.log($(e).text());
     })
-    document.querySelectorAll('#more-button').forEach(function (e) {
-        e.click();
-    });
-};
-var afterPrint = function () {
-    console.log('after print');
-    /*document.querySelectorAll('.read_more').forEach(function(e) {
-        $(e).show();
-    })
-    document.querySelectorAll('#more-button').forEach(function (e) {
+    document.querySelectorAll('.more-button').forEach(function (e) {
         e.click();
     });
     */
 };
+
+
+window.addEventListener('beforeprint', (event) => {
+    console.log('before print');
+    /*
+    document.querySelectorAll('.more-button').forEach((button) => {
+        button.click();
+    });
+    */
+    /*
+    document.querySelectorAll('.read_more').forEach(function (e) {
+        $(e).hide();
+    })
+    */
+});
+
+window.addEventListener('afterprint', (event) => {
+    console.log('after print');
+    location.reload() 
+    /*
+    document.querySelectorAll('.read_more').forEach(function (e) {
+        $(e).show();
+        console.log($(e).text());
+    })
+    document.querySelectorAll('.more-button').forEach(function (e) {
+        e.hide();
+    });
+    */
+});
 
 if (window.matchMedia) {
     const media = window.matchMedia("print");

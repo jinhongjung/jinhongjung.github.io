@@ -1,3 +1,9 @@
+- year: 2022
+  month: Apr.
+  title: Graph Neural Networks
+  venue: Rural Development Administration
+  slide:
+
 - year: 2020
   month: Jul.
   title: Machine Learning with Graphs
@@ -12,7 +18,7 @@
 
 - year: 2017
   month: Jun. 
-  title: "BePI: Fast and Memory-Efcient Method for Billion-Scale RWR"
+  title: "BePI: Fast and Memory-efficient Method for Billion-Scale RWR"
   venue: Korea Computer Congress
   slide:
 

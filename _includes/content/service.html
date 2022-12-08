@@ -1,0 +1,111 @@
+<div class="container section">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">
+                Service
+            </h3>
+        </div>
+        <div class="col-sm-10">
+            <h3 style="font-weight:bold;">Program Committee Member</h3>
+            <ol>
+                {% for service in site.data.services %}
+                    {% if service.type == "pcmember" %}
+                    <div class="item no_mb">
+                        <div class="title_item">
+                            <div title="{{ service.full-venue }}">· {{ service.venue }}</div>
+                            <div class="date">
+                                {% for item in service.years %}
+                                    {% if item.link != nil %}
+                                        <a href="{{ item.link }}" target="_blank">
+                                        {{ item.year }}
+                                        </a>
+                                    {% else %}
+                                        {{ item.year }}
+                                    {% endif %}
+                                    {% if forloop.last == false %}
+                                    |
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+            <div class="item"></div>
+            <h3 style="font-weight:bold;">Journal Reviewer</h3>
+            <ol>
+                {% for service in site.data.services %}
+                    {% if service.type == "journal" %}
+                    <div class="item no_mb">
+                        <div class="title_item">
+                            <div title="{{ service.full-venue }}">· {{ service.venue }}</div>
+                            <div class="date">
+                                {% for item in service.years %}
+                                    {% if item.link != nil %}
+                                        <a href="{{ item.link }}" target="_blank">
+                                        {{ item.year }}
+                                        </a>
+                                    {% else %}
+                                        {{ item.year }}
+                                    {% endif %}
+                                    {% if forloop.last == false %}
+                                    |
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+
+            <div class="item"></div>
+            <h3 style="font-weight:bold;">External Conference Reviewer</h3>
+
+            {% assign count = 0 %}
+            {% for service in site.data.services %}
+                {% if service.type == "reviewer" %}
+                    {% if count < 3 %}
+                        {% assign collapsed = "" %}
+                        {% assign mp_id = "" %}
+                    {% else %}
+                        {% assign collapsed = "collapse" %}
+                        {% assign mp_id = "more-services" %}
+                    {% endif %}
+
+                    <div class="item no_mb {{ collapsed }}" id="{{ mp_id }}">
+                        <div class="title_item">
+                            <div title="{{ service.full-venue }}">
+                            · {{ service.venue }}
+                            </div>
+                            <div class="date">
+                                {% for item in service.years %}
+                                    {% if item.link != nil %}
+                                        <a href="{{ item.link }}" target="_blank">
+                                        {{ item.year }}
+                                        </a>
+                                    {% else %}
+                                        {{ item.year }}
+                                    {% endif %}
+                                    {% if forloop.last == false %}
+                                    |
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    {% if count == 2 %}
+                    <div class="read_more">
+                        · · ·
+                        <a data-bs-toggle="collapse" href="#more-services" class="more-button">More</a>
+                        · · ·
+                    </div>
+                    {% endif %}
+
+                    {% assign count = count | plus:1 %}
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

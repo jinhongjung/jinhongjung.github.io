@@ -82,3 +82,20 @@
   bib: ""
   code: "https://datalab.snu.ac.kr/tpa/#code"
   slide:
+
+- year: 2017
+  month: Oct
+  international: true
+  type: preprint
+  title: "Supervised and Extended Restart in Random Walks for Ranking and Link Prediction in Networks"
+  authors:
+    - Woojeong Jin
+    - Jinhong Jung
+    - U Kang
+  publisher:
+    venue: "arXiv"
+    link: https://arxiv.org/abs/1710.06609
+  pdf: "https://arxiv.org/pdf/1710.06609.pdf"
+  bib: ""
+  code: "https://datalab.snu.ac.kr/sure/resources/SuRe-v1.0.zip"
+  slide:

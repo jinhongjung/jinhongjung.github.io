@@ -1,0 +1,55 @@
+- date: 2021-Current
+  title: "Representation Learning for Mining Signed Graphs"
+  funder: NRF
+  content: 
+    - ""
+
+- date: 2020
+  title: "Model Compression for Deep Graph Neural Networks (SW-StarLab)"
+  funder: "IITP"
+  content:
+    - ""
+
+- date: 2017-2019
+  title: "Fast Ranking in Large-scale Graphs via Link Analysis"
+  funder: "NRF"
+  content:
+    - "We designed a novel personalized node ranking model \textsc{SRWR} for obtaining a personalized node ranking in signed social networks in MATLAB"
+    - "We proposed a fast and memory-efficient method \textsc{BePI} for computing Random Walk with Restart in billion-scale graphs using MATLAB and C++."
+    - "We developed a fast and efficient method \textsc{SRWR-Pre} for computing \textsc{SRWR} scores in signed social networks using MATLAB."
+
+- date: 2018-2019
+  title: "Knowledge Based News Map Generation"
+  funder: "NC Soft"
+  content:
+    - "We designed a news map generation model using topic modeling and community detection to resolve information overloading problem in Python."
+
+- date: 2017-2019
+  title: "Deep Learning Techniques on Graphs for QA systems (Exobrain)"
+  funder: "IITP"
+  content:
+    - "We aim to develop question answering modules exploiting graph matching and deep learning techniques to effectively list out answer candidates for a given query."
+
+- date: 2017-2018
+  title: "Event Retrieval and Mining from Unstructured Texts"
+  funder: "NC Soft"
+  content:
+    - "We designed models for representing news events and developed methods for filling missing entries from news events using JAVA. Also, we developed graph embedding based methods for searching relation synonyms in Python"
+
+- date: 2014-2016
+  title: "Partial Subgraph Matching Techniques for QA systems (Exobrain)"
+  funder: "IITP"
+  content:
+    - "We developed partial subgraph matching techniques based on random walks using JAVA, and performed various data analysis for effective question answering"
+
+- date: 2016
+  title: "Personalized Recommendation on Credit Card Benefits"
+  funder: "Hyundai Card"
+  content:
+    - "We developed various methods for personalized recommendation based on coupled matrix factorization and  history data on credit card benefits using C++"
+
+- date: 2014-2015
+  title: "Personalized Recommendation on Office Social Networks"
+  funder: "Hancom"
+  content:
+    - "We implemented an efficient and scalable method for personalized recommendation based on random walk with restart in graphs."

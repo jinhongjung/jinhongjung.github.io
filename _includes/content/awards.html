@@ -1,0 +1,73 @@
+<!--largescreen-->
+<div class="container section" id="largescreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Awards</h3>
+        </div>
+        <div class="col-sm-10">
+            {% for award in site.data.awards %}
+                {% if forloop.index < 6 %}
+                    <div class="item no_mb">
+                        <div class="title_item">
+                            <div><font class="text-bold">{{ award.title }}</font> @ {{ award.orginization }}</div>
+                            <div class="date">{{ award.date }}</div>
+                        </div>
+                    </div>
+                {% else %}
+                    {% if forloop.index == 6 %}
+                    <div class="read_more">
+                        · · ·
+                        <a data-bs-toggle="collapse" href="#more-award" class="more-button">More</a>
+                        · · ·
+                    </div>
+                    {% endif %}
+                    <div id="more-award" class="item no_mb collapse">
+                        <div class="title_item">
+                            <div><font class="text-bold">{{ award.title }}</font> @ {{ award.orginization }}</div>
+                            <div class="date">{{ award.date }}</div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+            <div class="item"></div>
+        </div>
+    </div>
+</div>
+
+<!--smallscreen-->
+<div class="container section" id="smallscreen">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Awards</h3>
+        </div>
+        <div class="col-sm-10">
+            {% for award in site.data.awards %}
+                {% if forloop.index < 6 %}
+                    <div class="item no_mb">
+                        <p class="long-and-truncated text-bold">{{ award.title }}</p>
+                        <div class="title_item">
+                            <div>@ {{ award.orginization }} </div>
+                            <div class="date">{{ award.date }}</div>
+                        </div>
+                    </div>
+                {% else %}
+                    {% if forloop.index == 6 %}
+                    <div class="read_more">
+                        · · ·
+                        <a data-bs-toggle="collapse" href="#more-award" class="more-button">More</a>
+                        · · ·
+                    </div>
+                    {% endif %}
+                    <div id="more-award" class="item no_mb collapse">
+                        <p class="long-and-truncated">{{ award.title }}</p>
+                        <div class="title_item">
+                            <div>@ {{ award.orginization }} </div>
+                            <div class="date">{{ award.date }}</div>
+                        </div>
+                    </div>
+                {% endif %}
+            {% endfor %}
+            <div class="item"></div>
+        </div>
+    </div>
+</div>

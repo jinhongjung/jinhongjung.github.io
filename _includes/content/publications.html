@@ -1,0 +1,144 @@
+<div class="container section">
+    <div class="row">
+        <div class="col-sm-2">
+            <h3 class="section-title">Publications</h3>
+        </div>
+        <div class="col-sm-10">
+            <li class="venue">
+                    <div style="padding-left: -2.3em;">
+                        <div style="font-weight:bold;">Refereed Conference and Journal Papers</div>
+                    </div>
+                    <div>
+                        <a href="https://scholar.google.co.kr/citations?user=0RcixOoAAAAJ&hl=en" target="_blank" title="Google Scholar">
+                            <i class="ai ai-google-scholar-square fa-fw"></i>
+                        </a>
+                        <a href="https://dblp.uni-trier.de/pid/163/0678.html" target="_blank" title="DBLP">
+                            <i class="ai ai-dblp-square fa-fw"></i>
+                        </a>
+                    </div>
+            </li>
+            <ol>
+                {% for paper in site.data.papers %}
+                <li>
+                    <span>
+                        <font class="text-bold">{{ paper.title }}</font> <br>
+                        {% assign myname = "<font class='text-bold'>Jinhong Jung</font>" %}
+                        {% if paper.authors.size == 2 %}
+                            {{ paper.authors[0] | replace: "Jinhong Jung", myname }} and {{ paper.authors[1] | replace: "Jinhong Jung", myname  }}
+                        {% else %}
+                            {% for author in paper.authors %}
+                                {% if forloop.last == true %}
+                                    and {{ author | replace: "Jinhong Jung", myname }}
+                                {% else %}
+                                    {{ author | replace: "Jinhong Jung", myname }},
+                                {% endif %}
+                            {% endfor %}
+                        {% endif %} <br>
+                        <span class="venue">
+                            <div style="padding-left: 2.3em" class="long-and-truncated">
+                            {% if paper.publisher.link != nil %}
+                                <a href="{{ paper.publisher.link }}" target="_blank" title="{{ paper.publisher.full-venue}}">
+                                    {{ paper.publisher.venue }}
+                                </a>
+                            {% else %}
+                                {{ paper.publisher.venue }}
+                            {% endif %}
+                            </div>
+                            <div>
+                                <a href="{{ paper.pdf }}" title="paper" target="_blank">
+                                    <i class="fas fa-file-pdf fa-fw"></i>
+                                </a>
+
+                                {% if paper.bib != nil %}
+                                <a href="{{ paper.bib }}" title="bibtex" target="_blank">
+                                    <i class="fas fa-file fa-fw"></i>
+                                </a>
+                                {% else %}
+                                    <i  style="color:white;" class="fas fa-ban fa-fw"></i>
+                                {% endif %}
+
+                                {% if paper.slide != nil %}
+                                <a href="{{ paper.slide }}" title="slide" target="_blank">
+                                    <i class="fas fa-file-powerpoint fa-fw"></i>
+                                </a>
+                                {% else %}
+                                    <i  style="color:white;" class="fas fa-ban fa-fw"></i>
+                                {% endif %}
+
+                                {% if paper.code != nil %}
+                                <a href="{{ paper.code }}" title="code" target="_blank">
+                                    <i class="fab fa-github-square fa-fw"></i>
+                                </a>
+                                {% else %}
+                                    <i style="color:white;" class="fa fa-ban fa-fw"></i>
+                                {% endif %}
+                            </div>
+                        </span>
+                    </span>
+                </li>
+                {% endfor %}
+            </ol>
+
+            <h3 style="font-weight:bold;">Preprints</h3>
+            <ol>
+                {% for paper in site.data.preprints %}
+                    {% if forloop.index <= 3 %}
+                        {% assign collapsed = "" %}
+                        {% assign mp_id = "" %}
+                    {% else %}
+                        {% assign collapsed = "collapse" %}
+                        {% assign mp_id = "more-preprint" %}
+                    {% endif %}
+                    <li class="{{ collapsed }}" id="{{ mp_id }}">
+                        <span>
+                            <font style="font-weight:bold;">{{ paper.title }}</font> <br>
+                            {% if paper.authors.size == 2 %}
+                                {{ paper.authors[0] | replace: "Jinhong Jung", myname }} and {{ paper.authors[1] | replace: "Jinhong Jung", myname }}
+                            {% else %}
+                                {% for author in paper.authors %}
+                                    {% if forloop.last == true %}
+                                        and {{ author | replace: "Jinhong Jung", myname }}
+                                    {% else %}
+                                        {{ author | replace: "Jinhong Jung", myname }},
+                                    {% endif %}
+                                {% endfor %}
+                            {% endif %} <br>
+                            <span class="venue">
+                                <div style="padding-left: 2.3em;">
+                                {% if paper.publisher.link != nil %}
+                                    <a href="{{ paper.publisher.link }}" target="_blank">
+                                        {{ paper.publisher.venue }} {{ paper.year }}
+                                    </a>
+                                {% else %}
+                                    {{ paper.publisher.venue }} {{ paper.year }}
+                                {% endif %}
+                                </div>
+                                <div>
+                                    <a href="{{ paper.pdf }}" title="paper" target="_blank">
+                                        <i class="fas fa-file-pdf fa-fw"></i>
+                                    </a>
+                                    <a href="">
+                                        <i class=""></i>
+                                    </a>
+                                    <a href="">
+                                        <i class=""></i>
+                                    </a>
+                                    <a href="{{ paper.code }}" title="code" target="_blank">
+                                        <i class="fab fa-github-square fa-fw"></i>
+                                    </a>
+                                </div>
+                            </span>
+                        </span>
+                    </li>
+                    {% if forloop.index == 3 %}
+                    <div class="read_more">
+                        · · ·
+                        <a data-bs-toggle="collapse" href="#more-preprint" class="more-button">More</a>
+                        · · ·
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            </ol>
+        </div>
+    </div>
+</div>
