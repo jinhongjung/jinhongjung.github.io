@@ -45,8 +45,8 @@
                 {% if forloop.index < 6 %}
                     <div class="item no_mb">
                         <p class="long-and-truncated text-bold">{{ award.title }}</p>
-                        <div class="title_item">
-                            <div>@ {{ award.orginization }} </div>
+                        <div class="title_item" style="font-style:x-small;">
+                            <div>- Awarded by {{ award.orginization }} </div>
                             <div class="date">{{ award.date }}</div>
                         </div>
                     </div>
@@ -59,9 +59,9 @@
                     </div>
                     {% endif %}
                     <div id="more-award" class="item no_mb collapse">
-                        <p class="long-and-truncated">{{ award.title }}</p>
-                        <div class="title_item">
-                            <div>@ {{ award.orginization }} </div>
+                        <p class="long-and-truncated text-bold">{{ award.title }}</p>
+                        <div class="title_item" style="font-style:x-small;">
+                            <div>- Awarded by {{ award.orginization }} </div>
                             <div class="date">{{ award.date }}</div>
                         </div>
                     </div>

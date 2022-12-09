@@ -70,8 +70,9 @@
             <h3 style="font-weight:bold;">Projects</h3>
             {% for project in site.data.projects %}
                 <div class="item no_mb">
-                    <div class="title_item">
-                        <div>· {{ project.title }} @ {{ project.funder }} </div>
+                    <p class="long-and-truncated">· {{ project.title }}</p>
+                    <div class="title_item" style="font-size:x-small;">
+                        <div style="padding-left: 7px;">- Supported by {{ project.funder }}</div>
                         <div class="date">{{ project.date }}</div>
                     </div>
                 </div>
@@ -82,8 +83,8 @@
             {% for talk in site.data.talks %}
                 <div class="item no_mb">
                     <p class="long-and-truncated">· {{ talk.title }}</p>
-                    <div class="title_item">
-                        <div style="padding-left: 7px;">@ {{ talk.venue }}</div>
+                    <div class="title_item" style="font-size:x-small;">
+                        <div style="padding-left: 7px;">- Talk at {{ talk.venue }}</div>
                         <div class="date">{{ talk.year }}</div>
                     </div>
                 </div>
