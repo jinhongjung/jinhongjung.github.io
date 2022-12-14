@@ -134,7 +134,7 @@
     venue: "EDBT 2020"
     full-venue: "The 23rd International Conference on Extending Database Technology"
     link: "https://diku-dk.github.io/edbticdt2020/"
-  pdf: "/assets/resources/papers/balansingedbt20.pdf"
+  pdf: "/assets/resources/papers/balansingEDBT20.pdf"
   bib: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib"
   code: "https://datalab.snu.ac.kr/balansing/resources/balansing-cpp-v1.0.zip"
   slide: "/assets/resources/slides/balansingEDBT20.pdf"
