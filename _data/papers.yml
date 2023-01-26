@@ -4,8 +4,8 @@
   type: conference
   title: "NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors"
   authors:
-    - Taehyung Kwon, 
-    - Jihoon Ko, 
+    - Taehyung Kwon
+    - Jihoon Ko
     - Jinhong Jung
     - Kijung Shin
   publisher:
