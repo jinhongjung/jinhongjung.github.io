@@ -2,6 +2,25 @@
   month: Feb
   international: true
   type: conference
+  title: "NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors"
+  authors:
+    - Taehyung Kwon, 
+    - Jihoon Ko, 
+    - Jinhong Jung
+    - Kijung Shin
+  publisher:
+    venue: "TheWebConf 2023 (to appear)"
+    full-venue: ""
+    link: "https://www2023.thewebconf.org/"
+  pdf: 
+  bib: 
+  code: 
+  slide: 
+
+- year: 2023
+  month: Feb
+  international: true
+  type: conference
   title: "Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning"
   authors:
     - Jong-whi Lee
@@ -13,7 +32,7 @@
   pdf: "/assets/resources/papers/tiaraAAAI23.pdf"
   bib: 
   code: "https://github.com/dev-jwel/TiaRa"
-  slide: 
+  slide: "/assets/resources/slides/tiaraAAAI23.pdf"
 
 - year: 2022
   month: Mar

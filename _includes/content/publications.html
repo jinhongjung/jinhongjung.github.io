@@ -45,9 +45,13 @@
                             {% endif %}
                             </div>
                             <div>
+                                {% if paper.pdf != nil %}
                                 <a href="{{ paper.pdf }}" title="paper" target="_blank">
                                     <i class="fas fa-file-pdf fa-fw"></i>
                                 </a>
+                                {% else %}
+                                    <i  style="color:white;" class="fas fa-ban fa-fw"></i>
+                                {% endif %}
 
                                 {% if paper.bib != nil %}
                                 <a href="{{ paper.bib }}" title="bibtex" target="_blank">

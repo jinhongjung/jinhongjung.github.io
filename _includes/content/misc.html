@@ -5,6 +5,19 @@
             <h3 class="section-title">Miscellaneous</h3>
         </div>
         <div class="col-sm-10">
+
+            <h3 style="font-weight:bold;">My Students' Awards</h3>
+            {% for award in site.data.std_awards %}
+                <div class="item no_mb">
+                    <div class="title_item">
+                        <div>· {{ award.awardee}}, {{ award.title }} @ {{ award.orginization }} </div>
+                        <div class="date">{{ award.date }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
+
             <h3 style="font-weight:bold;">Projects</h3>
             {% for project in site.data.projects %}
                 <div class="item no_mb">
@@ -67,6 +80,18 @@
             <h3 class="section-title">Miscellaneous</h3>
         </div>
         <div class="col-sm-10">
+            <h3 style="font-weight:bold;">My Students' Awards</h3>
+            {% for award in site.data.std_awards %}
+                <div class="item no_mb">
+                    <p class="long-and-truncated">· {{ award.awardee }}, {{ award.title }}</p>
+                    <div class="title_item" style="font-size:x-small;">
+                        <div style="padding-left: 7px;">- Awarded by {{ award.orginization }}</div>
+                        <div class="date">{{ award.date }}</div>
+                    </div>
+                </div>
+            {% endfor %}
+            <div class="item"></div>
+
             <h3 style="font-weight:bold;">Projects</h3>
             {% for project in site.data.projects %}
                 <div class="item no_mb">

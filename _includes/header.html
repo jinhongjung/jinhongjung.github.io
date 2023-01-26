@@ -1,17 +1,42 @@
 <header>
     <div class="container">
-        <p class="intro__main"> {{ site.name }} </p>
-        <div>
-        <p class="intro__post">{{ site.job }}</p>
-        <p class="contact">{{ site.email }}</p>
-        <p class="contact">{{ site.location }}</p>
-        <p class="contact">
-            <a href="https://scholar.google.com/citations?user=0RcixOoAAAAJ&hl=ko" target="_blank"> Google Scholar</a> | 
-            <a href="https://dblp.uni-trier.de/pid/163/0678.html" target="_blank">DBLP</a> | 
-            <a href="https://github.com/jinhongjung" target="_blank">GitHub</a> | 
-            <a href="#" onclick="beforePrint()" style="color:black !important;">CV</a>
-        </p>
+        <!--
+        <div class="row">
+            <div class="col-sm-2 px-0" style="display:flex; justify-content: left; align-items: left; padding-top: 10px; margin-left: 10px;">
+                <img src="assets/img/profile.jpeg" class="img-thumbnail" style="height : 130px;">
+            </div>
+            <div class="col-sm-10 px-0" style="margin-left: -25px;">
+                <p class="intro__main"> {{ site.name }} </p>
+                <div>
+                <p class="intro__post">{{ site.job }}</p>
+                <p class="contact">{{ site.email }}</p>
+                <p class="contact">{{ site.location }}</p>
+                <p class="contact">
+                    <a href="https://scholar.google.com/citations?user=0RcixOoAAAAJ&hl=ko" target="_blank"> Google Scholar</a> | 
+                    <a href="https://dblp.uni-trier.de/pid/163/0678.html" target="_blank">DBLP</a> | 
+                    <a href="https://github.com/jinhongjung" target="_blank">GitHub</a> | 
+                    <a href="#" onclick="beforePrint()" style="color:black !important;">CV</a> |
+                    <a href="https://jinhongjung.github.io" target="_blank" style="color:black !important;">Homepage</a>
+                </p>
+            </div>
         </div>
+        -->
+        <div class="row">
+            <p class="intro__main"> {{ site.name }} </p>
+            <div>
+            <p class="intro__post">{{ site.job }}</p>
+            <p class="contact">{{ site.email }}</p>
+            <p class="contact">{{ site.location }}</p>
+            <p class="contact">
+                <a href="https://scholar.google.com/citations?user=0RcixOoAAAAJ&hl=ko" target="_blank"> Google Scholar</a> | 
+                <a href="https://dblp.uni-trier.de/pid/163/0678.html" target="_blank">DBLP</a> | 
+                <a href="https://github.com/jinhongjung" target="_blank">GitHub</a> | 
+                <a href="#" onclick="beforePrint()" style="color:black !important;">CV</a> |
+                <a href="https://jinhongjung.github.io" target="_blank" style="color:black !important;">Homepage</a>
+            </p>
+        </div>
+        <div class="row">
         {% include aboutme.html %}
+        </div>
     </div>
 </header>
