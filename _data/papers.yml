@@ -12,9 +12,9 @@
     venue: "TheWebConf 2023 (to appear)"
     full-venue: ""
     link: "https://www2023.thewebconf.org/"
-  pdf: 
+  pdf: "https://arxiv.org/pdf/2302.04570.pdf"
   bib: 
-  code: 
+  code: "https://github.com/kbrother/neukron"
   slide: 
 
 - year: 2023

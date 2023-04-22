@@ -1,3 +1,21 @@
+- year: 2023
+  month: Feb
+  international: true
+  type: preprint
+  title: "NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors"
+  authors:
+    - Taehyung Kwon
+    - Jihoon Ko
+    - Jinhong Jung
+    - Kijung Shin
+  publisher:
+    venue: "arXiv"
+    link: "https://arxiv.org/abs/2302.04570"
+  pdf: "https://arxiv.org/pdf/2302.04570.pdf"
+  bib: 
+  code: "https://github.com/kbrother/neukron"
+  slide:
+
 - year: 2022
   month: Nov
   international: true
@@ -11,8 +29,8 @@
     link: "https://arxiv.org/abs/2211.01214"
   pdf: "https://arxiv.org/pdf/2211.01214.pdf"
   bib: 
-  code: 
-  slide:
+  code: "https://github.com/dev-jwel/TiaRa"
+  slide: 
 
 - year: 2022
   month: Jun

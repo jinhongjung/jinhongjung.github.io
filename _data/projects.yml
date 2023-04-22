@@ -4,6 +4,13 @@
   content: 
     - ""
 
+- date: 2021-Present
+  title: "Artificial intelligence innovation hub R&D"
+  funder: IITP
+  content: 
+    - ""
+
+
 - date: 2020
   title: "Model Compression for Deep Graph Neural Networks (SW-StarLab)"
   funder: "IITP"
