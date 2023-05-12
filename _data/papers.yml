@@ -1,5 +1,5 @@
 - year: 2023
-  month: Feb
+  month: May
   international: true
   type: conference
   title: "NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors"
@@ -9,13 +9,13 @@
     - Jinhong Jung
     - Kijung Shin
   publisher:
-    venue: "TheWebConf 2023 (to appear)"
+    venue: "TheWebConf 2023"
     full-venue: ""
     link: "https://www2023.thewebconf.org/"
-  pdf: "https://arxiv.org/pdf/2302.04570.pdf"
-  bib: 
+  pdf: "/assets/resources/papers/neukronWWW23.pdf"
+  bib: "https://dblp.uni-trier.de/rec/conf/www/KwonKJS23.html?view=bibtex"
   code: "https://github.com/kbrother/neukron"
-  slide: 
+  slide: "http://dmlab.kaist.ac.kr/~kijungs/neukronWWW2023.pdf"
 
 - year: 2023
   month: Feb
