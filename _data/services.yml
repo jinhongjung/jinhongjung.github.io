@@ -35,6 +35,9 @@
     - item:
       year: 2023
       link: 
+    - item:
+      year: 2024
+      link: 
 
 - type: pcmember
   venue: BigComp

@@ -1,4 +1,20 @@
 - year: 2023
+  month: Jul
+  international: true
+  type: preprint
+  title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
+  authors:
+    - Geonwoo Ko
+    - Jinhong Jung
+  publisher:
+    venue: "arXiv"
+    link: "https://arxiv.org/abs/2307.03077"
+  pdf: "https://arxiv.org/pdf/2307.03077.pdf"
+  bib: 
+  code: "https://github.com/geonwooko/DINES"
+  slide:
+
+- year: 2023
   month: Feb
   international: true
   type: preprint
