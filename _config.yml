@@ -2,13 +2,13 @@
 
 # Site settings
 title: Jinhong Jung
-email: jinhongjung at jbnu.ac.kr
+email: jinhong at ssu.ac.kr
 description: Jekyll Resume is a mega simple resume theme for Jekyll.
 baseurl: ""
 url: "http://mattcouchman.co.uk/jekyll-resume"
 name: Jinhong Jung
 job: Assistant Professor
-location: "#627, 7-th Eng. Building, Jeonbuk National University"
+location: "#225, School of Software, Soongsil University"
 languages: HTML, CSS and Javascript
 twitter_username: mattcouchman
 github_username:  mattcouchman
