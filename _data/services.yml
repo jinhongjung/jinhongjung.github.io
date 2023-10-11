@@ -1,3 +1,27 @@
+- type: reviewer
+  venue: NeurIPS 2023 Workshop GLFrontiers 
+  full-venue: NeurIPS 2023 Workshop GLFrontiers 
+  years: 
+    - item:
+      year: 2023
+      link: 
+
+- type: journal
+  venue: NEUNET
+  full-venue: Neural Networks
+  years: 
+    - item:
+      year: 2023
+      link: 
+
+- type: journal
+  venue: ESWA
+  full-venue: Expert Systems With Applications
+  years: 
+    - item:
+      year: 2023
+      link: 
+
 - type: journal
   venue: TKDE
   full-venue: ACM Transactions on Knowledge and Data Engineering
@@ -16,6 +40,9 @@
     - item:
       year: 2023
       link: 
+    - item:
+      year: 2024
+      link: 
 
 - type: pcmember
   venue: TheWebConf
@@ -26,6 +53,9 @@
       link: https://www2022.thewebconf.org/program-committee-members/ 
     - item:
       year: 2023
+      link: 
+    - item:
+      year: 2024
       link: 
 
 - type: pcmember
@@ -45,6 +75,9 @@
   years: 
     - item:
       year: 2021
+      link: http://www.bigcomputing.org/conf2021/program-committee.html
+    - item:
+      year: 2024
       link: http://www.bigcomputing.org/conf2021/program-committee.html
 
 - type: reviewer

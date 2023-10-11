@@ -12,9 +12,9 @@
     venue: "ICDM 2023"
     full-venue: ""
     link: "https://www.cloud-conf.net/icdm2023/"
-  pdf: ""
+  pdf: "https://arxiv.org/pdf/2309.10310.pdf"
   bib: ""
-  code: ""
+  code: "https://github.com/kbrother/tensorcodec"
   slide: ""
 
 
