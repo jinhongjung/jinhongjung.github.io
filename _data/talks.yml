@@ -1,7 +1,7 @@
 - year: 2023
   month: Oct.
   title: "Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning"
-  venue: KJDB 2023
+  venue: <a href="http://kj-db.org/KJDB/Workshops/2023/ target="_blank">KJDB 2023</a>
   slide: "/assets/resources/talks/KJDB2023.pdf"
 
 
@@ -14,7 +14,7 @@
 - year: 2020
   month: Jul.
   title: Machine Learning with Graphs
-  venue: Korea Computer Congress
+  venue: <a href="https://shorturl.at/wHOS4" target="_blank">Korea Computer Congress</a>
   slide: "/assets/resources/talks/KCC2020.pdf"
 
 - year: 2019

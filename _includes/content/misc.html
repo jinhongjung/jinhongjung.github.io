@@ -33,7 +33,7 @@
             {% for talk in site.data.talks %}
                 <div class="item no_mb">
                     <div class="title_item">
-                        <div>· {{ talk.title }} @ {{ talk.venue }} </div>
+                        <div>· <a href="{{ talk.slide }}" target="_blank">{{ talk.title }}</a> @ {{ talk.venue }} </div>
                         <div class="date">{{ talk.month }} {{ talk.year }}</div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
             <h3 style="font-weight:bold;">Talks or Tutorials</h3>
             {% for talk in site.data.talks %}
                 <div class="item no_mb">
-                    <p class="long-and-truncated">· {{ talk.title }}</p>
+                    <p class="long-and-truncated">· <a href="{{ talk.slide }}" target="_blank">{{ talk.title }}</a></p>
                     <div class="title_item" style="font-size:x-small;">
                         <div style="padding-left: 7px;">- Talk at {{ talk.venue }}</div>
                         <div class="date">{{ talk.year }}</div>
