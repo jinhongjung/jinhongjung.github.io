@@ -1,14 +1,21 @@
+- year: 2023
+  month: Oct.
+  title: "Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning"
+  venue: KJDB 2023
+  slide: "/assets/resources/talks/KJDB2023.pdf"
+
+
 - year: 2022
   month: Apr.
   title: Graph Neural Networks
   venue: Rural Development Administration
-  slide:
+  slide: "/assets/resources/talks/RDA2022.pdf"
 
 - year: 2020
   month: Jul.
   title: Machine Learning with Graphs
   venue: Korea Computer Congress
-  slide:
+  slide: "/assets/resources/talks/KCC2020.pdf"
 
 - year: 2019
   month: Jan.
