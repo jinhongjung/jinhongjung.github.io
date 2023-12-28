@@ -1,3 +1,22 @@
+- year: 2024
+  month: 
+  international: true
+  type: journal
+  title: "Random Walk with Restart on Hypergraphs: Fast Computation and an Application to Anomaly Detection"
+  authors:
+    - Jaewan Chun
+    - Geon Lee
+    - Kijung Shin
+    - Jinhong Jung
+  publisher:
+    venue: "Data Mining and Knowledge Discovery (SCIE)"
+    full-venue: ""
+    link: ""
+  pdf: "https://link.springer.com/article/10.1007/s10618-023-00995-9"
+  bib: ""
+  code: "https://github.com/jaewan01/ARCHER"
+  slide: ""
+
 - year: 2023
   month: Dec
   international: true
