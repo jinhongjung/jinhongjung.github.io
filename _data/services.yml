@@ -45,7 +45,7 @@
       link: 
 
 - type: pcmember
-  venue: TheWebConf
+  venue: TheWebConf (WWW)
   full-venue: The Web Conference
   years: 
     - item:
@@ -54,6 +54,14 @@
     - item:
       year: 2023
       link: 
+    - item:
+      year: 2024
+      link: 
+
+- type: pcmember
+  venue: KDD
+  full-venue: ACM Conference on Knowledge Discovery and Data Mining 
+  years: 
     - item:
       year: 2024
       link: 

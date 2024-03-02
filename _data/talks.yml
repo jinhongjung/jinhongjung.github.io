@@ -1,3 +1,16 @@
+- year: 2024
+  month: Apr.
+  title: "Graph Machine Learning"
+  venue: Kangwon National University
+  slide: ""
+
+- year: 2023
+  month: Nov.
+  title: "Learning Graphs with Random Walks"
+  venue: DMLAB, KAIST
+  slide: ""
+
+
 - year: 2023
   month: Oct.
   title: "Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning"
