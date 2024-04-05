@@ -7,7 +7,7 @@
     - Geonwoo Ko
     - Jinhong Jung
   publisher:
-    venue: "Information Sciences (SCI)"
+    venue: "Information Sciences"
     full-venue: ""
     link: ""
   pdf: ""
@@ -26,7 +26,7 @@
     - Kijung Shin
     - Jinhong Jung
   publisher:
-    venue: "Data Mining and Knowledge Discovery (SCI)"
+    venue: "Data Mining and Knowledge Discovery"
     full-venue: ""
     link: ""
   pdf: "/assets/resources/papers/archerDAMI24.pdf"
@@ -119,7 +119,7 @@
     - Jaemin Yoo
     - U Kang
   publisher:
-    venue: "PLoS ONE (SCIE)"
+    venue: "PLoS ONE"
     link: "https://journals.plos.org/plosone/"
   pdf: "/assets/resources/papers/sidnetPLOS22.pdf"
   bib: ""
@@ -154,7 +154,7 @@
     - Jinhong Jung
     - U Kang
   publisher:
-    venue: "PLoS ONE (SCIE)"
+    venue: "PLoS ONE"
     link: "https://journals.plos.org/plosone/"
   pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256187&type=printable"
   bib: "/assets/resources/bibtex/mustadPLOS21.bib"
@@ -170,7 +170,7 @@
     - Jinhong Jung
     - Lee Sael
   publisher:
-    venue: "Machine Learning (SCIE)"
+    venue: "Machine Learning"
     link: "https://www.springer.com/journal/10994"
   pdf: "https://link.springer.com/content/pdf/10.1007/s10994-020-05920-5.pdf"
   bib: "https://dblp.org/rec/journals/ml/JungS20.html?view=bibtex"
@@ -188,7 +188,7 @@
     - Ha-Myung Park
     - U Kang
   publisher:
-    venue: WWW Journal (SCIE)
+    venue: World Wide Web Journal
     full-venue: World Wide Web Journal
     link: "https://www.springer.com/journal/11280"
   pdf: "/assets/resources/papers/lrwrWWWJ20.pdf"
@@ -224,7 +224,7 @@
     - Woojeong Jin
     - U Kang
   publisher:
-    venue: "KAIS (SCIE)"
+    venue: "Knowledge and Information Systems"
     full-venue: "Knowledge and Information Systems"
     link: https://link.springer.com/article/10.1007/s10115-019-01364-z
   pdf: "/assets/resources/papers/srwrKAIS20.pdf"
@@ -242,7 +242,7 @@
     - Jinhong Jung
     - U Kang
   publisher:
-    venue: "PLoS ONE (SCIE)"
+    venue: "PLoS ONE"
     link: "https://journals.plos.org/plosone/"
   pdf: "/assets/resources/papers/surePLOS19.pdf"
   bib: "/assets/resources/bibtex/surePLOS19.bib"
@@ -376,7 +376,7 @@
     - Lee Sael
     - U Kang
   publisher:
-    venue: "TODS (SCI)"
+    venue: "Transactions on Database Systems"
     full-venue: "ACM Transactions on Database Systems"
     link: "https://dl.acm.org/journal/tods"
   pdf: "/assets/resources/papers/bearTODS16.pdf"
