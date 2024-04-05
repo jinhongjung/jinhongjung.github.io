@@ -9,8 +9,8 @@
   publisher:
     venue: "Information Sciences"
     full-venue: ""
-    link: ""
-  pdf: ""
+    link: "https://www.sciencedirect.com/journal/information-sciences"
+  pdf: "https://www.sciencedirect.com/science/article/abs/pii/S002002552400286X"
   bib: ""
   code: "https://github.com/geonwooko/DINES"
   slide: ""
@@ -28,7 +28,7 @@
   publisher:
     venue: "Data Mining and Knowledge Discovery"
     full-venue: ""
-    link: ""
+    link: "https://link.springer.com/journal/10618"
   pdf: "/assets/resources/papers/archerDAMI24.pdf"
   bib: ""
   code: "https://github.com/jaewan01/ARCHER"
@@ -49,9 +49,9 @@
     full-venue: ""
     link: "https://www.cloud-conf.net/icdm2023/"
   pdf: "https://arxiv.org/pdf/2309.10310.pdf"
-  bib: ""
+  bib: "https://dblp.uni-trier.de/rec/conf/icdm/KwonKJS23.html?view=bibtex"
   code: "https://github.com/kbrother/tensorcodec"
-  slide: ""
+  slide: "http://dmlab.kaist.ac.kr/~kijungs/tensorcodecICDM2023.pdf"
 
 
 - year: 2023
