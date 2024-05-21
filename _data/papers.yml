@@ -50,7 +50,7 @@
     full-venue: ""
     link: "https://link.springer.com/journal/10618"
   pdf: "/assets/resources/papers/archerDAMI24.pdf"
-  bib: ""
+  bib: "https://dblp.uni-trier.de/rec/journals/datamine/ChunLSJ24.html?view=bibtex"
   code: "https://github.com/jaewan01/ARCHER"
   slide: ""
 
@@ -106,7 +106,7 @@
     full-venue: "The 37-th AAAI Conference on Artificial Intelligence"
     link: "https://aaai.org/Conferences/AAAI-23/"
   pdf: "/assets/resources/papers/tiaraAAAI23.pdf"
-  bib: 
+  bib: "https://dblp.uni-trier.de/rec/conf/aaai/LeeJ23.html?view=bibtex"
   code: "https://github.com/dev-jwel/TiaRa"
   slide: "/assets/resources/slides/tiaraAAAI23.pdf"
 
@@ -142,7 +142,7 @@
     venue: "PLoS ONE"
     link: "https://journals.plos.org/plosone/"
   pdf: "/assets/resources/papers/sidnetPLOS22.pdf"
-  bib: ""
+  bib: "https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0265001"
   code: "https://github.com/snudatalab/SidNet"
   slide:
 
