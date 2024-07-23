@@ -1,4 +1,23 @@
 - year: 2024
+  month: Oct
+  international: true
+  type: conference
+  title: "MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation"
+  authors:
+    - Seunghan Lee<sup style='font-size:0.7em'>&#10038;</sup>
+    - Geonwoo Ko<sup style='font-size:0.7em'>&#10038;</sup>
+    - Hyun-Je Song<sup style='font-size:0.8em'>†</sup>
+    - Jinhong Jung<sup style='font-size:0.8em'>†</sup>
+  publisher:
+    venue: "CIKM 2024"
+    full-venue: "The 33rd ACM International Conference on Information and Knowledge Management"
+    link: https://cikm2024.org/
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
+- year: 2024
   month: Aug
   international: true
   type: conference
@@ -19,7 +38,7 @@
   slide: ""
 
 - year: 2024
-  month: 
+  month:
   international: true
   type: journal
   title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
@@ -36,15 +55,15 @@
   slide: ""
 
 - year: 2024
-  month: 
+  month:
   international: true
   type: journal
   title: "Random Walk with Restart on Hypergraphs: Fast Computation and an Application to Anomaly Detection"
   authors:
     - Jaewan Chun
     - Geon Lee
-    - Kijung Shin
-    - Jinhong Jung
+    - Kijung Shin<sup style='font-size:0.8em'>†</sup>
+    - Jinhong Jung<sup style='font-size:0.8em'>†</sup>
   publisher:
     venue: "Data Mining and Knowledge Discovery"
     full-venue: ""
