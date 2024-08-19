@@ -12,9 +12,9 @@
     venue: "CIKM 2024"
     full-venue: "The 33rd ACM International Conference on Information and Knowledge Management"
     link: https://cikm2024.org/
-  pdf: ""
+  pdf: "https://drive.google.com/file/d/16KwP85V5N1LCLos1YGDTI2Ay5ykXzZYW/view?usp=sharing"
   bib: ""
-  code: ""
+  code: "https://github.com/geonwooko/MULE"
   slide: ""
 
 - year: 2024
@@ -32,9 +32,9 @@
     venue: "KDD 2024"
     full-venue: "The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
     link: https://kdd2024.kdd.org
-  pdf: ""
+  pdf: "https://drive.google.com/file/d/1B9jxB9VtsJKbAw5HQe2mXg6iT24VG-aR/view?usp=sharing"
   bib: ""
-  code: ""
+  code: "https://github.com/kbrother/Light-IT"
   slide: ""
 
 - year: 2024
@@ -49,8 +49,8 @@
     venue: "Information Sciences"
     full-venue: ""
     link: "https://www.sciencedirect.com/journal/information-sciences"
-  pdf: "https://www.sciencedirect.com/science/article/abs/pii/S002002552400286X"
-  bib: ""
+  pdf: "https://drive.google.com/file/d/1b0iGnMnpxHr12QhlqvyGjpMZSTTG8jrr/view?usp=sharing"
+  bib: "https://dblp.uni-trier.de/rec/journals/isci/KoJ24.html?view=bibtex"
   code: "https://github.com/geonwooko/DINES"
   slide: ""
 
@@ -68,7 +68,7 @@
     venue: "Data Mining and Knowledge Discovery"
     full-venue: ""
     link: "https://link.springer.com/journal/10618"
-  pdf: "/assets/resources/papers/archerDAMI24.pdf"
+  pdf: "https://drive.google.com/file/d/1BPKBr6M98ddLx3I8MY-_ewKcumqrRXBn/view?usp=sharing"
   bib: "https://dblp.uni-trier.de/rec/journals/datamine/ChunLSJ24.html?view=bibtex"
   code: "https://github.com/jaewan01/ARCHER"
   slide: ""
@@ -87,10 +87,14 @@
     venue: "ICDM 2023"
     full-venue: ""
     link: "https://www.cloud-conf.net/icdm2023/"
-  pdf: "https://arxiv.org/pdf/2309.10310.pdf"
+  pdf: "https://drive.google.com/file/d/1NODLXIN6FXqGZQcFepAEo98_3McpLZiL/view?usp=sharing"
   bib: "https://dblp.uni-trier.de/rec/conf/icdm/KwonKJS23.html?view=bibtex"
   code: "https://github.com/kbrother/tensorcodec"
-  slide: "http://dmlab.kaist.ac.kr/~kijungs/tensorcodecICDM2023.pdf"
+  slide: "https://drive.google.com/file/d/1BfbhcyjhGWSlZSBL3Jz1yq8CsMAoS5VK/view?usp=sharing"
+  notes:
+    - title: "Received the IEEE ICDM Best Student Paper Runner-up Award"
+      link: "https://icdm.zhonghuapu.com/Awards/BestPapers.shtml"
+    - title: "Selected as one of the best-ranked papers of ICDM 2023 for fast-track journal invitation"
 
 
 - year: 2023
@@ -107,10 +111,10 @@
     venue: "TheWebConf 2023"
     full-venue: ""
     link: "https://www2023.thewebconf.org/"
-  pdf: "/assets/resources/papers/neukronWWW23.pdf"
+  pdf: "https://drive.google.com/file/d/1NQ2S3ektkm9-kqyZIioCGd44U6lGBuG3/view?usp=sharing"
   bib: "https://dblp.uni-trier.de/rec/conf/www/KwonKJS23.html?view=bibtex"
   code: "https://github.com/kbrother/neukron"
-  slide: "http://dmlab.kaist.ac.kr/~kijungs/neukronWWW2023.pdf"
+  slide: "https://drive.google.com/file/d/1BffmtpJKYh1tB-LBygO_eIQ4P6F7qGw2/view?usp=sharing"
 
 - year: 2023
   month: Feb
@@ -124,10 +128,13 @@
     venue: "AAAI 2023"
     full-venue: "The 37-th AAAI Conference on Artificial Intelligence"
     link: "https://aaai.org/Conferences/AAAI-23/"
-  pdf: "/assets/resources/papers/tiaraAAAI23.pdf"
+  pdf: "https://drive.google.com/file/d/1NR3ak5m-1fEBBpAqiuKNVTtmsjF16VQb/view?usp=sharing"
   bib: "https://dblp.uni-trier.de/rec/conf/aaai/LeeJ23.html?view=bibtex"
   code: "https://github.com/dev-jwel/TiaRa"
-  slide: "/assets/resources/slides/tiaraAAAI23.pdf"
+  slide: "https://drive.google.com/file/d/1Boq3dowExYhP1QzFi1jrQxs_oRLzORGI/view?usp=sharing"
+  notes:
+    - title: "Accepted as oral presentation"
+    - title: Received the Samsung Humantech Paper Award (Bronze Prize) 
 
 - year: 2022
   month: Mar

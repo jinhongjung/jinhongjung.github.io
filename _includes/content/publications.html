@@ -89,6 +89,18 @@
                                 {% endif %}
                             </div>
                         </span>
+                        <span style="font-size:small;">
+                            {% for note in paper.notes %}
+                                {% if note.link != nil %}
+                                    <a href="{{ note.link }}" target="_blank">
+                                    · {{ note.title }}
+                                    </a>
+                                {% else %}
+                                    · {{ note.title }}
+                                {% endif %}
+                                <br>
+                            {% endfor %}
+                        </span>
                     </span>
                 </li>
                 {% endfor %}

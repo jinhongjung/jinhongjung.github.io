@@ -43,6 +43,9 @@
     - item:
       year: 2024
       link: 
+    - item:
+      year: 2025
+      link: 
 
 - type: pcmember
   venue: TheWebConf (WWW)
@@ -57,6 +60,9 @@
     - item:
       year: 2024
       link: 
+    - item:
+      year: 2025
+      link: 
 
 - type: pcmember
   venue: KDD
@@ -64,6 +70,9 @@
   years: 
     - item:
       year: 2024
+      link: 
+    - item:
+      year: 2025
       link: 
 
 - type: pcmember
@@ -75,6 +84,9 @@
       link: 
     - item:
       year: 2024
+      link: 
+    - item:
+      year: 2025
       link: 
 
 - type: pcmember
@@ -166,6 +178,9 @@
       link: 
     - item:
       year: 2019
+      link: 
+    - item:
+      year: 2025
       link: 
 
 - type: reviewer
