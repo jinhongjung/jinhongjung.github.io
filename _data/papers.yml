@@ -1,4 +1,23 @@
 - year: 2024
+  month: Dec
+  international: true
+  type: conference
+  title: "ELiCiT: Effective and Lightweight Lossy Compression of Tensors"
+  authors:
+    - Jihoon Ko
+    - Taehyung Kwon
+    - Jinhong Jung
+    - Kijung Shin
+  publisher:
+    venue: "ICDM 2024"
+    full-venue: ""
+    link: "https://icdm2024.org"
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
+- year: 2024
   month: Oct
   international: true
   type: conference
@@ -33,9 +52,9 @@
     full-venue: "The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
     link: https://kdd2024.kdd.org
   pdf: "https://drive.google.com/file/d/1B9jxB9VtsJKbAw5HQe2mXg6iT24VG-aR/view?usp=sharing"
-  bib: ""
+  bib: "https://dblp.uni-trier.de/rec/conf/kdd/KwonKJJS24.html?view=bibtex"
   code: "https://github.com/kbrother/Light-IT"
-  slide: ""
+  slide: "http://dmlab.kaist.ac.kr/~kijungs/lightitKDD2024.pdf"
 
 - year: 2024
   month:
