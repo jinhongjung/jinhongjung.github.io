@@ -1,3 +1,23 @@
+- year: 2025
+  month: Dec
+  international: true
+  type: journal
+  title: "Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition"
+  authors:
+    - Jihoon Ko
+    - Taehyung Kwon
+    - Jinhong Jung
+    - Jun-Gi Jang
+    - Kijung Shin
+  publisher:
+    venue: "Knowledge and Information Systems"
+    full-venue: ""
+    link: "https://link.springer.com/journal/10115"
+  pdf: ""
+  bib: ""
+  code: ""
+  slide: ""
+
 - year: 2024
   month: Dec
   international: true
@@ -153,7 +173,7 @@
   slide: "https://drive.google.com/file/d/1Boq3dowExYhP1QzFi1jrQxs_oRLzORGI/view?usp=sharing"
   notes:
     - title: "Accepted as oral presentation"
-    - title: Received the Samsung Humantech Paper Award (Bronze Prize) 
+    - title: Received the Samsung Humantech Paper Award (Bronze Prize)
 
 - year: 2022
   month: Mar
