@@ -4,3 +4,6 @@
 - 'no': '2'
   paper: TIARA
   conference: AAAI
+- 'no': '3'
+  paper: DINES
+  conference: InfoSci
