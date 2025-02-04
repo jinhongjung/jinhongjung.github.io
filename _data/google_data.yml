@@ -1,9 +1,12 @@
 - 'no': '1'
   paper: MULE
   conference: CIKM
+  link: https://aaai.org/conference/aaai/aaai-24/
 - 'no': '2'
   paper: TIARA
   conference: AAAI
+  link: https://aaai.org/conference/aaai/aaai-24/
 - 'no': '3'
   paper: DINES
   conference: InfoSci
+  link: https://aaai.org/conference/aaai/aaai-24/
