@@ -23,7 +23,7 @@ jobs:
           pip install requests pyyaml
 
       - name: Fetch and convert Google Sheets data to YAML
-        run: python path/to/your_script.py  # 위에서 작성한 스크립트의 경로
+        run: python toyaml.py  
 
       - name: Commit and push YAML data update
         run: |
