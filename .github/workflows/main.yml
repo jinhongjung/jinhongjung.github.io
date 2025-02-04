@@ -29,6 +29,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull
           git add _data/google_data.yml
           git commit -m "Update Google Sheets data" || echo "No changes to commit"
           git push
