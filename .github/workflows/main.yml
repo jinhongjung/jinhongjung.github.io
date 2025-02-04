@@ -1,0 +1,34 @@
+name: Update Google Sheets Data
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pyyaml
+
+      - name: Fetch and convert Google Sheets data to YAML
+        run: python toyaml.py  # 위에서 작성한 스크립트의 경로
+
+      - name: Commit and push YAML data update
+        run: |
+          git config --local user.email "jinhong@ssu.ac.kr"
+          git config --local user.name "GitHub Action"
+          git add _data/google_data.yml
+          git commit -m "Update Google Sheets data" || echo "No changes to commit"
+          git push
