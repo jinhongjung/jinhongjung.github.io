@@ -5,7 +5,7 @@ on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 * * * *'  # 매 시간 데이터 업데이트
+    - cron: '0 0 * * *' 
 
 jobs:
   update-data:
