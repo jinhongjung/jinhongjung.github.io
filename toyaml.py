@@ -2,10 +2,18 @@ import json
 import yaml
 import requests
 
-url = "https://opensheet.elk.sh/1kYKTlz8c3OCxxaliBcIhsYADlaeBPMC-NVzmLfPFrhs/Paper"
+api = "https://script.google.com/macros/s/AKfycbxO17hMwj9jdoHT5imxfTgTITt1JOxLYXNwHz42ZS9VGg1k1qpunpfPvu1pnP6_sSPFKw/exec"
 
-response = requests.get(url)
-data = response.json()
+sheets = {
+    "International+Conference" : "papers_new",
+    "International+Journal": "journals"
+}
 
-with open('_data/google_data.yml', 'w', encoding='utf8') as f:
-    yaml.dump(data, f, allow_unicode=True, sort_keys=False)
+for (sheetName, fileName) in sheets.items():
+    url = api + f"?sheet={sheetName}"
+
+    response = requests.get(url)
+    data = response.json()
+
+    with open(f'_data/{fileName}.yml', 'w', encoding='utf8') as f:
+        yaml.dump(data, f, allow_unicode=True, sort_keys=False)

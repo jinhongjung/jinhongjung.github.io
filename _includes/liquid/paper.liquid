@@ -1,0 +1,88 @@
+<li>
+    <span>
+        <font class="text-bold">{{ paper.Title }}</font> <br>
+        {% assign myname = "<font class='text-bold'>Jinhong Jung</font>" %}
+        {% if paper.Authors.size == 2 %}
+            {{ paper.Authors[0] | replace: "Jinhong Jung", myname }} and {{ paper.Authors[1] | replace: "Jinhong Jung", myname  }}
+        {% else %}
+            {% for author in paper.Authors %}
+                {% if forloop.last == true %}
+                    and {{ author | replace: "Jinhong Jung", myname }}
+                {% else %}
+                    {{ author | replace: "Jinhong Jung", myname }},
+                {% endif %}
+            {% endfor %}
+        {% endif %} <br>
+        <span class="venue">
+            <div style="padding-left: 2.3em" class="long-and-truncated">
+            {% if paper.Venue.url != nil %}
+                <a href="{{ paper.Venue.url }}" target="_blank" title="{{ paper.FullVenue }}">
+                    {{ paper.Venue.text }} {{ paper.Year }}
+                </a>
+            {% else %}
+                {{ paper.Venue.text }} {{ paper.Year }}
+            {% endif %}
+            </div>
+            <div>
+                {% if paper.Paper.url != nil %}
+                <a href="{{ paper.Paper.url }}" title="paper" target="_blank">
+                    <i class="fas fa-file-pdf fa-fw"></i>
+                </a>
+                {% else %}
+                    <a href="javascript:alert('n/a');">
+                        <i class="fas fa-file-pdf fa-fw"></i>
+                    </a>
+                    <!--
+                    <i  style="color:white;" class="fas fa-ban fa-fw"></i>
+                    -->
+                {% endif %}
+
+                {% if paper.BIB.url != nil %}
+                <a href="{{ paper.BIB.url }}" title="bibtex" target="_blank">
+                    <i class="fas fa-file fa-fw"></i>
+                </a>
+                {% else %}
+                    <a href="javascript:alert('n/a');">
+                        <i class="fas fa-file fa-fw"></i>
+                    </a>
+                {% endif %}
+
+                {% if paper.Slide.url != nil %}
+                <a href="{{ paper.Slide.url }}" title="slide" target="_blank">
+                    <i class="fas fa-file-powerpoint fa-fw"></i>
+                </a>
+                {% else %}
+                    <a href="javascript:alert('n/a');">
+                        <i class="fas fa-file-powerpoint fa-fw"></i>
+                    </a>
+                {% endif %}
+
+                {% if paper.Code.url != nil %}
+                <a href="{{ paper.Code.url }}" title="code" target="_blank">
+                    <i class="fab fa-github-square fa-fw"></i>
+                </a>
+                {% else %}
+                    <a href="javascript:alert('n/a');">
+                        <i class="fab fa-github-square fa-fw"></i>
+                    </a>
+                {% endif %}
+            </div>
+        </span>
+        <span style="font-size:small;">
+            {% for note in paper.Notes %}
+                {% if note.note == "" %}
+                    {% continue %}
+                {% endif %}
+
+                {% if note.url != nil %}
+                    <a href="{{ note.url}}" target="_blank">
+                    · {{ note.note }}
+                    </a>
+                {% else %}
+                    · {{ note.note }}
+                {% endif %}
+                <br>
+            {% endfor %}
+        </span>
+    </span>
+</li>

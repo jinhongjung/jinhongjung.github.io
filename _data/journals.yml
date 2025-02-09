@@ -1,0 +1,451 @@
+- Date: '2016-04-30T15:00:00.000Z'
+  Year: 2016
+  Month: 5
+  Days: 11
+  Publisher: ACM
+  Location: USA
+  Venue:
+    text: TODS
+    url: https://dl.acm.org/journal/tods
+  FullVenue: 'ACM Transactions on Database Systems '
+  Title: Random Walk with Restart on Large Graphs Using Block Elimination
+  IF: 0.684
+  ISSN: 0362-5915
+  VOL: 41
+  'NO': 2
+  Pages: 12:1-12:43
+  NumAuthors: 4
+  Authors:
+  - Jinhong Jung
+  - Kijung Shin
+  - Lee Sael
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/2901736
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/journals/tods/JungSSK16.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1Fkri9gQ5M_LeQFe5VOreZx7Fciq0i-sN/view?usp=drive_link
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/bear/
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2019-04-30T15:00:00.000Z'
+  Year: 2019
+  Month: 5
+  Days: 6
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: KAIS
+    url: https://link.springer.com/journal/10115
+  FullVenue: Knowledge and Information Systems
+  Title: 'Random Walk Based Ranking in Signed Social Networks: Model and Algorithms'
+  IF: 2.397
+  ISSN: 0219-1377
+  VOL: 62
+  'NO': 2
+  Pages: 571-610
+  NumAuthors: 3
+  Authors:
+  - Jinhong Jung
+  - Woojeong Jin
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1007/s10115-019-01364-z
+  BIB:
+    text: link
+    url: https://dblp.org/rec/journals/kais/JungJK20.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1FyOFq2urAT3x-iZMEHqKDtTDG7113l_I/view?usp=drive_link
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/srwrpre/
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2019-02-28T15:00:00.000Z'
+  Year: 2019
+  Month: 3
+  Days: 20
+  Publisher: Public Library of Science
+  Location: USA
+  Venue:
+    text: PLOS ONE
+    url: https://journals.plos.org/plosone/
+  FullVenue: PLOS ONE
+  Title: Supervised and Extended Restart in Random Walks for Ranking and Link Prediction
+    in Networks
+  IF: 2.766
+  ISSN: 1932-6203
+  VOL: 14
+  'NO': '-'
+  Pages: 1-23
+  NumAuthors: 3
+  Authors:
+  - Woojeong Jin
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Woojeong Jin
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1371/journal.pone.0216572
+  BIB:
+    text: link
+    url: https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0213857
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1FuywKbEU2zrfoq72FHkdJ45KRVcRH3Vp/view?usp=drive_link
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/sure/
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2020-04-30T15:00:00.000Z'
+  Year: 2020
+  Month: 5
+  Days: 21
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: WWWJ
+    url: https://link.springer.com/journal/11280
+  FullVenue: WWW Journal
+  Title: Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random
+    Walk with Restart
+  IF: 2.716
+  ISSN: 1386-145X
+  VOL: 24
+  'NO': 4
+  Pages: 1369–1393
+  NumAuthors: 4
+  Authors:
+  - Jinhong Jung
+  - Woojeong Jin
+  - Ha-Myung Park
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1007/s11280-020-00817-8
+  BIB:
+    text: link
+    url: https://dblp.org/rec/journals/www/JungJPK21.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1G0f1dO7W_3GOej1dGuFns9wbt8LbY3cj/view?usp=drive_link
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1I63t2temEH6e_oNmgmji6qole95xjVEH/view?usp=drive_link
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2020-09-30T15:00:00.000Z'
+  Year: 2020
+  Month: 10
+  Days: 27
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: ML
+    url: https://link.springer.com/journal/10994
+  FullVenue: Machine Learning
+  Title: Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental
+    Approach
+  IF: 4.3
+  ISSN: 0885-6125
+  VOL: 109
+  'NO': 12
+  Pages: 2333-2347
+  NumAuthors: 2
+  Authors:
+  - Jinhong Jung
+  - Lee Sael
+  First:
+  - Jinhong Jung
+  Corresp:
+  - Lee Sael
+  DOI:
+    text: link
+    url: https://doi.org/10.1007/s10994-020-05920-5
+  BIB:
+    text: link
+    url: https://dblp.org/rec/journals/ml/JungS20.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1G20Iin981hJ7mpmnsruuKKL1cq_RSGDr/view?usp=drive_link
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2021-07-31T15:00:00.000Z'
+  Year: 2021
+  Month: 8
+  Days: 13
+  Publisher: Public Library of Science
+  Location: USA
+  Venue:
+    text: PLOS ONE
+    url: https://journals.plos.org/plosone/
+  FullVenue: PLOS ONE
+  Title: Compressing Deep Graph Convolution Network with Multi-Staged Knowledge Distillation
+  IF: 3.24
+  ISSN: 1932-6203
+  VOL: 16
+  'NO': '-'
+  Pages: 1-18
+  NumAuthors: 2
+  Authors:
+  - Junghun Kim
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Junghun Kim
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1371/journal.pone.0256187
+  BIB:
+    text: link
+    url: https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0256187
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1G6b_WE0XVmdQxNLyoDvC4uIMNSTlikp4/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/snudatalab/MustaD
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2022-02-28T15:00:00.000Z'
+  Year: 2022
+  Month: 3
+  Days: 17
+  Publisher: Public Library of Science
+  Location: USA
+  Venue:
+    text: PLOS ONE
+    url: https://journals.plos.org/plosone/
+  FullVenue: PLOS ONE
+  Title: Signed Random Walk Diffusion for Effective Representation Learning in Signed
+    Graphs
+  IF: 3.24
+  ISSN: 1932-6203
+  VOL: 17
+  'NO': '-'
+  Pages: 1-19
+  NumAuthors: 3
+  Authors:
+  - Jinhong Jung
+  - Jaemin Yoo
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1371/journal.pone.0265001
+  BIB:
+    text: link
+    url: https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0265001
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1lLiej_0fKc4xC5BG4xRUtq0ceBIDrsNt/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/snudatalab/SidNet
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2023-11-30T15:00:00.000Z'
+  Year: 2023
+  Month: 12
+  Days: 21
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: DMKD
+    url: https://link.springer.com/journal/10618
+  FullVenue: Data Mining and Knowledge Discovery
+  Title: 'Random Walk with Restart on Hypergraphs: Fast Computation and an Application
+    to Anomaly Detection'
+  IF: 2.8
+  ISSN: 1384-5810
+  VOL: 38
+  'NO': 3
+  Pages: 1222-1257
+  NumAuthors: 2
+  Authors:
+  - Jaewan Chun
+  - Geon Lee
+  - Kijung Shin
+  - Jinhong Jung
+  First:
+  - Jaewan Chun
+  Corresp:
+  - Kijung Shin
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://doi.org/10.1007/s10618-023-00995-9
+  BIB:
+    text: link
+    url: https://dblp.org/rec/journals/datamine/ChunLSJ24.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1BPKBr6M98ddLx3I8MY-_ewKcumqrRXBn/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/jaewan01/ARCHER
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1CbZ6FBfvSCSdGbvywOfqSi9pw7wS-XDN/view?usp=drive_link
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2024-01-31T15:00:00.000Z'
+  Year: 2024
+  Month: 2
+  Days: 28
+  Publisher: Elsevier
+  Location: Netherlands
+  Venue:
+    text: InfSci
+    url: https://www.sciencedirect.com/journal/information-sciences
+  FullVenue: Information Sciences
+  Title: Learning Disentangled Representations in Signed Directed Graphs without Social
+    Assumptions
+  IF: 8.1
+  ISSN: 0020-0255
+  VOL: 665
+  'NO': '-'
+  Pages: '120373'
+  NumAuthors: 2
+  Authors:
+  - Geonwoo Ko
+  - Jinhong Jung
+  First:
+  - Geonwoo Ko
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://doi.org/10.1016/j.ins.2024.120373
+  BIB:
+    text: link
+    url: https://dblp.org/rec/journals/isci/KoJ24.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1b0iGnMnpxHr12QhlqvyGjpMZSTTG8jrr/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/geonwooko/DINES
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2024-09-30T15:00:00.000Z'
+  Year: 2024
+  Month: 10
+  Days: 14
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: KAIS
+    url: https://link.springer.com/journal/10115
+  FullVenue: Knowledge and Information Systems
+  Title: Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition
+  IF: 2.5
+  ISSN: 0219-1377
+  VOL: 67
+  'NO': 2
+  Pages: 1169–1211
+  NumAuthors: 5
+  Authors:
+  - Taehyung Kwon
+  - Jihoon Ko
+  - Jun-gi Jang
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Taehyung Kwon
+  Corresp:
+  - Jinhong Jung
+  - Kijung Shin
+  DOI:
+    text: link
+    url: https://doi.org/10.1007/s10115-024-02252-x
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1dPLeP98qk4tBNZWLPRzs1l_Qqhgl0-H_/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/kbrother/tensorcodec
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []

@@ -6,7 +6,7 @@
         <div class="col-sm-10">
             <li class="venue">
                     <div style="padding-left: -2.3em;">
-                        <div style="font-weight:bold;">Refereed Conference and Journal Papers</div>
+                        <div style="font-weight:bold;">Refereed Conference Papers</div>
                     </div>
                     <div>
                         <a href="https://scholar.google.co.kr/citations?user=0RcixOoAAAAJ&hl=en" target="_blank" title="Google Scholar">
@@ -18,91 +18,11 @@
                     </div>
             </li>
             <ol>
-                {% for paper in site.data.papers %}
-                <li>
-                    <span>
-                        <font class="text-bold">{{ paper.title }}</font> <br>
-                        {% assign myname = "<font class='text-bold'>Jinhong Jung</font>" %}
-                        {% if paper.authors.size == 2 %}
-                            {{ paper.authors[0] | replace: "Jinhong Jung", myname }} and {{ paper.authors[1] | replace: "Jinhong Jung", myname  }}
-                        {% else %}
-                            {% for author in paper.authors %}
-                                {% if forloop.last == true %}
-                                    and {{ author | replace: "Jinhong Jung", myname }}
-                                {% else %}
-                                    {{ author | replace: "Jinhong Jung", myname }},
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %} <br>
-                        <span class="venue">
-                            <div style="padding-left: 2.3em" class="long-and-truncated">
-                            {% if paper.publisher.link != nil %}
-                                <a href="{{ paper.publisher.link }}" target="_blank" title="{{ paper.publisher.full-venue}}">
-                                    {{ paper.publisher.venue }}
-                                </a>
-                            {% else %}
-                                {{ paper.publisher.venue }}
-                            {% endif %}
-                            </div>
-                            <div>
-                                {% if paper.pdf != nil %}
-                                <a href="{{ paper.pdf }}" title="paper" target="_blank">
-                                    <i class="fas fa-file-pdf fa-fw"></i>
-                                </a>
-                                {% else %}
-                                    <a href="javascript:alert('n/a');">
-                                        <i class="fas fa-file-pdf fa-fw"></i>
-                                    </a>
-                                    <!--
-                                    <i  style="color:white;" class="fas fa-ban fa-fw"></i>
-                                    -->
-                                {% endif %}
+                {% assign all_papers = site.data.papers | concat: site.data.journals %}
+                {% assign sorted_papers = all_papers | sort: "Date" | reverse %}
 
-                                {% if paper.bib != nil %}
-                                <a href="{{ paper.bib }}" title="bibtex" target="_blank">
-                                    <i class="fas fa-file fa-fw"></i>
-                                </a>
-                                {% else %}
-                                    <a href="javascript:alert('n/a');">
-                                        <i class="fas fa-file fa-fw"></i>
-                                    </a>
-                                {% endif %}
-
-                                {% if paper.slide != nil %}
-                                <a href="{{ paper.slide }}" title="slide" target="_blank">
-                                    <i class="fas fa-file-powerpoint fa-fw"></i>
-                                </a>
-                                {% else %}
-                                    <a href="javascript:alert('n/a');">
-                                        <i class="fas fa-file-powerpoint fa-fw"></i>
-                                    </a>
-                                {% endif %}
-
-                                {% if paper.code != nil %}
-                                <a href="{{ paper.code }}" title="code" target="_blank">
-                                    <i class="fab fa-github-square fa-fw"></i>
-                                </a>
-                                {% else %}
-                                    <a href="javascript:alert('n/a');">
-                                        <i class="fab fa-github-square fa-fw"></i>
-                                    </a>
-                                {% endif %}
-                            </div>
-                        </span>
-                        <span style="font-size:small;">
-                            {% for note in paper.notes %}
-                                {% if note.link != nil %}
-                                    <a href="{{ note.link }}" target="_blank">
-                                    · {{ note.title }}
-                                    </a>
-                                {% else %}
-                                    · {{ note.title }}
-                                {% endif %}
-                                <br>
-                            {% endfor %}
-                        </span>
-                    </span>
-                </li>
+                {% for paper in sorted_papers %}
+                    {% include liquid/paper.liquid paper=paper %}
                 {% endfor %}
             </ol>
 
