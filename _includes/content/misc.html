@@ -1,3 +1,6 @@
+{% assign sorted_awards = site.data.awards | sort: "Date" | reverse %}
+{% assign std_awards = sorted_awards | where_exp: "award", "award.Type contains 'Student'" %}
+
 <!--largescreen-->
 <div class="container section" id="largescreen">
     <div class="row">
@@ -7,11 +10,11 @@
         <div class="col-sm-10">
 
             <h3 style="font-weight:bold;">My Students' Awards</h3>
-            {% for award in site.data.std_awards %}
+            {% for award in std_awards %}
                 <div class="item no_mb">
                     <div class="title_item">
-                        <div>· {{ award.awardee}}, {{ award.title }} @ {{ award.orginization }} </div>
-                        <div class="date">{{ award.date }}</div>
+                        <div>· {{ award.Students |join: ", " }}, {{ award.Title }} @ {{ award.Organization }} </div>
+                        <div class="date">{{ award.Date | date: "%b. %Y" }}</div>
                     </div>
                 </div>
             {% endfor %}
@@ -81,12 +84,12 @@
         </div>
         <div class="col-sm-10">
             <h3 style="font-weight:bold;">My Students' Awards</h3>
-            {% for award in site.data.std_awards %}
+            {% for award in std_awards %}
                 <div class="item no_mb">
-                    <p class="long-and-truncated">· {{ award.awardee }}, {{ award.title }}</p>
+                    <p class="long-and-truncated">· {{ award.Students | join: ", " }}, {{ award.Title }}</p>
                     <div class="title_item" style="font-size:x-small;">
-                        <div style="padding-left: 7px;">- Awarded by {{ award.orginization }}</div>
-                        <div class="date">{{ award.date }}</div>
+                        <div style="padding-left: 7px;">- Awarded by {{ award.Organization }}</div>
+                        <div class="date">{{ award.Date | date: "%b, %Y" }}</div>
                     </div>
                 </div>
             {% endfor %}

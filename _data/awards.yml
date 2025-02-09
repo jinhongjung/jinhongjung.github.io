@@ -1,65 +1,236 @@
-- title: IEEE ICDM Best Student Paper Runner-up Award
-  orginization: ICDM
-  type: professsor
-  date: Dec. 2023
-
-- title: Humantech Paper Award (Bronze Prize, Advisor)
-  orginization: Samsung
-  type: professsor
-  date: Feb. 2023
-
-- title: AAAI-21 Outstanding Program Committee Award
-  orginization: AAAI
-  type: professsor
-  date: Feb. 2021
-
-- title: BK21 Plus Excellent Research Award
-  orginization: SNU
-  type: professsor
-  date: Aug. 2018
-
-- title: Humantech Paper Award (Honorable Mention, Co-author)
-  orginization: Samsung
-  type: professsor
-  date: Feb. 2018
-
-- title: Humantech Paper Award (Silver Prize)
-  orginization: Samsung
-  type: professsor
-  date: Feb. 2017
-
-- title: Global Ph.D. Fellowship Program
-  orginization: NRF
-  type: professsor
-  date: Mar. 2016 — Feb. 2019
-
-- title: ACM SIGKDD Student Travel Award
-  orginization: ACM
-  type: professsor
-  date: Jun. 2016
-
-- title: Naver Ph.D. Fellowship Award
-  orginization: NAVER
-  type: professsor
-  date: Apr. 2016
-
-- title: ACM SIGMOD Student Travel Award
-  orginization: ACM
-  type: professsor
-  date: Jun. 2015
-
-- title: Humantech Paper Award (Gold Prize, Co-author)
-  orginization: Samsung
-  type: professsor
-  date: Feb. 2015
-
-- title: National Scholarship
-  orginization: KAIST
-  type: professsor
-  date: 2014 - 2015
-
-- title: National Science & Technology Scholarship
-  orginization: KSF
-  type: professsor
-  date: 2012 - 2013
-
+- Date: '2015-01-31T15:00:00.000Z'
+  Year: 2015
+  Month: 2
+  Type:
+  - Professor
+  Students:
+  - Kijung Shin
+  - Jinhong Jung
+  Professors:
+  - U Kang
+  Organization: Samsung
+  Title: HumanTech Award (Gold Prize)
+  Award:
+    text: link
+    url: ''
+- Date: '2015-05-31T15:00:00.000Z'
+  Year: 2015
+  Month: 6
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: SIGMOD
+  Title: ACM SIGMOD Student Travel Award
+  Award:
+    text: link
+    url: ''
+- Date: '2016-02-29T15:00:00.000Z'
+  Year: 2016
+  Month: 3
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: NRF
+  Title: Global Ph.D. Fellowship
+  Award:
+    text: link
+    url: ''
+- Date: '2016-03-31T15:00:00.000Z'
+  Year: 2016
+  Month: 4
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: Naver
+  Title: Naver Ph.D. Fellowship
+  Award:
+    text: link
+    url: ''
+- Date: '2016-05-31T15:00:00.000Z'
+  Year: 2016
+  Month: 6
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: SIGKDD
+  Title: ACM SIGKDD Student Travel Award
+  Award:
+    text: link
+    url: ''
+- Date: '2017-01-31T15:00:00.000Z'
+  Year: 2017
+  Month: 2
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: Samsung
+  Title: HumanTech Award (Silver Prize)
+  Award:
+    text: link
+    url: ''
+- Date: '2017-12-31T15:00:00.000Z'
+  Year: 2018
+  Month: 1
+  Type:
+  - Professor
+  Students:
+  - Jun-Gi Jang
+  - Dongjin Choi
+  - Jinhong Jung
+  Professors:
+  - U Kang
+  Organization: Samsung
+  Title: HumanTech Award (Honorable Mention)
+  Award:
+    text: link
+    url: ''
+- Date: '2018-07-31T15:00:00.000Z'
+  Year: 2018
+  Month: 8
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: SNU
+  Title: BK21 Plus Excellent Research Award
+  Award:
+    text: link
+    url: ''
+- Date: '2021-01-31T15:00:00.000Z'
+  Year: 2021
+  Month: 2
+  Type:
+  - Professor
+  Students:
+  - Jinhong Jung
+  Professors:
+  - ''
+  Organization: AAAI
+  Title: AAAI-21 Outstanding Program Committee Award
+  Award:
+    text: link
+    url: ''
+- Date: '2022-11-30T15:00:00.000Z'
+  Year: 2022
+  Month: 12
+  Type:
+  - Student
+  Students:
+  - Jong-whi Lee
+  Professors:
+  - ''
+  Organization: AAAI
+  Title: AAAI-23 Student Scholarship
+  Award:
+    text: link
+    url: ''
+- Date: '2023-01-31T15:00:00.000Z'
+  Year: 2023
+  Month: 2
+  Type:
+  - Professor
+  - Student
+  Students:
+  - Jong-whi Lee
+  Professors:
+  - Jinhong Jung
+  Organization: Samsung
+  Title: HumanTech Award (Bronze Prize)
+  Award:
+    text: link
+    url: ''
+- Date: '2023-07-31T15:00:00.000Z'
+  Year: 2023
+  Month: 8
+  Type:
+  - Student
+  Students:
+  - Seunghan Lee
+  - Najeong Chae
+  Professors:
+  - ''
+  Organization: SWCU Council
+  Title: Joint AI Competition (Runner-up)
+  Award:
+    text: link
+    url: ''
+- Date: '2023-11-30T15:00:00.000Z'
+  Year: 2023
+  Month: 12
+  Type:
+  - Professor
+  Students:
+  - Taehyung Kwon
+  - Jihoon Ko
+  Professors:
+  - Jinhong Jung
+  - Kijung Shin
+  Organization: ICDM
+  Title: IEEE ICDM Best Student Paper Runner-up Award
+  Award:
+    text: link
+    url: ''
+- Date: '2024-09-30T15:00:00.000Z'
+  Year: 2024
+  Month: 10
+  Type:
+  - Student
+  Students:
+  - Daewon Gwak
+  - Jaehyun Park
+  - Jongyoon Choi
+  Professors:
+  - ''
+  Organization: ETRI
+  Title: Self-Improving AI Competition Award
+  Award:
+    text: link
+    url: ''
+- Date: '2024-10-31T15:00:00.000Z'
+  Year: 2024
+  Month: 11
+  Type:
+  - Student
+  Students:
+  - Junwoo Jung
+  - Cheolhee Jeong
+  Professors:
+  - ''
+  Organization: KDBC
+  Title: KDBC 2024 Best Paper Award (Silver Prize)
+  Award:
+    text: link
+    url: ''
+- Date: '2024-11-30T15:00:00.000Z'
+  Year: 2024
+  Month: 12
+  Type:
+  - Student
+  Students:
+  - Gyeong-Min Gu
+  - Minseo Jeon
+  Professors:
+  - Hyun-Je Song
+  - Jinhong Jung
+  Organization: KSC
+  Title: KSC 2024 Best Paper Award
+  Award:
+    text: link
+    url: ''

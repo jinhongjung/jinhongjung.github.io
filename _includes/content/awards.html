@@ -1,3 +1,6 @@
+{% assign sorted_awards = site.data.awards | sort: "Date" | reverse %}
+{% assign prof_awards = sorted_awards | where_exp: "award", "award.Type contains 'Professor'" %}
+
 <!--largescreen-->
 <div class="container section" id="largescreen">
     <div class="row">
@@ -5,12 +8,12 @@
             <h3 class="section-title">Awards</h3>
         </div>
         <div class="col-sm-10">
-            {% for award in site.data.awards %}
+            {% for award in prof_awards %}
                 {% if forloop.index < 6 %}
                     <div class="item no_mb">
                         <div class="title_item">
-                            <div><font class="text-bold">{{ award.title }}</font> @ {{ award.orginization }}</div>
-                            <div class="date">{{ award.date }}</div>
+                            <div><font class="text-bold">{{ award.Title }}</font> @ {{ award.Organization }}</div>
+                            <div class="date">{{ award.Date | date: "%b. %Y" }}</div>
                         </div>
                     </div>
                 {% else %}
@@ -24,8 +27,8 @@
                     <div id="more-award" class="item no_mb collapse">
                         <div class="title_item">
                             <div>
-                                <font class="text-bold">{{ award.title }}</font> @ {{ award.orginization }}</div>
-                            <div class="date">{{ award.date }}</div>
+                                <font class="text-bold">{{ award.Title }}</font> @ {{ award.Organization }}</div>
+                            <div class="date">{{ award.Date | date: "%b. %Y" }}</div>
                         </div>
                     </div>
                 {% endif %}
@@ -42,13 +45,13 @@
             <h3 class="section-title">Awards</h3>
         </div>
         <div class="col-sm-10">
-            {% for award in site.data.awards %}
+            {% for award in prof_awards %}
                 {% if forloop.index < 6 %}
                     <div class="item no_mb">
-                        <p class="long-and-truncated text-bold">{{ award.title }}</p>
+                        <p class="long-and-truncated text-bold">{{ award.Title }}</p>
                         <div class="title_item" style="font-style:x-small;">
-                            <div>- Awarded by {{ award.orginization }} </div>
-                            <div class="date">{{ award.date }}</div>
+                            <div>- Awarded by {{ award.Organization }} </div>
+                            <div class="date">{{ award.Date | date: "%b. %Y" }}</div>
                         </div>
                     </div>
                 {% else %}
@@ -60,10 +63,10 @@
                     </div>
                     {% endif %}
                     <div id="more-award" class="item no_mb collapse">
-                        <p class="long-and-truncated text-bold">{{ award.title }}</p>
+                        <p class="long-and-truncated text-bold">{{ award.Title }}</p>
                         <div class="title_item" style="font-style:x-small;">
-                            <div>- Awarded by {{ award.orginization }} </div>
-                            <div class="date">{{ award.date }}</div>
+                            <div>- Awarded by {{ award.Organization }} </div>
+                            <div class="date">{{ award.Date | date: "%b. %Y" }}</div>
                         </div>
                     </div>
                 {% endif %}
