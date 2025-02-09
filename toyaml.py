@@ -5,7 +5,7 @@ import requests
 api = "https://script.google.com/macros/s/AKfycbxO17hMwj9jdoHT5imxfTgTITt1JOxLYXNwHz42ZS9VGg1k1qpunpfPvu1pnP6_sSPFKw/exec"
 
 sheets = {
-    "International+Conference" : "papers_new",
+    "International+Conference" : "papers",
     "International+Journal": "journals"
 }
 

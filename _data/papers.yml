@@ -1,489 +1,912 @@
-- year: 2025
-  month: Dec
-  international: true
-  type: journal
-  title: "Compact Lossy Compression of Tensors via Neural Tensor-Train Decomposition"
-  authors:
-    - Jihoon Ko
-    - Taehyung Kwon
-    - Jinhong Jung
-    - Jun-Gi Jang
-    - Kijung Shin
-  publisher:
-    venue: "Knowledge and Information Systems"
-    full-venue: ""
-    link: "https://link.springer.com/journal/10115"
-  pdf: ""
-  bib: ""
-  code: ""
-  slide: ""
-
-- year: 2024
-  month: Dec
-  international: true
-  type: conference
-  title: "ELiCiT: Effective and Lightweight Lossy Compression of Tensors"
-  authors:
-    - Jihoon Ko
-    - Taehyung Kwon
-    - Jinhong Jung
-    - Kijung Shin
-  publisher:
-    venue: "ICDM 2024"
-    full-venue: ""
-    link: "https://icdm2024.org"
-  pdf: ""
-  bib: ""
-  code: ""
-  slide: ""
-
-- year: 2024
-  month: Oct
-  international: true
-  type: conference
-  title: "MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation"
-  authors:
-    - Seunghan Lee<sup style='font-size:0.7em'>&#10038;</sup>
-    - Geonwoo Ko<sup style='font-size:0.7em'>&#10038;</sup>
-    - Hyun-Je Song
-    - Jinhong Jung
-  publisher:
-    venue: "CIKM 2024"
-    full-venue: "The 33rd ACM International Conference on Information and Knowledge Management"
-    link: https://cikm2024.org/
-  pdf: "https://drive.google.com/file/d/1jBs0Qd4VkzUdlbwZdMiEMSrp7EpwSotP/view?usp=sharing"
-  bib: ""
-  code: "https://github.com/geonwooko/MULE"
-  slide: "https://drive.google.com/file/d/1C_K0mV9zbmB0es30MJyB4ezq7DDOKmw8/view?usp=sharing"
-
-- year: 2024
-  month: Aug
-  international: true
-  type: conference
-  title: "Compact Decomposition of Irregular Tensors for Data Compression: From Sparse to Dense to High-Order Tensors"
-  authors:
-    - Taehyung Kwon
-    - Jihoon Ko
-    - Jinhong Jung
-    - Jun-Gi Jang
-    - Kijung Shin
-  publisher:
-    venue: "KDD 2024"
-    full-venue: "The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
-    link: https://kdd2024.kdd.org
-  pdf: "https://drive.google.com/file/d/1B9jxB9VtsJKbAw5HQe2mXg6iT24VG-aR/view?usp=sharing"
-  bib: "https://dblp.uni-trier.de/rec/conf/kdd/KwonKJJS24.html?view=bibtex"
-  code: "https://github.com/kbrother/Light-IT"
-  slide: "http://dmlab.kaist.ac.kr/~kijungs/lightitKDD2024.pdf"
-
-- year: 2024
-  month:
-  international: true
-  type: journal
-  title: "Learning Disentangled Representations in Signed Directed Graphs without Social Assumptions"
-  authors:
-    - Geonwoo Ko
-    - Jinhong Jung
-  publisher:
-    venue: "Information Sciences"
-    full-venue: ""
-    link: "https://www.sciencedirect.com/journal/information-sciences"
-  pdf: "https://drive.google.com/file/d/1b0iGnMnpxHr12QhlqvyGjpMZSTTG8jrr/view?usp=sharing"
-  bib: "https://dblp.uni-trier.de/rec/journals/isci/KoJ24.html?view=bibtex"
-  code: "https://github.com/geonwooko/DINES"
-  slide: ""
-
-- year: 2024
-  month:
-  international: true
-  type: journal
-  title: "Random Walk with Restart on Hypergraphs: Fast Computation and an Application to Anomaly Detection"
-  authors:
-    - Jaewan Chun
-    - Geon Lee
-    - Kijung Shin
-    - Jinhong Jung
-  publisher:
-    venue: "Data Mining and Knowledge Discovery"
-    full-venue: ""
-    link: "https://link.springer.com/journal/10618"
-  pdf: "https://drive.google.com/file/d/1BPKBr6M98ddLx3I8MY-_ewKcumqrRXBn/view?usp=sharing"
-  bib: "https://dblp.uni-trier.de/rec/journals/datamine/ChunLSJ24.html?view=bibtex"
-  code: "https://github.com/jaewan01/ARCHER"
-  slide: ""
-
-- year: 2023
-  month: Dec
-  international: true
-  type: conference
-  title: "TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions"
-  authors:
-    - Taehyung Kwon
-    - Jihoon Ko
-    - Jinhong Jung
-    - Kijung Shin
-  publisher:
-    venue: "ICDM 2023"
-    full-venue: ""
-    link: "https://www.cloud-conf.net/icdm2023/"
-  pdf: "https://drive.google.com/file/d/1NODLXIN6FXqGZQcFepAEo98_3McpLZiL/view?usp=sharing"
-  bib: "https://dblp.uni-trier.de/rec/conf/icdm/KwonKJS23.html?view=bibtex"
-  code: "https://github.com/kbrother/tensorcodec"
-  slide: "https://drive.google.com/file/d/1BfbhcyjhGWSlZSBL3Jz1yq8CsMAoS5VK/view?usp=sharing"
-  notes:
-    - title: "Received the IEEE ICDM Best Student Paper Runner-up Award"
-      link: "https://icdm.zhonghuapu.com/Awards/BestPapers.shtml"
-    - title: "Selected as one of the best-ranked papers of ICDM 2023 for fast-track journal invitation"
-
-
-- year: 2023
-  month: May
-  international: true
-  type: conference
-  title: "NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices and Tensors"
-  authors:
-    - Taehyung Kwon
-    - Jihoon Ko
-    - Jinhong Jung
-    - Kijung Shin
-  publisher:
-    venue: "TheWebConf 2023"
-    full-venue: ""
-    link: "https://www2023.thewebconf.org/"
-  pdf: "https://drive.google.com/file/d/1NQ2S3ektkm9-kqyZIioCGd44U6lGBuG3/view?usp=sharing"
-  bib: "https://dblp.uni-trier.de/rec/conf/www/KwonKJS23.html?view=bibtex"
-  code: "https://github.com/kbrother/neukron"
-  slide: "https://drive.google.com/file/d/1BffmtpJKYh1tB-LBygO_eIQ4P6F7qGw2/view?usp=sharing"
-
-- year: 2023
-  month: Feb
-  international: true
-  type: conference
-  title: "Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning"
-  authors:
-    - Jong-whi Lee
-    - Jinhong Jung
-  publisher:
-    venue: "AAAI 2023"
-    full-venue: "The 37-th AAAI Conference on Artificial Intelligence"
-    link: "https://aaai.org/Conferences/AAAI-23/"
-  pdf: "https://drive.google.com/file/d/1NR3ak5m-1fEBBpAqiuKNVTtmsjF16VQb/view?usp=sharing"
-  bib: "https://dblp.uni-trier.de/rec/conf/aaai/LeeJ23.html?view=bibtex"
-  code: "https://github.com/dev-jwel/TiaRa"
-  slide: "https://drive.google.com/file/d/1Boq3dowExYhP1QzFi1jrQxs_oRLzORGI/view?usp=sharing"
-  notes:
-    - title: "Accepted as oral presentation"
-    - title: Received the Samsung Humantech Paper Award (Bronze Prize)
-
-- year: 2022
-  month: Mar
-  international: true
-  type: conference
-  title: "Accurate Node Feature Estimation with Structured Variational Graph Autoencoder"
-  authors:
-    - Jaemin Yoo
-    - Hyunsik Jeon
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "KDD 2022"
-    full-venue: "The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
-    link: https://kdd.org/kdd2022/
-  pdf: "/assets/resources/papers/svgaKDD22.pdf"
-  bib: "https://dblp.uni-trier.de/rec/conf/kdd/YooJJK22.html?view=bibtex"
-  code: "https://github.com/snudatalab/SVGA"
-  slide: "https://jaeminyoo.github.io/resources/slides/YooJJK22.pdf"
-
-- year: 2022
-  month: Mar
-  international: true
-  type: journal
-  title: "Signed Random Walk Diffusion for Effective Representation Learning in Signed Graphs"
-  authors:
-    - Jinhong Jung
-    - Jaemin Yoo
-    - U Kang
-  publisher:
-    venue: "PLoS ONE"
-    link: "https://journals.plos.org/plosone/"
-  pdf: "/assets/resources/papers/sidnetPLOS22.pdf"
-  bib: "https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0265001"
-  code: "https://github.com/snudatalab/SidNet"
-  slide:
-
-- year: 2021
-  month: Aug
-  international: true
-  type: conference
-  title: "Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion"
-  authors:
-    - Jaehun Jung
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "KDD 2021"
-    full-venue: "The 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
-    link: "https://www.kdd.org/kdd2021/"
-  pdf: "/assets/resources/papers/tgapKDD21.pdf"
-  bib: "/assets/resources/bibtex/tgapKDD21.bib"
-  code: "https://github.com/sharkmir1/T-GAP"
-  slide: "https://dl.acm.org/doi/10.1145/3447548.3467292#sec-supp"
-
-- year: 2021
-  month: Aug
-  international: true
-  type: journal
-  title: "Compressing Deep Graph Convolution Network With Multi-staged Knowledge Distillation"
-  authors:
-    - Junghun Kim
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "PLoS ONE"
-    link: "https://journals.plos.org/plosone/"
-  pdf: "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0256187&type=printable"
-  bib: "/assets/resources/bibtex/mustadPLOS21.bib"
-  code: "https://github.com/snudatalab/MustaD"
-  slide:
-
-- year: 2020
-  month: Dec
-  international: true
-  type: journal
-  title: "Fast and Accurate Pseudoinverse with Sparse Matrix Reordering and Incremental Approach"
-  authors:
-    - Jinhong Jung
-    - Lee Sael
-  publisher:
-    venue: "Machine Learning"
-    link: "https://www.springer.com/journal/10994"
-  pdf: "https://link.springer.com/content/pdf/10.1007/s10994-020-05920-5.pdf"
-  bib: "https://dblp.org/rec/journals/ml/JungS20.html?view=bibtex"
-  code:
-  slide: "/assets/resources/slides/fastpiACML20.pdf"
-
-- year: 2020
-  month: May
-  international: true
-  type: journal
-  title: "Accurate Relational Reasoning in Edge-labeled Graphs by Multi-Labeled Random Walk with Restart"
-  authors:
-    - Jinhong Jung
-    - Woojeong Jin
-    - Ha-Myung Park
-    - U Kang
-  publisher:
-    venue: World Wide Web Journal
-    full-venue: World Wide Web Journal
-    link: "https://www.springer.com/journal/11280"
-  pdf: "/assets/resources/papers/lrwrWWWJ20.pdf"
-  bib: "https://dblp.org/rec/journals/www/JungJPK21.html?view=bibtex"
-  code:
-  slide:
-
-- year: 2020
-  month: Mar
-  international: true
-  type: conference
-  title: "BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks"
-  authors:
-    - Jinhong Jung
-    - Ha-Myung Park
-    - U Kang
-  publisher:
-    venue: "EDBT 2020"
-    full-venue: "The 23rd International Conference on Extending Database Technology"
-    link: "https://diku-dk.github.io/edbticdt2020/"
-  pdf: "/assets/resources/papers/balansingEDBT20.pdf"
-  bib: "https://datalab.snu.ac.kr/balansing/resources/balansingEDBT20.bib"
-  code: "https://datalab.snu.ac.kr/balansing/resources/balansing-cpp-v1.0.zip"
-  slide: "/assets/resources/slides/balansingEDBT20.pdf"
-
-- year: 2020
-  month: Feb
-  international: true
-  type: journal
-  title: "Random Walk Based Ranking in Signed Social Networks: Model and Algorithms"
-  authors:
-    - Jinhong Jung
-    - Woojeong Jin
-    - U Kang
-  publisher:
-    venue: "Knowledge and Information Systems"
-    full-venue: "Knowledge and Information Systems"
-    link: https://link.springer.com/article/10.1007/s10115-019-01364-z
-  pdf: "/assets/resources/papers/srwrKAIS20.pdf"
-  bib: "https://dblp.org/rec/journals/kais/JungJK20.html?view=bibtex"
-  code: "https://datalab.snu.ac.kr/srwrpre/"
-  slide:
-
-- year: 2019
-  month: Mar
-  international: true
-  type: journal
-  title: "Supervised and Extended Restart in Random Walks for Ranking and Link Prediction in Networks"
-  authors:
-    - Woojeong Jin
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "PLoS ONE"
-    link: "https://journals.plos.org/plosone/"
-  pdf: "/assets/resources/papers/surePLOS19.pdf"
-  bib: "/assets/resources/bibtex/surePLOS19.bib"
-  code: "https://datalab.snu.ac.kr/sure/"
-  slide:
-
-- year: 2018
-  month: Oct
-  international: true
-  type: conference
-  title: "Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Pattern an Arbitrary Time Range"
-  authors:
-    - Jun-gi Jang
-    - Dongjin Choi
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "CIKM 2018"
-    full-venue: "The 27th ACM International Conference on Information and Knowledge Management"
-    link: "http://www.cikm2018.units.it"
-  pdf: "/assets/resources/papers/zsvdCIKM18.pdf"
-  bib: "https://dblp.org/rec/conf/cikm/JangCJK18.html?view=bibtex"
-  code: "https://datalab.snu.ac.kr/zoomsvd/"
-  slide:
-
-- year: 2018
-  month: Apr
-  international: true
-  type: conference
-  title: "TPA: Fast, Scalable, and Accurate Method for Approximate Random Walk with Restart on Billion Scale Graphs"
-  authors:
-    - Minji Yoon
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "ICDE 2018"
-    full-venue: "The 34th IEEE International Conference on Data Engineering"
-    link: "https://icde2018.org/"
-  pdf: "/assets/resources/papers/tpaICDE18.pdf"
-  bib: "https://dblp.org/rec/conf/icde/YoonJK18.html?view=bibtex"
-  code: "https://datalab.snu.ac.kr/tpa/"
-  slide:
-
-- year: 2017
-  month: Dec
-  international: true
-  type: conference
-  title: "A Comparative Study of Matrix Factorization and Random Walk with Restart in Recommender Systems"
-  authors:
-    - Haekyu Park
-    - Jinhong Jung
-    - U Kang
-  publisher:
-    venue: "BigData 2017"
-    full-venue: "IEEE International Conference on Big Data"
-    link: "http://cci.drexel.edu/bigdata/bigdata2017"
-  pdf: "/assets/resources/papers/mfrwrBigData17.pdf"
-  bib: "https://dblp.org/rec/conf/bigdataconf/ParkJK17.html?view=bibtex"
-  code: "https://github.com/haekyu/MFRWR"
-  slide: "https://datalab.snu.ac.kr/mfrwr/resources/mfrwr.pptx"
-
-- year: 2017
-  month: Mar
-  international: true
-  type: conference
-  title: "A New Question Answering Approach with Conceptual Graphs"
-  authors:
-    - Kyung-Min Kim
-    - Jinhong Jung
-    - Jihee Ryu
-    - Ha-Myung Park
-    - Joseph P.Joohee
-    - Seokwoo Jeong
-    - U Kang
-    - Sung-Hyon Myaeng
-  publisher:
-    venue: "CORIA 2017"
-    full-venue: "Conférence en Recherche d’Information et Applications"
-    link: "http://www.lsis.org/coria2017/index.php/en/175-2/"
-  pdf: "/assets/resources/papers/qaCORIA17.pdf"
-  bib: "https://dblp.org/rec/conf/coria/KimJRPJJKM17.html?view=bibtex"
-  code:
-  slide:
-
-- year: 2017
-  month: May
-  international: true
-  type: conference
-  title: "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart"
-  authors:
-    - Jinhong Jung
-    - Namyong Park
-    - Lee Sael
-    - U Kang
-  publisher:
-    venue: "SIGMOD 2017"
-    full-venue: "ACM International Conference on Management of Data"
-    link: "http://www.sigmod2017.org"
-  pdf: "/assets/resources/papers/bepiSIGMOD17.pdf"
-  bib: "https://dblp.org/rec/conf/sigmod/JungPSK17.html?view=bibtex"
-  code: "https://datalab.snu.ac.kr/bepi/"
-  slide: "/assets/resources/slides/bepiSIGMOD17.pdf"
-
-- year: 2016
-  month: Dec
-  international: true
-  type: conference
-  title: "Personalized Ranking in Signed Networks using Signed Random Walk with Restart"
-  authors:
-    - Jinhong Jung
-    - Woojeong Jin
-    - Lee Sael
-    - U Kang
-  publisher:
-    venue: "ICDM 2016"
-    full-venue: "IEEE International Conference on Data Mining"
-    link: "http://icdm2016.eurecat.org"
-  pdf: "/assets/resources/papers/srwrICDM16.pdf"
-  bib: "https://dblp.org/rec/conf/icdm/JungJSK16.html?view=bibtex"
-  code: "https://github.com/jinhongjung/srwr"
-  slide: "/assets/resources/slides/srwrICDM16.pdf"
-
-- year: 2016
-  month: June
-  international: true
-  type: journal
-  title: "Random Walk with Restart on Large Graphs Using Block Elimination"
-  authors:
-    - Jinhong Jung
-    - Kijung Shin
-    - Lee Sael
-    - U Kang
-  publisher:
-    venue: "Transactions on Database Systems"
-    full-venue: "ACM Transactions on Database Systems"
-    link: "https://dl.acm.org/journal/tods"
-  pdf: "/assets/resources/papers/bearTODS16.pdf"
-  bib: "https://dblp.org/rec/journals/tods/JungSSK16.html?view=bibtex"
-  code: "https://datalab.snu.ac.kr/bear/"
-  slide:
-
-- year: 2015
-  month: Mar
-  international: true
-  type: conference
-  title: "BEAR: Block Elimination Approach for Random Walk with Restart on Large Graphs"
-  authors:
-    - Kijung Shin
-    - Jinhong Jung
-    - Lee Sael
-    - U Kang
-  publisher:
-    venue: "SIGMOD 2015"
-    full-venue: "ACM International Conference on Management of Data"
-    link: "http://www.sigmod2015.org/"
-  pdf: "/assets/resources/papers/bearSIGMOD15.pdf"
-  bib: "https://dblp.org/rec/conf/sigmod/ShinJSK15.html?view=bibtex"
-  code: "https://datalab.snu.ac.kr/bear/"
-  slide: "https://www.cs.cmu.edu/~kijungs/papers/bearSIGMOD2015slides.pptx"
+- Date: '2015-04-30T15:00:00.000Z'
+  Year: 2015
+  Month: 5
+  Days: '-'
+  Publisher: ACM
+  Location: Melbourne, Victoria, Australia
+  Venue:
+    text: SIGMOD
+    url: http://www.sigmod2015.org/
+  FullVenue: International Conference on Management of Data
+  Title: BEAR:Block Elimination Approach for Random Walk with Restart on Large Graphs
+  BKIF: 4
+  AR: 0.2567
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 1571-1585
+  NumAuthors: 1
+  Authors:
+  - Kijung Shin
+  - Jinhong Jung
+  - Lee Sael
+  - U Kang
+  First:
+  - Kijung Shin
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/2723372.272371
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/sigmod/ShinJSK15.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1FezxOrMCjIMXrlKMBHPnmvJ2Gd8xk4Os/view?usp=drive_link
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/bear/
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/12fzQFIEr9Uho9zvnFboHSSS85PyHcEio/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes:
+  - note: Received the Samsung Humantech Paper Award (Gold Prize)
+    url: ''
+- Date: '2016-11-30T15:00:00.000Z'
+  Year: 2016
+  Month: 12
+  Days: 12-15
+  Publisher: IEEE
+  Location: Barcelona, Spain
+  Venue:
+    text: ICDM
+    url: http://icdm2016.eurecat.org/
+  FullVenue: International Conference on Data Mining
+  Title: Personalized Ranking in Signed Networks using Signed Random Walk with Restart
+  BKIF: 4
+  AR: 0.196
+  BK: 최우수
+  Type:
+  - SHORT
+  Pages: 973-978
+  NumAuthors: 4
+  Authors:
+  - Jinhong Jung
+  - Woojeong Jin
+  - Lee Sael
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1109/ICDM.2016.0122
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/icdm/JungJSK16.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1FlUv-_OK_FaoLneV4subWz0qSEmQFI2q/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/jinhongjung/srwr
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1fEH0f3w88D9zcDmZWLyfJIYF9y0SVoRd/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2017-02-28T15:00:00.000Z'
+  Year: 2017
+  Month: 3
+  Days: 29-31
+  Publisher: ''
+  Location: Marseille, France
+  Venue:
+    text: CORIA
+    url: http://www.lsis.org/coria2017/index.php/en/175-2/
+  FullVenue: Conférence en Recherche d’Information et Applications
+  Title: A New Question Answering Approach with Conceptual Graph
+  BKIF: ''
+  AR: ''
+  BK: ''
+  Type:
+  - ORAL
+  Pages: 218-234
+  NumAuthors: 8
+  Authors:
+  - Kyung-Min Kim
+  - Jinhong Jung
+  - Jihee Ryu
+  - Ha-Myung Park
+  - Joseph P.Joohee
+  - Seokwoo Jeong
+  - U Kang
+  - Sung-Hyon Myaeng
+  First:
+  - Kyung-Min Kim
+  Corresp:
+  - Sung-Hyon Myaeng
+  DOI:
+    text: link
+    url: https://doi.org/10.24348/coria.2017.39
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/coria/KimJRPJJKM17.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1FoVpEcOVvHC4E97grUJFPGZRU_ddOppa/view?usp=drive_link
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2017-04-30T15:00:00.000Z'
+  Year: 2017
+  Month: 5
+  Days: 14-19
+  Publisher: ACM
+  Location: Raleigh, North Carolina, USA
+  Venue:
+    text: SIGMOD
+    url: http://www.sigmod2017.org/
+  FullVenue: International Conference on Management of Data
+  Title: 'BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with
+    Restart'
+  BKIF: 4
+  AR: 0.1963
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 789-804
+  NumAuthors: 4
+  Authors:
+  - Jinhong Jung
+  - Namyong Park
+  - Lee Sael
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/3035918.3035950
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/sigmod/JungPSK17.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/155tGynOSeWSTy5BEmi3Q25yS-vENy8Va/view?usp=drive_link
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/bepi/
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/157_Auqh0Ea46Y1vlEYjghIl0rgxvJAho/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes:
+  - note: Received the Samsung Humantech Paper Award (Silver Prize)
+    url: ''
+- Date: '2017-11-30T15:00:00.000Z'
+  Year: 2017
+  Month: 12
+  Days: 11-14
+  Publisher: IEEE
+  Location: Boston, MA, USA
+  Venue:
+    text: BigData
+    url: http://cci.drexel.edu/bigdata/bigdata2017
+  FullVenue: International Conference on Big Data
+  Title: A Comparative Study of Matrix Factorization and Random Walk with Restart
+    in Recommender Systems
+  BKIF: ''
+  AR: 0.18
+  BK: 우수
+  Type:
+  - ORAL
+  Pages: 756-765
+  NumAuthors: 3
+  Authors:
+  - Haekyu Park
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Haekyu Park
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1109/BigData.2017.8257991
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/bigdataconf/ParkJK17.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1Fol3FPe4rCex8vfVI1fAQxW4CabbOF_p/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/haekyu/MFRWR
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1W0G3kE0pew-Fin44zZfHE8XiGTHapKwo/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2018-03-31T15:00:00.000Z'
+  Year: 2018
+  Month: 4
+  Days: 16-20
+  Publisher: IEEE
+  Location: Paris, France
+  Venue:
+    text: ICDE
+    url: https://icde2018.org/
+  FullVenue: 'International Conference on Data Engineering '
+  Title: 'TPA: Fast, Scalable, and Accurate Method for Approximate Random Walk with
+    Restart on Billion Scale Graphs'
+  BKIF: 3
+  AR: 0.231
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 1132-1143
+  NumAuthors: 3
+  Authors:
+  - Minji Yoon
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Minji Yoon
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1109/ICDE.2018.00105
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/icde/YoonJK18.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1Fs1Kgya-48n9NxVr4tWEt0xx3OacOAZ4/view?usp=drive_link
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/tpa/
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2018-09-30T15:00:00.000Z'
+  Year: 2018
+  Month: 10
+  Days: 22-26
+  Publisher: ACM
+  Location: Lingotto, Turin, Italy
+  Venue:
+    text: CIKM
+    url: http://www.cikm2018.units.it/
+  FullVenue: International Conference on Information and Knowledge Management
+  Title: 'Zoom-SVD: Fast and Memory Efficient Method for Extracting Key Patterns in
+    an Arbitrary Time Range'
+  BKIF: 3
+  AR: 0.17053364269141533
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 1083-1092
+  NumAuthors: 4
+  Authors:
+  - Jun-Gi Jang
+  - Dongjin Choi
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Jun-Gi Jang
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/3269206.3271682
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/cikm/JangCJK18.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1FtouHhXHSmS8XLC2gUAdAYYAgdFkHwVB/view?usp=sharing
+  Code:
+    text: link
+    url: https://datalab.snu.ac.kr/zoomsvd/
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes:
+  - note: Received the Samsung Humantech Paper Award (Honorable Mention)
+    url: ''
+- Date: '2020-02-29T15:00:00.000Z'
+  Year: 2020
+  Month: '2019-03-03T15:00:00.000Z'
+  Days: 30-2
+  Publisher: ''
+  Location: Copenhagen, Denmark (Virtual)
+  Venue:
+    text: EDBT
+    url: https://diku-dk.github.io/edbticdt2020/
+  FullVenue: International Conference on Extending Database Technology
+  Title: 'BalanSiNG: Fast and Scalable Generation of Realistic Signed Networks'
+  BKIF: 2
+  AR: 0.205
+  BK: 우수
+  Type:
+  - ORAL
+  Pages: 193-204
+  NumAuthors: 3
+  Authors:
+  - Jinhong Jung
+  - Ha-Myung Park
+  - U Kang
+  First:
+  - Jinhong Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.5441/002/edbt.2020.18
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/edbt/JungPK20.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1G-hKiFiqtO9Wk-z-zz6rnuRwsg74ZZNa/view?usp=drive_link
+  Code:
+    text: link
+    url: https://drive.google.com/file/d/1pTLc24mtm8YxTyMfG-irmsqgEu1yDLDs/view?usp=drive_link
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1HFkNsZCmRmYcFLAWBjDetLphUd1SajtP/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2021-07-31T15:00:00.000Z'
+  Year: 2021
+  Month: 8
+  Days: 14-18
+  Publisher: ACM
+  Location: Singapore (Virtual)
+  Venue:
+    text: KDD
+    url: https://www.kdd.org/kdd2021/
+  FullVenue: International Conference on Knowledge Discovery and Data Mining
+  Title: Learning to Walk across Time for Interpretable Temporal Knowledge Graph Completion
+  BKIF: 4
+  AR: 0.1544
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 786--795
+  NumAuthors: 3
+  Authors:
+  - Jaehun Jung
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Jaehun Jung
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/3447548.3467292
+  BIB:
+    text: link
+    url: https://dblp.org/rec/conf/kdd/JungJK21.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1G7gbQ5-H1HjCJ-lhCvidU7MULqXHNaDn/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/sharkmir1/T-GAP
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2022-07-31T15:00:00.000Z'
+  Year: 2022
+  Month: 8
+  Days: 14-18
+  Publisher: ACM
+  Location: Washington, DC, USA
+  Venue:
+    text: KDD
+    url: https://kdd.org/kdd2022/
+  FullVenue: International Conference on Knowledge Discovery and Data Mining
+  Title: Accurate Node Feature Estimation with Structured Variational Graph Autoencoder
+  BKIF: 4
+  AR: 0.15
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 2336-2346
+  NumAuthors: 4
+  Authors:
+  - Jaemin Yoo
+  - Hyunsik Jeon
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Jaemin Yoo
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/3534678.3539337
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/kdd/YooJJK22.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1oskwg-eQPTgBK4P71IYbMT7iQGb4aFV1/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/snudatalab/SVGA
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1I5IX6FOOO4SaSKMOOXT3MPTnRprv82x0/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2023-01-31T15:00:00.000Z'
+  Year: 2023
+  Month: 2
+  Days: 7-14
+  Publisher: AAAI
+  Location: Washington, DC, USA
+  Venue:
+    text: AAAI
+    url: https://aaai.org/Conferences/AAAI-23/
+  FullVenue: Conference on Artificial Intelligence
+  Title: Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning
+  BKIF: 4
+  AR: 0.196
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 8473-8481
+  NumAuthors: 2
+  Authors:
+  - Jong-whi Lee
+  - Jinhong Jung
+  First:
+  - Jong-whi Lee
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://doi.org/10.1609/aaai.v37i7.26021
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/aaai/LeeJ23.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1NR3ak5m-1fEBBpAqiuKNVTtmsjF16VQb/view?usp=sharing
+  Code:
+    text: link
+    url: https://github.com/dev-jwel/TiaRa
+  Slide:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/aaai/LeeJ23.html?view=bibtex
+  Poster:
+    text: link
+    url: https://drive.google.com/file/d/1bVJys8MD6oV_O-YdHdkI22AjPpOh2Evi/view?usp=sharing
+  Appendix:
+    text: link
+    url: https://arxiv.org/pdf/2211.01214.pdf
+  Notes:
+  - note: Accepted as oral presentation
+    url: https://aaai.org/Conferences/AAAI-23/
+  - note: Received the Samsung Humantech Paper Award (Bronze Prize)
+    url: https://drive.google.com/file/d/1OWO_Ro23uSKFMfDi66ZfWvm-GYpVhu-L/view?usp=sharing
+- Date: '2023-03-31T15:00:00.000Z'
+  Year: 2023
+  Month: '2024-04-04T15:00:00.000Z'
+  Days: 30-4
+  Publisher: ACM
+  Location: Austin, Texas, USA
+  Venue:
+    text: WWW
+    url: https://www2023.thewebconf.org/
+  FullVenue: The Web Conference
+  Title: 'NeuKron: Constant-Size Lossy Compression of Sparse Reorderable Matrices
+    and Tensors'
+  BKIF: 4
+  AR: 0.192
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 71-81
+  NumAuthors: 4
+  Authors:
+  - Taehyung Kwon
+  - Jihoon Ko
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Taehyung Kwon
+  - Jihoon Ko
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/3543507.3583226
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/www/KwonKJS23.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1NQ2S3ektkm9-kqyZIioCGd44U6lGBuG3/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/kbrother/neukron
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1BffmtpJKYh1tB-LBygO_eIQ4P6F7qGw2/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: https://github.com/kbrother/NeuKron/blob/main/online_appendix.pdf
+  Notes: []
+- Date: '2023-11-30T15:00:00.000Z'
+  Year: 2023
+  Month: 12
+  Days: 1-4
+  Publisher: IEEE
+  Location: Shanghai, China
+  Venue:
+    text: ICDM
+    url: https://www.cloud-conf.net/icdm2023/
+  FullVenue: International Conference on Data Mining
+  Title: 'TensorCodec: Compact Lossy Compression of Tensors without Strong Data Assumptions'
+  BKIF: 3
+  AR: 0.0937
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 229-238
+  NumAuthors: 4
+  Authors:
+  - Taehyung Kwon
+  - Jihoon Ko
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Taehyung Kwon
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: https://doi.org/10.1109/ICDM58522.2023.00032
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/icdm/KwonKJS23.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1NODLXIN6FXqGZQcFepAEo98_3McpLZiL/view?usp=drive_link
+  Code:
+    text: link
+    url: https://github.com/kbrother/tensorcodec
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1BfbhcyjhGWSlZSBL3Jz1yq8CsMAoS5VK/view?usp=sharing
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes:
+  - note: Received the IEEE ICDM Best Student Paper Runner-up Award
+    url: https://icdm.zhonghuapu.com/Awards/BestPapers.shtml
+  - note: Selected as one of the best-ranked papers of ICDM 2023 for fast-track journal
+      invitation
+    url: ''
+- Date: '2024-07-31T15:00:00.000Z'
+  Year: 2024
+  Month: 8
+  Days: 25-29
+  Publisher: ACM
+  Location: Barcelona, Spain
+  Venue:
+    text: KDD
+    url: https://kdd2024.kdd.org/
+  FullVenue: International Conference on Knowledge Discovery and Data Mining
+  Title: 'Compact Decomposition of Irregular Tensors for Data Compression: From Sparse
+    to Dense to High-Order Tensors'
+  BKIF: 4
+  AR: 0.2009
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 1451-1462
+  NumAuthors: 5
+  Authors:
+  - Taehyung Kwon
+  - Jihoon Ko
+  - Jinhong Jung
+  - Jun-Gi Jang
+  - Kijung Shin
+  First:
+  - Taehyung Kwon
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: https://dl.acm.org/doi/10.1145/3637528.3671846
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/kdd/KwonKJJS24.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1B9jxB9VtsJKbAw5HQe2mXg6iT24VG-aR/view?usp=sharing
+  Code:
+    text: link
+    url: https://github.com/kbrother/Light-IT
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1Hw96c--MaIovE4thiWuz84pINT06KY_d/view?usp=sharing
+  Poster:
+    text: link
+    url: https://drive.google.com/file/d/1I4tO9D6shFROv-7fUWcWcI-rCwugAn9B/view?usp=drive_link
+  Appendix:
+    text: link
+    url: https://github.com/kbrother/Light-IT/blob/mem_opt/supplement.pdf
+  Notes: []
+- Date: '2024-09-30T15:00:00.000Z'
+  Year: 2024
+  Month: 10
+  Days: 21-25
+  Publisher: ACM
+  Location: Boise, Idaho, USA
+  Venue:
+    text: CIKM
+    url: https://cikm2024.org/
+  FullVenue: International Conference on Information and Knowledge Management
+  Title: 'MuLe: Multi-Grained Graph Learning for Multi-Behavior Recommendation'
+  BKIF: 3
+  AR: 0.232
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 1163-1173
+  NumAuthors: 4
+  Authors:
+  - Seunghan Lee
+  - Geonwoo Ko
+  - Hyun-Je Song
+  - Jinhong Jung
+  First:
+  - Seunghan Lee
+  - Geonwoo Ko
+  Corresp:
+  - Hyun-Je Song
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: https://doi.org/10.1145/3627673.3679709
+  BIB:
+    text: link
+    url: https://dblp.uni-trier.de/rec/conf/cikm/LeeKSJ24.html?view=bibtex
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1jBs0Qd4VkzUdlbwZdMiEMSrp7EpwSotP/view?usp=sharing
+  Code:
+    text: link
+    url: https://github.com/geonwooko/MULE
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1C_K0mV9zbmB0es30MJyB4ezq7DDOKmw8/view?usp=sharing
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2024-11-30T15:00:00.000Z'
+  Year: 2024
+  Month: 12
+  Days: 9-12
+  Publisher: IEEE
+  Location: Abu Dhabi, UAE
+  Venue:
+    text: ICDM
+    url: https://icdm2024.org/
+  FullVenue: International Conference on Data Mining
+  Title: 'ELiCiT: Effective and Lightweight Lossy Compression of Tensors'
+  BKIF: 3
+  AR: 0.1093
+  BK: 최우수
+  Type:
+  - ORAL
+  Pages: 1163-1173
+  NumAuthors: 4
+  Authors:
+  - Jihoon Ko
+  - "\bTaehyung Kwon"
+  - Jinhong Jung
+  - Jun-Gi Jang
+  - Kijung Shin
+  First:
+  - Jihoon Ko
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: https://github.com/jihoonko/icdm24-elicit
+  Slide:
+    text: link
+    url: https://drive.google.com/file/d/1HuWmx7w2mvf0OnMTtCksQZjZh5ctYGp1/view?usp=drive_link
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: https://github.com/jihoonko/elicit/blob/main/supplementary_material.pdf
+  Notes:
+  - note: Selected as one of the best-ranked papers of ICDM 2024 for fast-track journal
+      invitation
+    url: ''
+- Date: '2025-05-31T15:00:00.000Z'
+  Year: 2025
+  Month: 6
+  Days: 10-13
+  Publisher: IEEE
+  Location: Sydney, Australia
+  Venue:
+    text: PAKDD
+    url: https://pakdd2025.org/
+  FullVenue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  Title: 'Multi-Behavior Recommender Systems: A Survey'
+  BKIF: 1
+  AR: '-'
+  BK: 우수
+  Type:
+  - SURVEY
+  Pages: '-'
+  NumAuthors: 5
+  Authors:
+  - Kyungho Kim
+  - Sunwoo Kim
+  - Geon Lee
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Kyungho Kim
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2025-05-31T15:00:00.000Z'
+  Year: 2025
+  Month: 6
+  Days: 10-13
+  Publisher: IEEE
+  Location: Sydney, Australia
+  Venue:
+    text: PAKDD
+    url: https://pakdd2025.org/
+  FullVenue: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  Title: 'AugWard: Augmentation-Aware Representation Learning for Accurate Graph Classification'
+  BKIF: 1
+  AR: '-'
+  BK: 우수
+  Type:
+  - ORAL
+  Pages: '-'
+  NumAuthors: 5
+  Authors:
+  - Minjun Kim
+  - Jaehyeon Choi
+  - SeungJoo Lee
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Minjun Kim
+  Corresp:
+  - Jinhong Jung
+  - U Kang
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
