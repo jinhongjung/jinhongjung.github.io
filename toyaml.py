@@ -7,7 +7,8 @@ api = "https://script.google.com/macros/s/AKfycbxO17hMwj9jdoHT5imxfTgTITt1JOxLYX
 sheets = {
     "International+Conference" : "papers",
     "International+Journal": "journals",
-    "Award" : "awards"
+    "Award" : "awards",
+    "Talk" : "talks"
 }
 
 for (sheetName, fileName) in sheets.items():

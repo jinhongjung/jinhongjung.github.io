@@ -1,5 +1,6 @@
 {% assign sorted_awards = site.data.awards | sort: "Date" | reverse %}
 {% assign std_awards = sorted_awards | where_exp: "award", "award.Type contains 'Student'" %}
+{% assign sorted_talks = site.data.talks | sort: "Date" | reverse %}
 
 <!--largescreen-->
 <div class="container section" id="largescreen">
@@ -33,11 +34,11 @@
             <div class="item"></div>
 
             <h3 style="font-weight:bold;">Talks or Guest Lectures</h3>
-            {% for talk in site.data.talks %}
+            {% for talk in sorted_talks %}
                 <div class="item no_mb">
                     <div class="title_item">
-                        <div>· <a href="{{ talk.slide }}" target="_blank">{{ talk.title }}</a> @ {{ talk.venue }} </div>
-                        <div class="date">{{ talk.month }} {{ talk.year }}</div>
+                        <div>· <a href="{{ talk.Slide.url }}" target="_blank">{{ talk.Title }}</a> @ {{ talk.Venue }} </div>
+                        <div class="date">{{ talk.Date | date: "%b. %Y" }}</div>
                     </div>
                 </div>
             {% endfor %}
@@ -108,12 +109,12 @@
             <div class="item"></div>
 
             <h3 style="font-weight:bold;">Talks or Guest Lectures</h3>
-            {% for talk in site.data.talks %}
+            {% for talk in sorted_talks %}
                 <div class="item no_mb">
-                    <p class="long-and-truncated">· <a href="{{ talk.slide }}" target="_blank">{{ talk.title }}</a></p>
+                    <p class="long-and-truncated">· <a href="{{ talk.Slide.url }}" target="_blank">{{ talk.Title }}</a></p>
                     <div class="title_item" style="font-size:x-small;">
-                        <div style="padding-left: 7px;">- Talk at {{ talk.venue }}</div>
-                        <div class="date">{{ talk.year }}</div>
+                        <div style="padding-left: 7px;">- Talked at {{ talk.Venue }}</div>
+                        <div class="date">{{ talk.Date | date: "%b. %Y" }}</div>
                     </div>
                 </div>
             {% endfor %}
