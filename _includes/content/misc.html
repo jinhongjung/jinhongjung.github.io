@@ -2,6 +2,7 @@
 {% assign std_awards = sorted_awards | where_exp: "award", "award.Type contains 'Student'" %}
 {% assign sorted_talks = site.data.talks | sort: "Date" | reverse %}
 {% assign sorted_patents = site.data.patents | sort: "FilingDate" | reverse %}
+{% assign sorted_projects = site.data.projects_new | sort: "StartDate" | reverse %}
 
 <!--largescreen-->
 <div class="container section" id="largescreen">
@@ -24,11 +25,18 @@
 
 
             <h3 style="font-weight:bold;">Projects</h3>
-            {% for project in site.data.projects %}
+            {% assign current_year = 'now' | date: "%Y" | plus: 0 %}
+            {% for project in sorted_projects %}
+                {% assign end_year = project.EndDate | date: "%Y" | plus: 0 %}
+                {% if end_year >= current_year %}
+                    {% assign end_year = "present" %}
+                {% else %}
+                    {% assign end_year = project.EndDate | date: "%Y" %}
+                {% endif %}
                 <div class="item no_mb">
                     <div class="title_item">
-                        <div>· {{ project.title }} @ {{ project.funder }} </div>
-                        <div class="date">{{ project.date }}</div>
+                        <div>· {{ project.Title }} @ {{ project.Source }} </div>
+                        <div class="date">{{ project.StartDate | date: "%Y" }}-{{ end_year }}</div>
                     </div>
                 </div>
             {% endfor %}
@@ -122,12 +130,12 @@
             <div class="item"></div>
 
             <h3 class="text-bold">Patents</h3>
-            {% for patent in site.data.patents %}
+            {% for patent in sorted_talks %}
                 <div class="item no_mb">
                     <div class="title_item">
-                        <div>· <a href="{{ patent.link }}" target="_blank">{{ patent.title | truncatewords: 6 }}</a> </div>
+                        <div>· <a href="{{ patent.DOI.url }}" target="_blank">{{ patent.Title | truncatewords: 6 }}</a> </div>
                         <div class="date">
-                            {{ patent.date }}
+                            {{ patent.FilingDate | date: "%b. %Y" }}
                         </div>
                     </div>
                 </div>

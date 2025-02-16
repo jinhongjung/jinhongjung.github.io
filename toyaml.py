@@ -9,7 +9,8 @@ sheets = {
     "International+Journal": "journals",
     "Award" : "awards",
     "Talk" : "talks",
-    "Patent" : "patents"
+    "Patent" : "patents",
+    "Project" : "projects"
 }
 
 for (sheetName, fileName) in sheets.items():
