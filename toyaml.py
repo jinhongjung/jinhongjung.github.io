@@ -8,7 +8,8 @@ sheets = {
     "International+Conference" : "papers",
     "International+Journal": "journals",
     "Award" : "awards",
-    "Talk" : "talks"
+    "Talk" : "talks",
+    "Patent" : "patents"
 }
 
 for (sheetName, fileName) in sheets.items():

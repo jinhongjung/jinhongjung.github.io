@@ -1,40 +1,312 @@
-- date: Nov. 2020
-  title: "Method and Apparatus for Measuring Relevance Between Nodes of Edge-labeled Multigraph"
-  authors:
-    - Jinhong Jung
-    - Woojeong Jin
-    - Ha-Myung Park
-    - U Kang 
-  link: "https://doi.org/10.8080/1020180150180"
-
-- date: May. 2020
-  title: "Method and Apparatus for Fast Personalized Ranking Using Block Elimination in Signed Social Network"
-  authors:
-    - Jinhong Jung
-    - Woojeong Jin
-    - U Kang
-  link: "https://doi.org/10.8080/1020180149677"
-
-- date: Nov. 2019
-  title: "Apparatus and Method for Generating Signed Network"
-  authors:
-    - Jinhong Jung
-    - Ha-Myung Park
-    - U Kang
-  link: "https://doi.org/10.8080/1020190146716"
-
-- date: Apr. 2019
-  title: "Method for Personalized Ranking in Signed Networks, Recording Medium and Device for Performing the Method"
-  authors:
-    - Jinhong Jung
-    - Woojeong Jin
-    - U Kang
-  link: "https://doi.org/10.8080/1020170149941"
-
-- date: Jan. 2019
-  title: "Method and Apparatus for Performing Graph Ranking"
-  authors:
-    - Jinhong Jung
-    - Namyong Park
-    - U Kang
-  link: "https://doi.org/10.8080/1020160183757"
+- FilingDate: '2016-12-29T15:00:00.000Z'
+  IssueDate: '2019-01-30T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2016-0183757
+  PatentNumber: 10-1946692
+  Title:
+    kr: 그래프 랭킹 수행 방법 및 장치
+    en: Method and Apparatus for Performing Graph Ranking
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 정진홍
+  - 박남용
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020160183757
+  Application: link
+  Patent: link
+- FilingDate: '2017-01-11T15:00:00.000Z'
+  IssueDate: '2018-06-04T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2017-0005485
+  PatentNumber: 10-1866866
+  Title:
+    kr: 부호화된 네트워크에서의 개인화된 랭킹 방법, 이를 수행하기 위한 기록 매체 및 장치
+    en: Method for Personalized Ranking in Signed Networks, Recording Medium And Device
+      for Performing the Method
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 진우정
+  - 정진홍
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020170005485
+  Application: link
+  Patent: link
+- FilingDate: '2017-11-09T15:00:00.000Z'
+  IssueDate: '2019-11-18T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2017-0149941
+  PatentNumber: 10-2048442
+  Title:
+    kr: 네트워크에서의 랭킹 및 연결 예측을 위한 지도식 확장 랜덤 워크를 제공하는 방법 및 장치
+    en: Method for Providing Supervised and Extended Restart in Random Walks for Ranking
+      and Link Prediction in Networks
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 진우정
+  - 정진홍
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020170149941
+  Application: link
+  Patent: link
+- FilingDate: '2017-11-17T15:00:00.000Z'
+  IssueDate: ''
+  Country: PCT
+  DomApp: 0
+  DomReg: 0
+  OverApp: 1
+  OverReg: 0
+  ApplicationNumber: PCT/KR2017/012962
+  PatentNumber: ''
+  Title:
+    kr: 대용량 그래프를 위한 효율적 노드간 유사도 계산 방법 및 장치
+    en: Fast, Scalable and Accurate Method for Approximate Random Walk with Restart
+      on Billion Scale Graphs
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 윤민지
+  - 정진홍
+  DOI:
+    text: link
+    url: ''
+  Application: link
+  Patent: link
+- FilingDate: '2018-01-18T15:00:00.000Z'
+  IssueDate: '2020-01-07T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2018-0007389
+  PatentNumber: 10-2066213
+  Title:
+    kr: 데이터 처리 장치 및 방법
+    en: Apparatus and Method For Processing Data
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 4
+  Authors:
+  - 강유
+  - 장준기
+  - 최동진
+  - 정진홍
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020180007389
+  Application: link
+  Patent: link
+- FilingDate: '2018-11-27T15:00:00.000Z'
+  IssueDate: '2020-05-13T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2018-0149677
+  PatentNumber: 10-2113094
+  Title:
+    kr: 부호화된 소셜 네트워크에서 블록 제거 기법을 활용한 빠른 개인화된 랭킹 기법
+    en: Method and Apparatus for Fast Personalized Ranking Using Block Elimination
+      in Signed Social Networks
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 정진홍
+  - 진우정
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020180149677
+  Application: link
+  Patent: link
+- FilingDate: '2018-11-27T15:00:00.000Z'
+  IssueDate: '2020-11-05T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2018-0150180
+  PatentNumber: 10-2020-0063904
+  Title:
+    kr: 다중 간선 라벨 네트워크에서 랜덤 워크를 활용한 관계 추론 방법
+    en: Method and Apparatus for Measuring Relevance Between Nodes of Edge-Labeled
+      Multigraph
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 4
+  Authors:
+  - 강유
+  - 정진홍
+  - 진우정
+  - 박하명
+  DOI:
+    text: link
+    url: https://www.kipris.or.kr/khome/detail/newWindow.do
+  Application: link
+  Patent: link
+- FilingDate: '2019-11-14T15:00:00.000Z'
+  IssueDate: '2021-10-27T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2019-0146716
+  PatentNumber: 10-2321064
+  Title:
+    kr: 부호화된 네트워크 생성 장치 및 방법
+    en: Apparatus and Method for Generating Signed Network
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 정진홍
+  - 박하명
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020190146716
+  Application: link
+  Patent: link
+- FilingDate: '2021-07-29T15:00:00.000Z'
+  IssueDate: '2023-09-04T15:00:00.000Z'
+  Country: Korea
+  DomApp: 1
+  DomReg: 1
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2021-0100987
+  PatentNumber: 10-2576699
+  Title:
+    kr: 지식 증류를 통한 그래프 합성곱 신경망 모델의 압축 방법 및 이를 수행하기 위한 장치
+    en: Method for Compressing Graph Convolution Network Model Through Knowledge Distillation,
+      and Apparatus for Performing the Same
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 3
+  Authors:
+  - 강유
+  - 김정헌
+  - 정진홍
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020210100987
+  Application: link
+  Patent: link
+- FilingDate: '2021-12-02T15:00:00.000Z'
+  IssueDate: ''
+  Country: Korea
+  DomApp: 1
+  DomReg: 0
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2021-0172385
+  PatentNumber: ''
+  Title:
+    kr: 정점의 특성을 예측하는 장치 및 방법
+    en: Apparatus and Method for Predicting Feature of Node
+  Patentee: 서울대학교 산학협력단
+  NumAuthors: 4
+  Authors:
+  - 강유
+  - 유재민
+  - 전현식
+  - 정진홍
+  DOI:
+    text: link
+    url: https://doi.org/10.8080/1020210172385
+  Application: link
+  Patent: link
+- FilingDate: '2023-07-26T15:00:00.000Z'
+  IssueDate: ''
+  Country: PCT
+  DomApp: 0
+  DomReg: 0
+  OverApp: 1
+  OverReg: 0
+  ApplicationNumber: PCT/KR2023/010937
+  PatentNumber: ''
+  Title:
+    kr: 재배열 가능한 희소 다차원 데이터의 손실 압축 방법 및 장치
+    en: Method and Apparatus of Lossy Compression for Sparse Reorderable Multi-Dimensional
+      Data
+  Patentee: 숭실대학교 산학협력단; 한국과학기술원
+  NumAuthors: 4
+  Authors:
+  - 신기정
+  - 고지훈
+  - 권태형
+  - 정진홍
+  DOI:
+    text: link
+    url: ''
+  Application: link
+  Patent: link
+- FilingDate: '2024-10-01T15:00:00.000Z'
+  IssueDate: ''
+  Country: USA
+  DomApp: 0
+  DomReg: 0
+  OverApp: 1
+  OverReg: 0
+  ApplicationNumber: 18/904,499
+  PatentNumber: ''
+  Title:
+    kr: 신경망 기반 텐서-열차 분해를 활용한 텐서 손실 압축 기법
+    en: Lossy Tensor Compression Method Using Neural Network-Based Tensor-Train Decomposition
+  Patentee: 숭실대학교 산학협력단; 한국과학기술원
+  NumAuthors: 4
+  Authors:
+  - 신기정
+  - 고지훈
+  - 권태형
+  - 정진홍
+  DOI:
+    text: link
+    url: ''
+  Application: link
+  Patent: link
+- FilingDate: '2025-02-02T15:00:00.000Z'
+  IssueDate: ''
+  Country: Korea
+  DomApp: 1
+  DomReg: 0
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2025-0013116
+  PatentNumber: ''
+  Title:
+    kr: 다중 행동 기반의 추천 방법 및 장치
+    en: Method for Multi-Behavior Based Recommendation and Apparatus Thereof
+  Patentee: 숭실대학교 산학협력단; 전북대학교 산학협력단
+  NumAuthors: 4
+  Authors:
+  - 정진홍
+  - 고건우
+  - 이승한
+  - 송현제
+  DOI:
+    text: link
+    url: ''
+  Application: link
+  Patent: link

@@ -1,6 +1,7 @@
 {% assign sorted_awards = site.data.awards | sort: "Date" | reverse %}
 {% assign std_awards = sorted_awards | where_exp: "award", "award.Type contains 'Student'" %}
 {% assign sorted_talks = site.data.talks | sort: "Date" | reverse %}
+{% assign sorted_patents = site.data.patents | sort: "FilingDate" | reverse %}
 
 <!--largescreen-->
 <div class="container section" id="largescreen">
@@ -45,12 +46,12 @@
             <div class="item"></div>
 
             <h3 class="text-bold">Patents</h3>
-            {% for patent in site.data.patents %}
+            {% for patent in sorted_patents %}
                 <div class="item no_mb">
                     <div class="title_item">
-                        <div>· <a href="{{ patent.link }}" target="_blank">{{ patent.title | truncatewords: 12 }}</a> </div>
+                        <div>· <a href="{{ patent.DOI.url }}" target="_blank">{{ patent.Title.en | truncatewords: 10 }}</a> </div>
                         <div class="date">
-                            {{ patent.date }}
+                            {{ patent.FilingDate | date: "%b. %Y" }}
                         </div>
                     </div>
                 </div>
