@@ -2,7 +2,7 @@
 {% assign std_awards = sorted_awards | where_exp: "award", "award.Type contains 'Student'" %}
 {% assign sorted_talks = site.data.talks | sort: "Date" | reverse %}
 {% assign sorted_patents = site.data.patents | sort: "FilingDate" | reverse %}
-{% assign sorted_projects = site.data.projects_new | sort: "StartDate" | reverse %}
+{% assign sorted_projects = site.data.projects | sort: "StartDate" | reverse %}
 
 <!--largescreen-->
 <div class="container section" id="largescreen">
