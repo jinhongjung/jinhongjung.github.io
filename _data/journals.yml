@@ -1,4 +1,4 @@
-- Date: '2016-04-30T15:00:00.000Z'
+- Date: '2016-05-01T00:00:00.000Z'
   Year: 2016
   Month: 5
   Days: 11
@@ -7,7 +7,7 @@
   Venue:
     text: TODS
     url: https://dl.acm.org/journal/tods
-  FullVenue: 'ACM Transactions on Database Systems '
+  FullVenue: ACM Transactions on Database Systems
   Title: Random Walk with Restart on Large Graphs Using Block Elimination
   IF: 0.684
   ISSN: 0362-5915
@@ -43,7 +43,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2019-04-30T15:00:00.000Z'
+- Date: '2019-05-01T00:00:00.000Z'
   Year: 2019
   Month: 5
   Days: 6
@@ -87,7 +87,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2019-02-28T15:00:00.000Z'
+- Date: '2019-03-01T00:00:00.000Z'
   Year: 2019
   Month: 3
   Days: 20
@@ -132,7 +132,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2020-04-30T15:00:00.000Z'
+- Date: '2020-05-01T00:00:00.000Z'
   Year: 2020
   Month: 5
   Days: 21
@@ -178,7 +178,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2020-09-30T15:00:00.000Z'
+- Date: '2020-10-01T00:00:00.000Z'
   Year: 2020
   Month: 10
   Days: 27
@@ -222,7 +222,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2021-07-31T15:00:00.000Z'
+- Date: '2021-08-01T00:00:00.000Z'
   Year: 2021
   Month: 8
   Days: 13
@@ -266,7 +266,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2022-02-28T15:00:00.000Z'
+- Date: '2022-03-01T00:00:00.000Z'
   Year: 2022
   Month: 3
   Days: 17
@@ -311,7 +311,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2023-11-30T15:00:00.000Z'
+- Date: '2023-12-01T00:00:00.000Z'
   Year: 2023
   Month: 12
   Days: 21
@@ -358,7 +358,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2024-01-31T15:00:00.000Z'
+- Date: '2024-02-01T00:00:00.000Z'
   Year: 2024
   Month: 2
   Days: 28
@@ -402,7 +402,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2024-09-30T15:00:00.000Z'
+- Date: '2024-10-01T00:00:00.000Z'
   Year: 2024
   Month: 10
   Days: 14

@@ -1,7 +1,7 @@
 - Year: 2016
   Month: 7
   Day: 1
-  Date: '2016-06-30T15:00:00.000Z'
+  Date: '2016-07-01T00:00:00.000Z'
   Title: Fast Random Walk with Restart on Large Graphs using Block Elimination
   Venue: Naver Labs
   Slide:
@@ -10,7 +10,7 @@
 - Year: 2017
   Month: 6
   Day: 1
-  Date: '2017-05-31T15:00:00.000Z'
+  Date: '2017-06-01T00:00:00.000Z'
   Title: 'BePI: Fast and Memory-efficient Method for Billion-Scale RWR'
   Venue: Korea Computer Congress
   Slide:
@@ -19,7 +19,7 @@
 - Year: 2019
   Month: 1
   Day: 1
-  Date: '2018-12-31T15:00:00.000Z'
+  Date: '2019-01-01T00:00:00.000Z'
   Title: Personalized Ranking in Signed Networks using Signed Random Walk with Restart
   Venue: NC Soft
   Slide:
@@ -28,7 +28,7 @@
 - Year: 2020
   Month: 7
   Day: 1
-  Date: '2020-06-30T15:00:00.000Z'
+  Date: '2020-07-01T00:00:00.000Z'
   Title: Machine Learning with Graphs
   Venue: Korea Computer Congress
   Slide:
@@ -37,7 +37,7 @@
 - Year: 2022
   Month: 4
   Day: 1
-  Date: '2022-03-31T15:00:00.000Z'
+  Date: '2022-04-01T00:00:00.000Z'
   Title: Graph Neural Networks
   Venue: Rural Development Administration
   Slide:
@@ -46,7 +46,7 @@
 - Year: 2023
   Month: 10
   Day: 1
-  Date: '2023-09-30T15:00:00.000Z'
+  Date: '2023-10-01T00:00:00.000Z'
   Title: Time-aware Random Walk Diffusion to Improve Dynamic Graph Learning
   Venue: KJDB
   Slide:
@@ -55,7 +55,7 @@
 - Year: 2023
   Month: 12
   Day: 28
-  Date: '2023-12-27T15:00:00.000Z'
+  Date: '2023-12-28T00:00:00.000Z'
   Title: Learning Graphs with Random Walks
   Venue: DMLAB, KAIST
   Slide:
@@ -64,7 +64,7 @@
 - Year: 2024
   Month: 4
   Day: 30
-  Date: '2024-04-29T15:00:00.000Z'
+  Date: '2024-04-30T00:00:00.000Z'
   Title: Random Walk-Based Graph Mining
   Venue: Kangwon National University
   Slide:
@@ -73,7 +73,7 @@
 - Year: 2024
   Month: 12
   Day: 20
-  Date: '2024-12-19T15:00:00.000Z'
+  Date: '2024-12-20T00:00:00.000Z'
   Title: Leveraging Real-World Graph Properties for Graph Learning
   Venue: IPAI Seminar, SNU
   Slide:

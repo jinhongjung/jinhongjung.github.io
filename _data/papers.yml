@@ -1,4 +1,4 @@
-- Date: '2015-04-30T15:00:00.000Z'
+- Date: '2015-05-01T00:00:00.000Z'
   Year: 2015
   Month: 5
   Days: '-'
@@ -49,7 +49,7 @@
   Notes:
   - note: Received the Samsung Humantech Paper Award (Gold Prize)
     url: ''
-- Date: '2016-11-30T15:00:00.000Z'
+- Date: '2016-12-01T00:00:00.000Z'
   Year: 2016
   Month: 12
   Days: 12-15
@@ -98,7 +98,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2017-02-28T15:00:00.000Z'
+- Date: '2017-03-01T00:00:00.000Z'
   Year: 2017
   Month: 3
   Days: 29-31
@@ -151,7 +151,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2017-04-30T15:00:00.000Z'
+- Date: '2017-05-01T00:00:00.000Z'
   Year: 2017
   Month: 5
   Days: 14-19
@@ -203,7 +203,7 @@
   Notes:
   - note: Received the Samsung Humantech Paper Award (Silver Prize)
     url: ''
-- Date: '2017-11-30T15:00:00.000Z'
+- Date: '2017-12-01T00:00:00.000Z'
   Year: 2017
   Month: 12
   Days: 11-14
@@ -252,7 +252,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2018-03-31T15:00:00.000Z'
+- Date: '2018-04-01T00:00:00.000Z'
   Year: 2018
   Month: 4
   Days: 16-20
@@ -261,7 +261,7 @@
   Venue:
     text: ICDE
     url: https://icde2018.org/
-  FullVenue: 'International Conference on Data Engineering '
+  FullVenue: International Conference on Data Engineering
   Title: 'TPA: Fast, Scalable, and Accurate Method for Approximate Random Walk with
     Restart on Billion Scale Graphs'
   BKIF: 3
@@ -301,7 +301,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2018-09-30T15:00:00.000Z'
+- Date: '2018-10-01T00:00:00.000Z'
   Year: 2018
   Month: 10
   Days: 22-26
@@ -353,7 +353,7 @@
   Notes:
   - note: Received the Samsung Humantech Paper Award (Honorable Mention)
     url: ''
-- Date: '2020-02-29T15:00:00.000Z'
+- Date: '2020-03-01T00:00:00.000Z'
   Year: 2020
   Month: '2019-03-03T15:00:00.000Z'
   Days: 30-2
@@ -401,7 +401,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2021-07-31T15:00:00.000Z'
+- Date: '2021-08-01T00:00:00.000Z'
   Year: 2021
   Month: 8
   Days: 14-18
@@ -449,7 +449,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2022-07-31T15:00:00.000Z'
+- Date: '2022-08-01T00:00:00.000Z'
   Year: 2022
   Month: 8
   Days: 14-18
@@ -498,7 +498,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2023-01-31T15:00:00.000Z'
+- Date: '2023-02-01T00:00:00.000Z'
   Year: 2023
   Month: 2
   Days: 7-14
@@ -549,7 +549,7 @@
     url: https://aaai.org/Conferences/AAAI-23/
   - note: Received the Samsung Humantech Paper Award (Bronze Prize)
     url: https://drive.google.com/file/d/1OWO_Ro23uSKFMfDi66ZfWvm-GYpVhu-L/view?usp=sharing
-- Date: '2023-03-31T15:00:00.000Z'
+- Date: '2023-04-01T00:00:00.000Z'
   Year: 2023
   Month: '2024-04-04T15:00:00.000Z'
   Days: 30-4
@@ -600,7 +600,7 @@
     text: link
     url: https://github.com/kbrother/NeuKron/blob/main/online_appendix.pdf
   Notes: []
-- Date: '2023-11-30T15:00:00.000Z'
+- Date: '2023-12-01T00:00:00.000Z'
   Year: 2023
   Month: 12
   Days: 1-4
@@ -654,7 +654,7 @@
   - note: Selected as one of the best-ranked papers of ICDM 2023 for fast-track journal
       invitation
     url: ''
-- Date: '2024-07-31T15:00:00.000Z'
+- Date: '2024-08-01T00:00:00.000Z'
   Year: 2024
   Month: 8
   Days: 25-29
@@ -705,7 +705,7 @@
     text: link
     url: https://github.com/kbrother/Light-IT/blob/mem_opt/supplement.pdf
   Notes: []
-- Date: '2024-09-30T15:00:00.000Z'
+- Date: '2024-10-01T00:00:00.000Z'
   Year: 2024
   Month: 10
   Days: 21-25
@@ -756,7 +756,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2024-11-30T15:00:00.000Z'
+- Date: '2024-12-01T00:00:00.000Z'
   Year: 2024
   Month: 12
   Days: 9-12
@@ -809,7 +809,7 @@
   - note: Selected as one of the best-ranked papers of ICDM 2024 for fast-track journal
       invitation
     url: ''
-- Date: '2025-05-31T15:00:00.000Z'
+- Date: '2025-06-01T00:00:00.000Z'
   Year: 2025
   Month: 6
   Days: 10-13
@@ -859,7 +859,7 @@
     text: link
     url: ''
   Notes: []
-- Date: '2025-05-31T15:00:00.000Z'
+- Date: '2025-06-01T00:00:00.000Z'
   Year: 2025
   Month: 6
   Days: 10-13
