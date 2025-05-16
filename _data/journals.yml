@@ -449,3 +449,48 @@
     text: link
     url: ''
   Notes: []
+- Date: '2025-05-01T00:00:00.000Z'
+  Year: 2025
+  Month: 5
+  Days: ''
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: KAIS
+    url: https://link.springer.com/journal/10115
+  FullVenue: Knowledge and Information Systems
+  Title: 'Effective and Lightweight Lossy Compression of Tensors: Techniques and Applications'
+  IF: 2.5
+  ISSN: 0219-1377
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 4
+  Authors:
+  - Jihoon Ko
+  - Taehyung Kwon
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Jihoon Ko
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: ''
+    url: ''
+  Notes: []
