@@ -491,6 +491,52 @@
     text: link
     url: ''
   Appendix:
-    text: ''
+    text: link
+    url: ''
+  Notes: []
+- Date: '2025-05-01T00:00:00.000Z'
+  Year: 2025
+  Month: 6
+  Days: ''
+  Publisher: Elsevier
+  Location: Netherlands
+  Venue:
+    text: NN
+    url: https://www.sciencedirect.com/journal/neural-networks
+  FullVenue: Neural Networks
+  Title: Effective and Lightweight Representation Learning for Signed Bipartite Graphs
+  IF: 6
+  ISSN: ''
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 4
+  Authors:
+  - Gyeongmin Gu
+  - Minseo Jeon
+  - Hyun-Je Song
+  - Jinhong Jung
+  First:
+  - Gyeongmin Gu
+  - Minseo Jeon
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
     url: ''
   Notes: []
