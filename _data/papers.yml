@@ -786,13 +786,13 @@
   - Kijung Shin
   DOI:
     text: link
-    url: ''
+    url: https://doi.org/10.1109/ICDM59182.2024.00024
   BIB:
     text: link
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://drive.google.com/file/d/14o35w41TaYtolyRT4LnEKLtbvj2WtDMc/view?usp=sharing
   Code:
     text: link
     url: https://github.com/jihoonko/icdm24-elicit
@@ -845,7 +845,7 @@
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://arxiv.org/pdf/2503.06963.pdf
   Code:
     text: link
     url: ''
@@ -896,10 +896,10 @@
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://drive.google.com/file/d/12uSmDmlPKrEDd_mAXworbRKq9bhZuq-3/view?usp=drive_link
   Code:
     text: link
-    url: ''
+    url: https://github.com/snudatalab/AugWard
   Slide:
     text: link
     url: ''
@@ -910,3 +910,93 @@
     text: link
     url: ''
   Notes: []
+- Date: ''
+  Year: ''
+  Month: ''
+  Days: ''
+  Publisher: ''
+  Location: ''
+  Venue: ''
+  FullVenue: ''
+  Title: ''
+  BKIF: ''
+  AR: ''
+  BK: ''
+  Type:
+  - ''
+  Pages: ''
+  NumAuthors: ''
+  Authors:
+  - ''
+  First:
+  - ''
+  Corresp:
+  - ''
+  DOI:
+    text: ''
+    url: ''
+  BIB:
+    text: ''
+    url: ''
+  Paper:
+    text: ''
+    url: ''
+  Code:
+    text: ''
+    url: ''
+  Slide:
+    text: ''
+    url: ''
+  Poster:
+    text: ''
+    url: ''
+  Appendix:
+    text: ''
+    url: ''
+  Notes: []
+- Date: ''
+  Year: ''
+  Month: ''
+  Days: ''
+  Publisher: ''
+  Location: ''
+  Venue: ''
+  FullVenue: ''
+  Title: ''
+  BKIF: ''
+  AR: ''
+  BK: ''
+  Type:
+  - ''
+  Pages: ''
+  NumAuthors: ''
+  Authors:
+  - ''
+  First:
+  - ''
+  Corresp:
+  - ''
+  DOI:
+    text: ''
+    url: ''
+  BIB:
+    text: ''
+    url: ''
+  Paper:
+    text: ''
+    url: ''
+  Code:
+    text: ''
+    url: ''
+  Slide:
+    text: ''
+    url: ''
+  Poster:
+    text: ''
+    url: ''
+  Appendix:
+    text: ''
+    url: ''
+  Notes:
+  - note: Journal of Data Science and Analytics
+    url: ''

@@ -496,7 +496,7 @@
   Notes: []
 - Date: '2025-05-01T00:00:00.000Z'
   Year: 2025
-  Month: 6
+  Month: 7
   Days: ''
   Publisher: Elsevier
   Location: Netherlands
@@ -529,10 +529,10 @@
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://arxiv.org/abs/2412.18720
   Code:
     text: link
-    url: ''
+    url: https://github.com/ssu-dmlab/ELISE
   Slide:
     text: link
     url: ''
