@@ -1,98 +1,106 @@
 - type: reviewer
-  venue: NeurIPS 2023 Workshop GLFrontiers 
-  full-venue: NeurIPS 2023 Workshop GLFrontiers 
-  years: 
+  venue: NeurIPS 2023 Workshop GLFrontiers
+  full-venue: NeurIPS 2023 Workshop GLFrontiers
+  years:
     - item:
       year: 2023
-      link: 
+      link:
 
 - type: journal
   venue: NEUNET
   full-venue: Neural Networks
-  years: 
+  years:
     - item:
       year: 2023
-      link: 
+      link:
 
 - type: journal
   venue: ESWA
   full-venue: Expert Systems With Applications
-  years: 
+  years:
     - item:
       year: 2023
-      link: 
+      link:
 
 - type: journal
   venue: TKDE
   full-venue: ACM Transactions on Knowledge and Data Engineering
-  years: 
+  years:
     - item:
       year: 2022
-      link: 
+      link:
+
+- type: pcmember
+  venue: CIKM
+  full-venue: CIKM
+  years:
+    - item:
+      year: 2025
+      link:
 
 - type: pcmember
   venue: AAAI
   full-venue: AAAI Conference on Artificial Intelligence
-  years: 
+  years:
     - item:
       year: 2021
       link: https://bit.ly/3rIaXcI
     - item:
       year: 2023
-      link: 
+      link:
     - item:
       year: 2024
-      link: 
+      link:
     - item:
       year: 2025
-      link: 
+      link:
 
 - type: pcmember
   venue: TheWebConf (WWW)
   full-venue: The Web Conference
-  years: 
+  years:
     - item:
       year: 2022
-      link: https://www2022.thewebconf.org/program-committee-members/ 
+      link: https://www2022.thewebconf.org/program-committee-members/
     - item:
       year: 2023
-      link: 
+      link:
     - item:
       year: 2024
-      link: 
+      link:
     - item:
       year: 2025
-      link: 
+      link:
 
 - type: pcmember
   venue: KDD
-  full-venue: ACM Conference on Knowledge Discovery and Data Mining 
-  years: 
+  full-venue: ACM Conference on Knowledge Discovery and Data Mining
+  years:
     - item:
       year: 2024
-      link: 
+      link:
     - item:
       year: 2025
-      link: 
+      link:
 
 - type: pcmember
   venue: WSDM
   full-venue: ACM Conference on Web Search and Data Mining
-  years: 
+  years:
     - item:
       year: 2023
-      link: 
+      link:
     - item:
       year: 2024
-      link: 
+      link:
     - item:
       year: 2025
-      link: 
+      link:
 
 - type: pcmember
   venue: BigComp
   full-venue: IEEE Conference on Big Data and Smart Computing
-  years: 
+  years:
     - item:
       year: 2021
       link: http://www.bigcomputing.org/conf2021/program-committee.html
@@ -103,151 +111,151 @@
 - type: reviewer
   venue: KDD
   full-venue: ACM Conference on Knowledge Discovery and Data Mining
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
     - item:
       year: 2017
-      link: 
+      link:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2019
-      link: 
+      link:
     - item:
       year: 2020
-      link: 
+      link:
 
-  
+
 - type: reviewer
   venue: TheWebConf
   full-venue: The Web Conference
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
     - item:
       year: 2017
-      link: 
+      link:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2019
-      link: 
+      link:
 
 - type: reviewer
   venue: ICDM
   full-venue: IEEE Conference on Data Mining
-  years: 
+  years:
     - item:
       year: 2015
-      link: 
+      link:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2019
-      link: 
+      link:
 
 - type: reviewer
   venue: WSDM
   full-venue: ACM Conference on Web Search and Data Mining
-  years: 
+  years:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2019
-      link: 
+      link:
 
 - type: reviewer
   venue: CIKM
   full-venue: ACM Conference on Information and Knowledge Management
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
     - item:
       year: 2017
-      link: 
+      link:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2019
-      link: 
+      link:
     - item:
       year: 2025
-      link: 
+      link:
 
 - type: reviewer
   venue: SAC
   full-venue: ACM Symposium on Applied Computing
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
     - item:
       year: 2017
-      link: 
+      link:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2019
-      link: 
+      link:
     - item:
       year: 2020
-      link: 
+      link:
 
 - type: reviewer
   venue: ECML/PKDD
   full-venue: "European Conference on Machine Learning and Data Mining"
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
     - item:
       year: 2017
-      link: 
+      link:
 
 - type: reviewer
   venue: BigComp
   full-venue: IEEE Conference on Big Data and Smart Computing
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
     - item:
       year: 2018
-      link: 
+      link:
     - item:
       year: 2020
-      link: 
+      link:
 
 - type: reviewer
   venue: DSAA
   full-venue: International Conference on Data Science and Advanced Analytics
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
 
 - type: reviewer
   venue: BigData
   full-venue: IEEE International Conference on Big Data
-  years: 
+  years:
     - item:
       year: 2016
-      link: 
+      link:
 
 - type: reviewer
   venue: DASFAA
   full-venue: International Conference on Database Systems for Advanced Applications
-  years: 
+  years:
     - item:
       year: 2023
-      link: 
+      link:
