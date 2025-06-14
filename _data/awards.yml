@@ -155,7 +155,7 @@
   Title: HumanTech Award (Bronze Prize)
   Award:
     text: link
-    url: ''
+    url: https://drive.google.com/open?id=1OWO_Ro23uSKFMfDi66ZfWvm-GYpVhu-L&usp=drive_fs
 - Date: '2023-08-01T00:00:00.000Z'
   Year: 2023
   Month: 8
@@ -186,7 +186,7 @@
   Title: IEEE ICDM Best Student Paper Runner-up Award
   Award:
     text: link
-    url: ''
+    url: https://drive.google.com/open?id=1OURE5sWljCGbh--I-dvob2411-_NBuvc&usp=drive_fs
 - Date: '2024-10-01T00:00:00.000Z'
   Year: 2024
   Month: 10
@@ -217,7 +217,7 @@
   Title: KDBC 2024 Best Paper Award (Silver Prize)
   Award:
     text: link
-    url: ''
+    url: https://drive.google.com/open?id=1FLmDb8DAMXBCta5dC47nHsl9oiJD5HKC&usp=drive_fs
 - Date: '2024-12-01T00:00:00.000Z'
   Year: 2024
   Month: 12
@@ -233,4 +233,23 @@
   Title: KSC 2024 Best Paper Award
   Award:
     text: link
-    url: ''
+    url: https://drive.google.com/open?id=10-HbP7UMyT9ANIhvUNjM9lWyD8B_rYuL&usp=drive_fs
+- Date: '2025-06-01T00:00:00.000Z'
+  Year: 2025
+  Month: 6
+  Type:
+  - Professor
+  Students:
+  - Kyungho Kim
+  - Sunwoo Kim
+  - Geon Lee
+  - Jinhong Jung
+  - Kijung Shin
+  Professors:
+  - Jinhong Jung
+  - Kijung Shin
+  Organization: PAKDD
+  Title: PAKDD Best Survey Paper Award
+  Award:
+    text: link
+    url: https://drive.google.com/open?id=1LmCdUTc_pAKpXIOcg9hl2mrrcC_LlAYs&usp=drive_fs
