@@ -912,3 +912,52 @@
     text: link
     url: ''
   Notes: []
+- Date: '2025-11-01T00:00:00.000Z'
+  Year: 2025
+  Month: 11
+  Days: 12-15
+  Publisher: IEEE
+  Location: Washington, DC, USA
+  Venue:
+    text: ICDM
+    url: https://www3.cs.stonybrook.edu/~icdm2025/index.html
+  FullVenue: International Conference on Data Mining
+  Title: 'PIGLET: Probabilistic Message Passing for Semi-supervised Link Sign Prediction'
+  BKIF: 3
+  AR: 13.5
+  BK: 우수
+  Type:
+  - ORAL
+  Pages: '-'
+  NumAuthors: 4
+  Authors:
+  - Ka Hyun Park
+  - Junghun Kim
+  - Jinhong Jung
+  - U Kang
+  First:
+  - Ka Hyun Park
+  Corresp:
+  - U Kang
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
