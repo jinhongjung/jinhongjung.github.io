@@ -540,3 +540,50 @@
     text: link
     url: ''
   Notes: []
+- Date: '2025-09-01T00:00:00.000Z'
+  Year: 2025
+  Month: 9
+  Days: ''
+  Publisher: IEEE
+  Location: USA
+  Venue:
+    text: Access
+    url: https://ieeeaccess.ieee.org/
+  FullVenue: Access
+  Title: 'SearchLight: Neural Architecture Search for Lightweight Spatio-Temporal
+    Graph Neural Networks'
+  IF: 3.557
+  ISSN: 2169-3536
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 4
+  Authors:
+  - Heeyong Yoon
+  - Jinhong Jung
+  - Kang-Wook Chon
+  - MinSoo Kim
+  First:
+  - Heeyong Yoon
+  Corresp:
+  - Kang-Wook Chon
+  - MinSoo Kim
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
