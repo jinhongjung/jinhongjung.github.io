@@ -549,7 +549,7 @@
   Venue:
     text: Access
     url: https://ieeeaccess.ieee.org/
-  FullVenue: Access
+  FullVenue: IEEE Access
   Title: 'SearchLight: Neural Architecture Search for Lightweight Spatio-Temporal
     Graph Neural Networks'
   IF: 3.557
@@ -570,10 +570,10 @@
   - MinSoo Kim
   DOI:
     text: link
-    url: ''
+    url: https://doi.org/10.1109/ACCESS.2025.3611994
   BIB:
     text: link
-    url: ''
+    url: https://drive.google.com/open?id=1Qr0T7DEPkTAZwgs8MKEtVF9Mv7tGiWmi&usp=drive_fs
   Paper:
     text: link
     url: ''
