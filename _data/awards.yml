@@ -253,3 +253,17 @@
   Award:
     text: link
     url: https://drive.google.com/open?id=1LmCdUTc_pAKpXIOcg9hl2mrrcC_LlAYs&usp=drive_fs
+- Date: '2025-11-16T00:00:00.000Z'
+  Year: 2025
+  Month: 11
+  Type:
+  - Student
+  Students:
+  - Minseo Jeon
+  Professors:
+  - Jinhong Jung
+  Organization: Seoul Scholarship Foundation
+  Title: 2025 AI Seoul Tech Scholarship m.s.
+  Award:
+    text: link
+    url: https://drive.google.com/file/d/1Yl6EsxiARrALlAIlVJzntkTEh-fxs-WW/view?usp=drive_link

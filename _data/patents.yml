@@ -263,14 +263,14 @@
   Application: link
   Patent: link
 - FilingDate: '2024-10-01T15:00:00.000Z'
-  IssueDate: ''
+  IssueDate: '2025-10-23T15:00:00.000Z'
   Country: USA
   DomApp: 0
   DomReg: 0
   OverApp: 1
   OverReg: 0
   ApplicationNumber: 18/904,499
-  PatentNumber: ''
+  PatentNumber: 10-2878350
   Title:
     kr: 신경망 기반 텐서-열차 분해를 활용한 텐서 손실 압축 기법
     en: Lossy Tensor Compression Method Using Neural Network-Based Tensor-Train Decomposition
@@ -309,4 +309,56 @@
     text: link
     url: ''
   Application: link
+  Patent: link
+- FilingDate: '2025-02-02T15:00:00.000Z'
+  IssueDate: ''
+  Country: Korea
+  DomApp: ''
+  DomReg: ''
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: ''
+  PatentNumber: ''
+  Title:
+    kr: 그래프 데이터를 학습하기 위한 전자 장치 및 그 동작 방법
+    en: Electronic Device for Learning Graph Data and Operation Method Thereof
+  Patentee: 숭실대학교 산학협력단; 전북대학교 산학렵력단
+  NumAuthors: 4
+  Authors:
+  - 정진홍
+  - 송현제
+  - 전민서
+  - 구경민
+  DOI:
+    text: link
+    url: ''
+  Application:
+    text: link
+    url: https://drive.google.com/file/d/1t3jTHYor1yMve69ABfAvy1TH6YKBcSvT/view?usp=drive_link
+  Patent: link
+- FilingDate: '2025-02-02T15:00:00.000Z'
+  IssueDate: ''
+  Country: Korea
+  DomApp: ''
+  DomReg: ''
+  OverApp: 0
+  OverReg: 0
+  ApplicationNumber: 10-2025-0149072
+  PatentNumber: ''
+  Title:
+    kr: 사용자의 행동에 따른 연결 그래프에 기반하여 정보를 제공하는 정보 제공 장치 및 그 방법
+    en: Test
+  Patentee: 숭실대학교 산학협력단
+  NumAuthors: 4
+  Authors:
+  - 정진홍
+  - 송현제
+  - 전민서
+  - 구경민
+  DOI:
+    text: link
+    url: ''
+  Application:
+    text: link
+    url: https://drive.google.com/file/d/1V0q0ywlXF3Gu3684e4o2fvmy9n5uiXJS/view?usp=drive_link
   Patent: link

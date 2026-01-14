@@ -789,7 +789,7 @@
     url: https://doi.org/10.1109/ICDM59182.2024.00024
   BIB:
     text: link
-    url: ''
+    url: https://dblp.org/rec/conf/icdm/KoKJS24.html?view=bibtex
   Paper:
     text: link
     url: https://drive.google.com/file/d/14o35w41TaYtolyRT4LnEKLtbvj2WtDMc/view?usp=sharing
@@ -839,10 +839,10 @@
   - Kijung Shin
   DOI:
     text: link
-    url: ''
+    url: https://doi.org/10.1007/978-981-96-8183-9_31
   BIB:
     text: link
-    url: ''
+    url: https://dblp.org/rec/conf/pakdd/KimKLJS25.html?view=bibtex
   Paper:
     text: link
     url: https://arxiv.org/pdf/2503.06963.pdf
@@ -892,10 +892,10 @@
   - U Kang
   DOI:
     text: link
-    url: ''
+    url: https://doi.org/10.1007/978-981-96-8173-0_19
   BIB:
     text: link
-    url: ''
+    url: https://dblp.org/rec/conf/pakdd/KimCLJK25.html?view=bibtex
   Paper:
     text: link
     url: https://drive.google.com/file/d/12uSmDmlPKrEDd_mAXworbRKq9bhZuq-3/view?usp=drive_link
@@ -948,6 +948,55 @@
   Paper:
     text: link
     url: https://drive.google.com/open?id=1us_bqYolH8vLgXbScDBw5Ssod03nqB-L&usp=drive_fs
+  Code:
+    text: link
+    url: https://github.com/snudatalab/PiGLeT
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2026-04-01T00:00:00.000Z'
+  Year: 2026
+  Month: 4
+  Days: 13-17
+  Publisher: ACM
+  Location: Dubai, United Arab Emirates
+  Venue:
+    text: WWW
+    url: https://www2026.thewebconf.org/
+  FullVenue: The Web Conference
+  Title: 'AlphaFree: Recommendation Free from Users, IDs, and GNNs'
+  BKIF: 4
+  AR: 0.201
+  BK: 우수
+  Type:
+  - ORAL
+  Pages: '-'
+  NumAuthors: 4
+  Authors:
+  - Minseo Jeon
+  - Junwoo Jung
+  - Daewon Gwak
+  - Jinhong Jung
+  First:
+  - Minseo Jeon
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
   Code:
     text: link
     url: ''

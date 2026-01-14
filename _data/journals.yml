@@ -311,8 +311,8 @@
     text: link
     url: ''
   Notes: []
-- Date: '2023-12-01T00:00:00.000Z'
-  Year: 2024
+- Date: '2023-12-21T00:00:00.000Z'
+  Year: 2023
   Month: 12
   Days: 21
   Publisher: Springer Nature
@@ -358,10 +358,10 @@
     text: link
     url: ''
   Notes: []
-- Date: '2024-02-01T00:00:00.000Z'
+- Date: '2024-02-24T00:00:00.000Z'
   Year: 2024
-  Month: 5
-  Days: ''
+  Month: 2
+  Days: 24
   Publisher: Elsevier
   Location: Netherlands
   Venue:
@@ -402,10 +402,10 @@
     text: link
     url: ''
   Notes: []
-- Date: '2024-10-01T00:00:00.000Z'
-  Year: 2025
-  Month: 2
-  Days: ''
+- Date: '2024-10-14T00:00:00.000Z'
+  Year: 2024
+  Month: 10
+  Days: 14
   Publisher: Springer Nature
   Location: Germany
   Venue:
@@ -435,7 +435,7 @@
     url: https://doi.org/10.1007/s10115-024-02252-x
   BIB:
     text: link
-    url: ''
+    url: https://dblp.org/rec/journals/kais/KwonKJJS25.html?view=bibtex
   Paper:
     text: link
     url: https://drive.google.com/file/d/1dPLeP98qk4tBNZWLPRzs1l_Qqhgl0-H_/view?usp=drive_link
@@ -449,10 +449,10 @@
     text: link
     url: ''
   Notes: []
-- Date: '2025-05-01T00:00:00.000Z'
+- Date: '2025-06-01T00:00:00.000Z'
   Year: 2025
   Month: 6
-  Days: ''
+  Days: 1
   Publisher: Springer Nature
   Location: Germany
   Venue:
@@ -462,9 +462,9 @@
   Title: 'Effective and Lightweight Lossy Compression of Tensors: Techniques and Applications'
   IF: 2.5
   ISSN: 0219-1377
-  VOL: ''
-  'NO': ''
-  Pages: ''
+  VOL: 67
+  'NO': 9
+  Pages: 8143–8193
   NumAuthors: 4
   Authors:
   - Jihoon Ko
@@ -477,10 +477,10 @@
   - Kijung Shin
   DOI:
     text: link
-    url: ''
+    url: https://doi.org/10.1007/s10115-025-02471-w
   BIB:
     text: link
-    url: ''
+    url: https://dblp.org/rec/journals/kais/KoKJS25.html?view=bibtex
   Paper:
     text: link
     url: https://drive.google.com/open?id=1YmcnONMLOZzfSkXMy1islrhSwNeGXgRu&usp=drive_fs
@@ -494,10 +494,10 @@
     text: link
     url: ''
   Notes: []
-- Date: '2025-05-01T00:00:00.000Z'
+- Date: '2025-07-11T00:00:00.000Z'
   Year: 2025
   Month: 7
-  Days: ''
+  Days: 11
   Publisher: Elsevier
   Location: Netherlands
   Venue:
@@ -506,10 +506,10 @@
   FullVenue: Neural Networks
   Title: Effective and Lightweight Representation Learning for Signed Bipartite Graphs
   IF: 6
-  ISSN: ''
-  VOL: ''
-  'NO': ''
-  Pages: ''
+  ISSN: 1879-2782
+  VOL: 192
+  'NO': '-'
+  Pages: '-'
   NumAuthors: 4
   Authors:
   - Gyeongmin Gu
@@ -523,13 +523,13 @@
   - Jinhong Jung
   DOI:
     text: link
-    url: https://drive.google.com/file/d/1Z9ruZTwa7RunOY2SeTBSBmhWwOVkoghl/view?usp=sharing
+    url: https://doi.org/10.1016/j.neunet.2025.107708
   BIB:
     text: link
-    url: ''
+    url: https://dblp.org/rec/journals/nn/GuJSJ25.html?view=bibtex
   Paper:
     text: link
-    url: https://arxiv.org/abs/2412.18720
+    url: https://drive.google.com/file/d/1Z9ruZTwa7RunOY2SeTBSBmhWwOVkoghl/view?usp=sharing
   Code:
     text: link
     url: https://github.com/ssu-dmlab/ELISE
@@ -540,10 +540,10 @@
     text: link
     url: ''
   Notes: []
-- Date: '2025-09-01T00:00:00.000Z'
+- Date: '2025-09-19T00:00:00.000Z'
   Year: 2025
   Month: 9
-  Days: ''
+  Days: 19
   Publisher: IEEE
   Location: USA
   Venue:
@@ -554,9 +554,9 @@
     Graph Neural Networks'
   IF: 3.557
   ISSN: 2169-3536
-  VOL: ''
-  'NO': ''
-  Pages: ''
+  VOL: 13
+  'NO': '-'
+  Pages: 165909-165926
   NumAuthors: 4
   Authors:
   - Heeyong Yoon
@@ -574,6 +574,53 @@
   BIB:
     text: link
     url: https://drive.google.com/open?id=1Qr0T7DEPkTAZwgs8MKEtVF9Mv7tGiWmi&usp=drive_fs
+  Paper:
+    text: link
+    url: https://drive.google.com/file/d/1Qr0T7DEPkTAZwgs8MKEtVF9Mv7tGiWmi/view?usp=drive_link
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
+- Date: '2025-12-01T00:00:00.000Z'
+  Year: 2026
+  Month: ''
+  Days: ''
+  Publisher: Springer Nature
+  Location: Germany
+  Venue:
+    text: IJDSA
+    url: https://link.springer.com/journal/41060
+  FullVenue: International Journal of Data Science and Analytics
+  Title: 'A Comprehensive Survey on Multi-Behavior Recommender Systems: Extended Taxonomy
+    and Recent Advances'
+  IF: 2.8
+  ISSN: ''
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 5
+  Authors:
+  - Kyungho Kim
+  - Sunwoo Kim
+  - Geon Lee
+  - Jinhong Jung
+  - Kijung Shin
+  First:
+  - Kyungho Kim
+  Corresp:
+  - Kijung Shin
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
   Paper:
     text: link
     url: ''
