@@ -587,10 +587,10 @@
     text: link
     url: ''
   Notes: []
-- Date: '2025-12-01T00:00:00.000Z'
+- Date: '2026-01-24T00:00:00.000Z'
   Year: 2026
-  Month: ''
-  Days: ''
+  Month: 1
+  Days: 24
   Publisher: Springer Nature
   Location: Germany
   Venue:
@@ -601,8 +601,8 @@
     and Recent Advances'
   IF: 2.8
   ISSN: ''
-  VOL: ''
-  'NO': ''
+  VOL: 22
+  'NO': 40
   Pages: ''
   NumAuthors: 5
   Authors:
@@ -620,7 +620,7 @@
     url: ''
   BIB:
     text: link
-    url: ''
+    url: https://drive.google.com/file/d/1ixdtvOkRCXdpca3H8t9qqVut-3Fq6L44/view?usp=drive_link
   Paper:
     text: link
     url: ''
