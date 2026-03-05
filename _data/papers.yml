@@ -996,10 +996,10 @@
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://arxiv.org/pdf/2603.02653
   Code:
     text: link
-    url: ''
+    url: https://github.com/Minseojeonn/AlphaFree
   Slide:
     text: link
     url: ''
