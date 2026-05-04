@@ -634,3 +634,50 @@
     text: link
     url: ''
   Notes: []
+- Date: '2026-05-04T00:00:00.000Z'
+  Year: 2026
+  Month: 5
+  Days: 4
+  Publisher: ACM
+  Location: USA
+  Venue:
+    text: TIST
+    url: https://dl.acm.org/journal/tist/indexing
+  FullVenue: ACM Transactions on Intelligent Systems and Technolog
+  Title: Personalized Ranking on Cascading Behavior Graphs for Accurate Multi-Behavior
+    Recommendation
+  IF: 7.7
+  ISSN: ''
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 3
+  Authors:
+  - Geonwoo Ko
+  - Minseo Jeon
+  - Jinhong Jung
+  First:
+  - Geonwoo Ko
+  - Minseo Jeon
+  - ''
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Notes: []
