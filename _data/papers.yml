@@ -49,6 +49,7 @@
   Notes:
   - note: Received the Samsung Humantech Paper Award (Gold Prize)
     url: ''
+  IMG: ''
 - Date: '2016-12-01T00:00:00.000Z'
   Year: 2016
   Month: 12
@@ -98,6 +99,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2017-03-01T00:00:00.000Z'
   Year: 2017
   Month: 3
@@ -151,6 +153,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2017-05-01T00:00:00.000Z'
   Year: 2017
   Month: 5
@@ -203,6 +206,7 @@
   Notes:
   - note: Received the Samsung Humantech Paper Award (Silver Prize)
     url: ''
+  IMG: ''
 - Date: '2017-12-01T00:00:00.000Z'
   Year: 2017
   Month: 12
@@ -252,6 +256,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2018-04-01T00:00:00.000Z'
   Year: 2018
   Month: 4
@@ -301,6 +306,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2018-10-01T00:00:00.000Z'
   Year: 2018
   Month: 10
@@ -353,6 +359,7 @@
   Notes:
   - note: Received the Samsung Humantech Paper Award (Honorable Mention)
     url: ''
+  IMG: ''
 - Date: '2020-03-01T00:00:00.000Z'
   Year: 2020
   Month: '2019-03-03T15:00:00.000Z'
@@ -401,6 +408,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2021-08-01T00:00:00.000Z'
   Year: 2021
   Month: 8
@@ -449,6 +457,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2022-08-01T00:00:00.000Z'
   Year: 2022
   Month: 8
@@ -498,6 +507,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2023-02-01T00:00:00.000Z'
   Year: 2023
   Month: 2
@@ -549,6 +559,7 @@
     url: https://aaai.org/Conferences/AAAI-23/
   - note: Received the Samsung Humantech Paper Award (Bronze Prize)
     url: https://drive.google.com/file/d/1OWO_Ro23uSKFMfDi66ZfWvm-GYpVhu-L/view?usp=sharing
+  IMG: ''
 - Date: '2023-04-01T00:00:00.000Z'
   Year: 2023
   Month: '2024-04-04T15:00:00.000Z'
@@ -600,6 +611,7 @@
     text: link
     url: https://github.com/kbrother/NeuKron/blob/main/online_appendix.pdf
   Notes: []
+  IMG: ''
 - Date: '2023-12-01T00:00:00.000Z'
   Year: 2023
   Month: 12
@@ -654,6 +666,7 @@
   - note: Selected as one of the best-ranked papers of ICDM 2023 for fast-track journal
       invitation
     url: ''
+  IMG: ''
 - Date: '2024-08-01T00:00:00.000Z'
   Year: 2024
   Month: 8
@@ -705,6 +718,7 @@
     text: link
     url: https://github.com/kbrother/Light-IT/blob/mem_opt/supplement.pdf
   Notes: []
+  IMG: ''
 - Date: '2024-10-01T00:00:00.000Z'
   Year: 2024
   Month: 10
@@ -756,6 +770,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2024-12-01T00:00:00.000Z'
   Year: 2024
   Month: 12
@@ -809,6 +824,7 @@
   - note: Selected as one of the best-ranked papers of ICDM 2024 for fast-track journal
       invitation
     url: ''
+  IMG: ''
 - Date: '2025-06-01T00:00:00.000Z'
   Year: 2025
   Month: 6
@@ -861,6 +877,7 @@
   Notes:
   - note: Received the PAKDD 2025 Best Survey Paper Award
     url: ''
+  IMG: ''
 - Date: '2025-06-01T00:00:00.000Z'
   Year: 2025
   Month: 6
@@ -912,6 +929,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2025-11-01T00:00:00.000Z'
   Year: 2025
   Month: 11
@@ -961,6 +979,7 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
 - Date: '2026-04-01T00:00:00.000Z'
   Year: 2026
   Month: 7
@@ -1010,3 +1029,4 @@
     text: link
     url: ''
   Notes: []
+  IMG: ''
