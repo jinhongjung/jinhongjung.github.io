@@ -1050,3 +1050,53 @@
   Image: link
   Abstract: link
   Notes: []
+- Date: '2026-08-03T00:00:00.000Z'
+  Year: 2026
+  Month: 8
+  Days: 1-3
+  Publisher: test
+  Location: test
+  Venue: test
+  FullVenue: test
+  Title: test
+  BKIF: 0
+  AR: 0
+  BK: 최우수
+  Type:
+  - /
+  Pages: '-'
+  NumAuthors: 1
+  Authors:
+  - test
+  First:
+  - test
+  Corresp:
+  - test
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Image:
+    text: link
+    url: https://drive.google.com/file/d/1w79sUR7DvLL1iZ2IvAl-6o4fgssJUmhP/view?usp=drive_link
+  Abstract:
+    text: link
+    url: https://drive.google.com/file/d/1HgZvt6-QY0D2mlxuBswXSCgT3qIjkAg6/view?usp=drive_link
+  Notes: []
