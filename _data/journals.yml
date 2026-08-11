@@ -43,6 +43,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2019-05-01T00:00:00.000Z'
   Year: 2019
@@ -88,6 +89,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2019-03-01T00:00:00.000Z'
   Year: 2019
@@ -134,6 +136,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2020-05-01T00:00:00.000Z'
   Year: 2020
@@ -181,6 +184,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2020-10-01T00:00:00.000Z'
   Year: 2020
@@ -226,6 +230,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2021-08-01T00:00:00.000Z'
   Year: 2021
@@ -271,6 +276,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2022-03-01T00:00:00.000Z'
   Year: 2022
@@ -317,6 +323,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2023-12-21T00:00:00.000Z'
   Year: 2023
@@ -365,6 +372,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2024-02-24T00:00:00.000Z'
   Year: 2024
@@ -410,6 +418,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2024-10-14T00:00:00.000Z'
   Year: 2024
@@ -458,6 +467,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2025-06-01T00:00:00.000Z'
   Year: 2025
@@ -504,6 +514,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2025-07-11T00:00:00.000Z'
   Year: 2025
@@ -551,6 +562,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2025-09-19T00:00:00.000Z'
   Year: 2025
@@ -599,6 +611,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2026-01-24T00:00:00.000Z'
   Year: 2026
@@ -636,7 +649,7 @@
     url: https://drive.google.com/file/d/1ixdtvOkRCXdpca3H8t9qqVut-3Fq6L44/view?usp=drive_link
   Paper:
     text: link
-    url: ''
+    url: https://drive.google.com/file/d/1ixdtvOkRCXdpca3H8t9qqVut-3Fq6L44/view?usp=drive_link
   Code:
     text: link
     url: ''
@@ -647,6 +660,7 @@
     text: link
     url: ''
   Image: link
+  Abstract: link
   Notes: []
 - Date: '2026-05-04T00:00:00.000Z'
   Year: 2026
@@ -684,15 +698,20 @@
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://arxiv.org/abs/2502.11335
   Code:
     text: link
-    url: ''
+    url: https://github.com/geonwooko/CascadingRank
   Slide:
     text: link
-    url: ''
+    url: https://drive.google.com/file/d/1Zee0d_NrXQrw_WcyAGK19gcQlSK7uxkT/view?usp=drive_link
   Appendix:
     text: link
     url: ''
-  Image: link
+  Image:
+    text: link
+    url: https://drive.google.com/file/d/1ilu-y7ZMETVY0gJJ270dgKK3Pz-xFBkm/view?usp=drive_link
+  Abstract:
+    text: link
+    url: https://drive.google.com/file/d/1akIjUtOJlrblQ4vApRwIYRLHED_o3rdS/view?usp=drive_link
   Notes: []
