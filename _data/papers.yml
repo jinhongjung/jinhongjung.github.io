@@ -1050,3 +1050,58 @@
   Image: link
   Abstract: link
   Notes: []
+- Date: '2026-07-11T00:00:00.000Z'
+  Year: 2026
+  Month: 11
+  Days: 7-11
+  Publisher: ACM
+  Location: Rome, ITALY
+  Venue:
+    text: CIKM
+    url: https://cikm2026.diag.uniroma1.it/
+  FullVenue: International Conference on Information and Knowledge Management
+  Title: Do All Nodes Benefit Equally from Knowledge Graphs? Adaptive Node-Aware KG
+    Fusion for Recommendation
+  BKIF: 4
+  AR: ''
+  BK: 최우수
+  Type:
+  - ''
+  Pages: ''
+  NumAuthors: 6
+  Authors:
+  - Jaehyun Park
+  - Minseo Jeon
+  - Daewon Gwak
+  - Sunuk Kim
+  - Hanvit Lee
+  - Jinhong Jung
+  First:
+  - Jaehyun Park
+  - Minseo Jeon
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Poster:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Image: link
+  Abstract: link
+  Notes: []
