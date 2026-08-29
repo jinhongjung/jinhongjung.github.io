@@ -1014,7 +1014,7 @@
   AR: 0.201
   BK: 최우수
   Type:
-  - /
+  - POSTER
   Pages: '-'
   NumAuthors: 4
   Authors:
@@ -1066,8 +1066,8 @@
   AR: ''
   BK: 최우수
   Type:
-  - ''
-  Pages: ''
+  - ORAL
+  Pages: '-'
   NumAuthors: 6
   Authors:
   - Jaehyun Park

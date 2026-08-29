@@ -21,7 +21,6 @@
     url: https://doi.org/10.8080/1020160183757
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2017-01-11T15:00:00.000Z'
   IssueDate: '2018-06-04T15:00:00.000Z'
   Country: Korea
@@ -46,7 +45,6 @@
     url: https://doi.org/10.8080/1020170005485
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2017-11-09T15:00:00.000Z'
   IssueDate: '2019-11-18T15:00:00.000Z'
   Country: Korea
@@ -71,7 +69,6 @@
     url: https://doi.org/10.8080/1020170149941
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2017-11-17T15:00:00.000Z'
   IssueDate: ''
   Country: PCT
@@ -96,7 +93,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2018-01-18T15:00:00.000Z'
   IssueDate: '2020-01-07T15:00:00.000Z'
   Country: Korea
@@ -121,7 +117,6 @@
     url: https://doi.org/10.8080/1020180007389
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2018-11-27T15:00:00.000Z'
   IssueDate: '2020-05-13T15:00:00.000Z'
   Country: Korea
@@ -146,7 +141,6 @@
     url: https://doi.org/10.8080/1020180149677
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2018-11-27T15:00:00.000Z'
   IssueDate: '2020-11-05T15:00:00.000Z'
   Country: Korea
@@ -172,7 +166,6 @@
     url: https://www.kipris.or.kr/khome/detail/newWindow.do
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2019-11-14T15:00:00.000Z'
   IssueDate: '2021-10-27T15:00:00.000Z'
   Country: Korea
@@ -196,7 +189,6 @@
     url: https://doi.org/10.8080/1020190146716
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2021-07-29T15:00:00.000Z'
   IssueDate: '2023-09-04T15:00:00.000Z'
   Country: Korea
@@ -221,7 +213,6 @@
     url: https://doi.org/10.8080/1020210100987
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2021-12-02T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -246,7 +237,6 @@
     url: https://doi.org/10.8080/1020210172385
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2023-07-26T15:00:00.000Z'
   IssueDate: ''
   Country: PCT
@@ -272,7 +262,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2025-04-06T15:00:00.000Z'
   IssueDate: '2026-04-06T15:00:00.000Z'
   Country: Korea
@@ -297,7 +286,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2024-10-01T15:00:00.000Z'
   IssueDate: '2025-10-23T15:00:00.000Z'
   Country: USA
@@ -322,7 +310,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2025-02-02T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -347,7 +334,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2025-02-02T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -374,7 +360,6 @@
     text: link
     url: https://drive.google.com/file/d/1t3jTHYor1yMve69ABfAvy1TH6YKBcSvT/view?usp=drive_link
   Patent: link
-  Related Work: ''
 - FilingDate: '2025-02-02T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -402,7 +387,6 @@
     text: link
     url: https://drive.google.com/file/d/1V0q0ywlXF3Gu3684e4o2fvmy9n5uiXJS/view?usp=drive_link
   Patent: link
-  Related Work: ''
 - FilingDate: '2026-01-28T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -426,7 +410,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2026-01-28T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -451,7 +434,6 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: ''
 - FilingDate: '2026-07-20T15:00:00.000Z'
   IssueDate: ''
   Country: Korea
@@ -477,4 +459,3 @@
     url: ''
   Application: link
   Patent: link
-  Related Work: AlphaFree (WW)
