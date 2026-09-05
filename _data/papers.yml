@@ -961,7 +961,7 @@
   Title: 'PIGLET: Probabilistic Message Passing for Semi-supervised Link Sign Prediction'
   BKIF: 3
   AR: 0.135
-  BK: 우수
+  BK: 최우수
   Type:
   - ORAL
   Pages: '-'
@@ -1062,7 +1062,7 @@
   FullVenue: International Conference on Information and Knowledge Management
   Title: Do All Nodes Benefit Equally from Knowledge Graphs? Adaptive Node-Aware KG
     Fusion for Recommendation
-  BKIF: 4
+  BKIF: 3
   AR: ''
   BK: 최우수
   Type:
@@ -1089,7 +1089,7 @@
     url: ''
   Paper:
     text: link
-    url: ''
+    url: https://drive.google.com/file/d/1tVcBugw-VmKytbgaRdZfx4qvnQ66Lnzx/view?usp=sharing
   Code:
     text: link
     url: ''
