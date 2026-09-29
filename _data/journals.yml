@@ -715,3 +715,51 @@
     text: link
     url: https://drive.google.com/file/d/1akIjUtOJlrblQ4vApRwIYRLHED_o3rdS/view?usp=drive_link
   Notes: []
+- Date: ''
+  Year: ''
+  Month: ''
+  Days: ''
+  Publisher: IEEE
+  Location: USA
+  Venue:
+    text: Access
+    url: https://ieeeaccess.ieee.org/
+  FullVenue: IEEE Access
+  Title: 'Revisiting Classic Graph Neural Networks for Hypergraph Node Classification:
+    An Extensive Empirical Study'
+  IF: 3.557
+  ISSN: ''
+  VOL: ''
+  'NO': ''
+  Pages: ''
+  NumAuthors: 4
+  Authors:
+  - Daewon Gwak
+  - Jaehyun Park
+  - Sunuk Kim
+  - Jinhong Jung
+  First:
+  - Daewon Gwak
+  Corresp:
+  - Jinhong Jung
+  DOI:
+    text: link
+    url: ''
+  BIB:
+    text: link
+    url: ''
+  Paper:
+    text: link
+    url: ''
+  Code:
+    text: link
+    url: ''
+  Slide:
+    text: link
+    url: ''
+  Appendix:
+    text: link
+    url: ''
+  Image: link
+  Abstract: link
+  Notes: []
