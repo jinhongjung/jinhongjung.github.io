@@ -715,10 +715,10 @@
     text: link
     url: https://drive.google.com/file/d/1akIjUtOJlrblQ4vApRwIYRLHED_o3rdS/view?usp=drive_link
   Notes: []
-- Date: ''
-  Year: ''
-  Month: ''
-  Days: ''
+- Date: '2026-09-01T00:00:00.000Z'
+  Year: 2026
+  Month: 9
+  Days: 30
   Publisher: IEEE
   Location: USA
   Venue:
