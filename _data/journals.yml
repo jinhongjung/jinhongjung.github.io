@@ -760,6 +760,8 @@
   Appendix:
     text: link
     url: ''
-  Image: link
+  Image:
+    text: link
+    url: https://drive.google.com/file/d/1O-oZE-o3q-zGaDisF1b042QsFXfLCECA/view?usp=drive_link
   Abstract: link
   Notes: []
